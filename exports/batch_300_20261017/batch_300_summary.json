@@ -1,0 +1,12 @@
+{
+  "batch_id": "AW300-20261017-1500",
+  "date_ist": "2026-10-17",
+  "total_companies": 300,
+  "total_contacts": 603,
+  "deliverable_person_emails": 125,
+  "categories": {
+    "Compute Brokering": 100,
+    "Data": 100,
+    "Data Brokering": 100
+  }
+}

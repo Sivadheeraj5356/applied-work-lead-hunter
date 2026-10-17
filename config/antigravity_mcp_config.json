@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "apollo": {
+      "serverUrl": "https://mcp.apollo.io/mcp"
+    },
+    "tavily": {
+      "serverUrl": "https://mcp.tavily.com/mcp"
+    }
+  }
+}

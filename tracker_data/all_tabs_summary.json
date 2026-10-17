@@ -1,0 +1,72 @@
+{
+  "Data": {
+    "gid": "156275556",
+    "rows": 9132,
+    "bytes": 1695830,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Data_156275556.csv",
+    "header": ",,,,,,,,,,,,,,,,,,,,,,,,,"
+  },
+  "Data Brokering": {
+    "gid": "1346198609",
+    "rows": 8859,
+    "bytes": 1725621,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Data_Brokering_1346198609.csv",
+    "header": ",,,,,,,,,,,,,,,,,,,,,,,,"
+  },
+  "Compute Brokering": {
+    "gid": "1773397198",
+    "rows": 7825,
+    "bytes": 1432948,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Compute_Brokering_1773397198.csv",
+    "header": ",,,,,,,,,,,,,,,,,,,,,,,,"
+  },
+  "Data Summary": {
+    "gid": "910001",
+    "rows": 256,
+    "bytes": 339632,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Data_Summary_910001.csv",
+    "header": ",,,,,,,"
+  },
+  "Data Brokering Summary": {
+    "gid": "910002",
+    "rows": 172,
+    "bytes": 236662,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Data_Brokering_Summary_910002.csv",
+    "header": ",,,,,,,"
+  },
+  "Compute Brokering Summary": {
+    "gid": "910003",
+    "rows": 173,
+    "bytes": 223699,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Compute_Brokering_Summary_910003.csv",
+    "header": ",,,,,,,"
+  },
+  "linkeldn": {
+    "gid": "910004",
+    "rows": 2145,
+    "bytes": 517259,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\linkeldn_910004.csv",
+    "header": "Priority,Company,Category,Person,Role / historical affiliation,LinkedIn profile(s),X profile(s),Person/selected email candidate,Company email candidate,Profile evidence status,Email verification,Live outreach stage,Original tracker reference,Hold / next action,Evidence source,Checked date IST"
+  },
+  "Daily Research Log": {
+    "gid": "910005",
+    "rows": 15,
+    "bytes": 15856,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Daily_Research_Log_910005.csv",
+    "header": "Discovery date IST,Batch ID,Category,Research target,New source qualified,Two named candidates,Valid person addresses,Valid business channels,Published person emails,Published business emails,Accounts on HOLD,Research remaining,Missing two contacts,Evidence grades,Main tab rows,Source example,Checked IST,Notes and next actions"
+  },
+  "Daily Signals": {
+    "gid": "910006",
+    "rows": 115,
+    "bytes": 88809,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Daily_Signals_910006.csv",
+    "header": "Signal ID,Checked IST,Category,Company,Domain / parent,Orientation,Evidence grade,Actual event date,Freshness,Source type,Original source URL,Author / source owner,Short source excerpt,Requirement / observed trigger,Contact 1 and role,Contact 1 profile,Contact 2 and role,Contact 2 profile,Published company email,Published person email,Publication / role sources,Verification / history,Canonical main row,Record status,Hold and next action,Discovery marker / batch"
+  },
+  "Email Enrichment Queue": {
+    "gid": "910007",
+    "rows": 1416,
+    "bytes": 922927,
+    "file": "C:\\Users\\E-siva-dheeraj\\applied-work\\tracker_data\\Email_Enrichment_Queue_910007.csv",
+    "header": "Priority,Category,Company,Canonical tracker row,Employer domain,Exact candidate name,Role / title evidence,LinkedIn / role sources,Apollo person ID if returned,Action status,Maximum reveal credits,Next action,Existing business inbox,Existing person inbox,Free lookup result,History coverage / hold,Checked IST,Review batch,Company / signal sources,Notes / restrictions"
+  }
+}
