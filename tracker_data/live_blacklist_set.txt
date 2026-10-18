@@ -1,14 +1,325 @@
+0 failed/distressed founder
+0 historical failed founder / assets transferred
+0 historical founder / parent-owned wind-down
+0 rights authority / administration
 01.ai
+1 failed/distressed account
+1 founder / regional exit, group active
+1 verified executive
 100h labs
 1010data
 10x science
+1547 Critical Systems
 1datapipe
 1x technologies
+2 alternate contact
+3 other linkedin lead
 42dot
 4basecare
+568
+637
+660
 6thsense
 83 sciences
+ACTS Testing
+ADSB Exchange
+AI Singapore Research
+ALS Limited
+Ada Support Platform
+Aenova Group
+Aether Biomachines
+AgentOps
+AirTrunk Hyperscale
+Alignerr Platform
+Almac Group
+Ambi Robotics
+Amino Health
+Anju Software
+Anki Robotics
+Anyline
+Applus Services
+Arcadia.io
+Argo AI
+Arize Phoenix
+Arrival
+Atomic AI RNA
+AutoStore Systems
+Availity
+BDx Datacenters
+BSI Group
+Bachem
+Bagel Network
+Berkshire Grey AI
+BharatGPT CoRover
+BioAgilytix
+Bird Global
+BlackSky Global
+Built Robotics
+Bulk Infrastructure
+COTA Healthcare
+Cake Electric Bikes
+Cambrex
+Canvas Construction
+Capella Space
+CareJourney
+CastAR
+Catalent
+Change Healthcare
+Charm Therapeutics
+Chindata Group
+Civils.ai Platform
+Clarify Health
+Clarivate Life Sciences
+Clark Testing
+Clickworker
+Clubhouse
+Cologix Interconnect
+Colt Data Centres
+ConcertAI
+Consensus Research
+CordenPharma
+CoreSite Realty
+Cotiviti
+Cradle Bio Design
+Cstream Cloud
+Curia Global
+CyrusOne Hyperscale
+DNV GL
+Daqri
+Data Canopy
+DataForce TransPerfect
+DataGen
+Datacom Cloud
+Datavant
+Dayton T Brown
+DeepBench
+DeepEval
+DeepX Silicon
+Definitive Healthcare
+Delpharm
+Descartes Labs
+Dishman Carbogen
+Doppler Labs
+Drive.ai
+Dusty Robotics
+Dyno Therapeutics
+EagleView
+EdgeConneX EQT
+Element Materials
+ElevenLabs Voice
+Endel Sound
+Essential Products
+Eurofins Scientific
+Evidation Health
+Evidently AI
+Evoque Data Centers
+Evotec
+Exotec Skypod
+Expedient Cloud
+Experian Health
+FAIR Health
+Fareva
+Fast.co
+Fizyr Robot Vision
+Flatiron Health
+Flexential Datacenters
+Flexport Datasets
+FlightAware
+Flightradar24
+Forethought AI
+FourKites
+FreightWaves SONAR
+Frontage Laboratories
+FuriosaAI
+GDS Holdings
+GHGSat
+Geekplus Logistics
+GenRocket
+Genesis Therapeutics
+Gideon Brothers
+Green Mountain Norway
+GreyOrange Systems
+H5 Data Centers
+Health Catalyst
+HealthVerity
+Helicone
+Hexagon Geospatial
+HiddenLayer
+HostDime Global
+Hovione
+Hyperloop One
+ICEYE Radar
+IQVIA Data
+Inceptive Bio
+Innovaccer
+Inovalon
+Intertek Testing
+Jawbone Health
+Jibo
+Jubilant Life Sciences
+KBI Biopharma
+Kangaroo Health
+Kano Computing
+Kao Data UK
+Kayrros
+Keppel Data Centres
+Kitty Hawk
+Kiwa Group
+Komodo Health
+Kosen Labs
+Kotoba Translation
+LabGenius
+Langdock
+Langfuse
+Lantern Health
+Lefdal Mine Datacenter
+LendUp
+Level AI Contact
+LexisNexis Health
+Leya Legal AI
+Light.co
+Lincoln Rackhouse
+Locus Robotics
+Lonza Group
+Lordstown Motors
+Lytro
+Maincubes Datacenters
+MarineTraffic
+Mayfield Robotics
+Medpace
+Mercor Talent
+Merieux NutriSciences
+Microblink
+Micromobility.com
+Micropsi Industries
+Milliman MedInsight
+Mindgard
+Mmhmm
+Mobilint Accelerator
+Mujin Controller
+NEXTDC Australia
+National Technical Systems
+Navya
+Nemko Group
+Netrality Data Centers
+NeuReality AI
+Neuromation
+NodeWeave Edge
+ODG Glasses
+OTTO Motors Fleet
+Oneforma Platform
+OpenPipe
+OpenSky Network
+Orbital Insight
+Osaro Picking
+Otto Aviation
+Overhaul
+Oxford Semantic
+Pace Analytical
+Pactera EDGE
+Palo Alto Software
+Parexel
+Patheon Services
+Pearl Automation
+Peptone Proteins
+Phantom Auto
+PicnicHealth
+Piramal Pharma Solutions
+PokitDok
+Portkey AI
+PostEra Chemistry
+Premier Research
+Princeton Digital
+Prognos Health
+PromptArmor
+PromptLayer
+Protect AI
+Pulsant UK Datacenters
+Q2 Solutions
+Quirky
+RINA Services
+RS Metrics
+Ragas AI
+Reach Robotics
+Real Chemistry
+Rebellions AI
+Recipharm
+Remotasks Platform
+Rendered.ai
+Replicant Voice
+Rethink Robotics
+Ribbon Health
+RightHand Robotics
+Royole Displays
+STT GDC Global
+Sabey Data Centers
+Satellogic
+ScaleMatrix Green
+SciSpace Typeset
+Seegrid Industrial
+Serverfarm Datacenters
+Shiru Bio Protein
+Siegfried Holding
+Silo AI Enterprise
+Simulations Plus
+Sirin Labs
+SkyEngine AI
+Smithers Group
+Soft Robotics Grippers
+Sondors
+Spaceknow
+Spellbook Legal
+Sphero
+Standigm AI
+Starsky Robotics
+Sterling Pharma
+Stockmark AI
+Superpedestrian
+Switch Citadel
+Syapse
+Symbotic Warehouse
+Symphony Health
+Syneos Health
+SynthLabs
+Syntho
+T5 Data Centers
+TUV NORD
+TUV Rheinland
+TUV SUD
+Telehouse KDDI
+Thalmic Labs
+TierPoint Colocation
+Tofu AI
+TriNetX
+Turquoise Health
+UL Solutions
+Ursa Space Systems
+Valence Discovery
+VanMoof
+Vana
+Vecna Robotics
+Vellum AI
+Verana Health
+Verne Global Iceland
+VesselFinder
+Vetter Pharma
+Vexcel Imaging
+Vijil AI
+Vnet Group
+Volansi
+Volocopter
+Waystar
+Webair Cloud
+Welocalize AI
+Worldwide Clinical Trials
+Wrtn Technologies
+Xeneta
+YData
+Zephyr Health
+Zume Pizza
+Zumo Labs
 aar healthcare
+abacus.ai
 abbott | reed
 abridge
 absci
@@ -26,10 +337,12 @@ advan research
 aelex
 aemon
 aethir
+aeva
 africa api
 africa healthcare network
 afridata labs
 afyanalytics
+aga khan university hospital
 agence france-presse (afp)
 agibot
 agility
@@ -37,9 +350,11 @@ agility robotics
 agilus diagnostics
 ai enzine
 ai hay
+ai2 (allen institute for ai)
 ai21 labs
 ai71
 aidoc
+aidoc medical
 aignostics
 aimleap
 aindo
@@ -50,11 +365,14 @@ airco mechanical
 aixplain
 ak solutions
 akash network
+akili interactive (restructured digital therapeutics)
 al tamimi & company
 al-wadood solutions
 alaan
 alchedata
+alef aeronautics (flying car aerospace engineering data)
 alegra
+aleph alpha
 alerzo
 alibaba 阿里巴巴 / qwen
 alice
@@ -82,6 +400,7 @@ anam
 anderson materials evaluation
 andes path
 andovar
+anki (liquidated consumer ai robotics)
 annolance
 annolance ai
 annolance ai (cad licensing signal)
@@ -90,10 +409,13 @@ anote
 anthropic
 antropi robotics
 anyscale
+anyscale labs
 anysphere (cursor)
 apisetu
 apollo agriculture
 apollo hospitals
+apollo hospitals group
+appen enterprise
 appen 奥鹏
 applause
 applied digital
@@ -106,9 +428,11 @@ aragon ai
 aramex
 arcee ai
 argaam
+argo ai (shuttered assets)
 argo ai (shuttered by ford/vw)
 arimlabs
 arize ai
+arrival (uk administration / commercial ev)
 arthur ai
 arva ai
 aseon
@@ -126,6 +450,7 @@ audioshake
 augment code
 aumet
 auravon ai
+automata / braid (liquidated)
 automata / braid (shuttered)
 autoresearch, inc. / hiloop
 avataar
@@ -137,7 +462,9 @@ axa mansard
 axe compute
 axiom math
 aya data
+aya data medical
 azb & partners
+babylon health (bankruptcy / chapter 11)
 babylon health (bankruptcy)
 bahri
 baichuan
@@ -147,6 +474,7 @@ barg info solutions
 barnum and celillo electric
 basecamp research
 baseten
+baseten ai
 basicai
 battlefin
 bauer media
@@ -159,19 +487,26 @@ belvo
 benchflow
 bergelectric
 bespoke labs
+better.com (post-spac restructuring)
 betterdata
+betterdata ai
 beyond presence
 bezi
 bharatsure
+bicycle health (behavioral health restructuring)
 bidvest international logistics
 bioptimus
 bird (chapter 11)
+bird global (chapter 11 post-bankruptcy)
 bitdeer
 bito
+bito developer
 bjak
 black forest labs
 blackshark.ai
+blaize
 blend
+blockfi (chapter 11 liquidation)
 bloomberg
 blue dart express
 bluelearn
@@ -183,20 +518,25 @@ boomy
 boost.ai
 booster robotics
 bos sheet metal
+bossa nova robotics (liquidated retail vision)
 bosta
 boston dynamics
 bowery valuation (restructuring)
 bowmans
 braintrust
+braintrust data
 brass
 bria
 bright data
+bright data datasets
 britam
+broadway mechanical
 bruker
 buk
 bumrungrad hospital
 bureau veritas
 burn manufacturing
+byju's (think & learn - insolvency proceedings)
 byntrava
 bytedance 字节跳动
 callosum
@@ -206,16 +546,24 @@ canopy wave
 canva / leonardo ai
 captions
 carapis
+carbon health (urgent care clinic downsizing)
 cardboard
 carepay
 carey
 cartesia
 cartwheel
+casetext (thomson reuters)
+casper sleep (take-private restructuring)
+category / focus
+cazoo (restructuring / asset wind-down)
 cbre data centers
 cedarcrest hospitals
+celestial ai
 celltype
 centaur labs
 centml
+cerebral (restructuring)
+cerebras systems
 cerebrium
 cerence ai
 cescon barrieu
@@ -228,6 +576,7 @@ cirrascale
 cisco foundation ai
 clara
 clara health
+clara health data
 clarifai
 clarke and rush
 claru
@@ -238,6 +587,7 @@ clinicas del azucar
 clinikk
 cloudfactory
 cloudnium
+clubhouse (alpha exploration - audio social distress)
 clueso
 clusterbid / beepweep
 clusterneuron llp
@@ -246,6 +596,7 @@ coactive ai
 coarena
 cobre
 coderabbit
+coderabbit ai
 cogito tech
 cognegica networks
 cognex corporation
@@ -256,17 +607,27 @@ cohere
 cohesionx
 collinear ai
 comet yxlon
+comfort systems usa
+common crawl
+company
+company data broker
+company data broker / commercial data
 compute concierge
 compute exchange / tcex
 concentrix
 conexa
 confident ai
+confident ai (deepeval)
 consumer edge
+consumer edge intelligence
 conta azul
 conta simples
 contextual ai
+continue dev
 continue.dev
+convoy (asset sale & wind-down)
 convoy (wind-down / asset sale)
+copia global (in liquidation)
 copia kenya
 copia kenya (in liquidation)
 copia kenya limited (in liquidation)
@@ -275,8 +636,11 @@ core42
 coreweave
 corover
 cortex ai
+cortex labs
 corti
 cosine
+cosine genie
+courtlistener (free law project)
 covariant
 covelabs.ai
 cradle
@@ -291,15 +655,19 @@ crosby
 crusoe
 crusoe energy
 cudo compute
+cue health (chapter 7 liquidation / diagnostics)
 cumulus labs
 cupertino electric
 curacel
+cursor / anysphere labs
 cuspai
 cvat.ai
 cyril amarchand mangaldas
 d-id
+d-matrix
 daedalean
 daftra
+dagger labs
 dali geotech
 damco solutions
 data race
@@ -307,12 +675,14 @@ data4
 databank
 databazaar
 databricks
+databricks mosaicml data
 datacurve
 dataforce by transperfect
 datalens africa
 dataloop
 datamarketplace.io
 dataminr
+dataminr signals
 datamundi
 dataocean ai 海天瑞声
 dataone asia thailand
@@ -326,6 +696,7 @@ datavlab
 datax power
 datologyai
 datomize
+datomize ai
 datoric
 datum africa
 david ai
@@ -337,6 +708,7 @@ decagon
 decart
 decart ai
 deccan ai
+deccan ai stem
 decentro
 deep blue integration
 deep cogito
@@ -344,6 +716,7 @@ deep render
 deep robotics
 deep vision data / kinetic vision
 deepannotate.ai
+deepbench (expert network interview library)
 deepchecks
 deepcure
 deepdub
@@ -364,6 +737,7 @@ destro ai
 dext
 dexterity
 dhvani ai
+dhvani ai audio
 dhvani.ai
 digital energy
 digital realty
@@ -371,6 +745,7 @@ digitalocean
 digituala
 diligent robotics
 discovery limited
+distressed tech asset / data brokering
 distyl ai
 dobot robotics
 docket
@@ -382,9 +757,11 @@ dr lal pathlabs
 dr.consulta
 drain doctors plumbing
 drongo ai
+drongo ai clinical
 drugstoc
 dtdc express
 dubverse
+dubverse naturalness
 dun & bradstreet
 dust
 dvara e-registry
@@ -393,12 +770,14 @@ dynamo ai
 e-solutions
 e2e networks
 e2f
+eStruxture Data Centers
 eag laboratories
 eagle alpha
 earnest analytics
 ec innovations
 edotenv
 efishery (estate/entity unresolved)
+efishery (restructuring / asset sale)
 efishery (restructuring)
 egodata
 egoscale
@@ -409,26 +788,37 @@ elastic
 electricraft
 electricraft inc.
 element
+eleutherai data research
 elevenlabs
+email contacts
+embark trucks (liquidated / autonomous assets)
 emergence ai
 emergent
 emsl analytical
 emulated
 enact
 encord
+encord ai
+enfabrica
 enjoy technology (liquidated)
 enlitic
+enlitic intelligence
 ens
 envariant
 enveda
 envisionit deep ai
 epoka
 equinix
+esperanto technologies
 essential ai
+essential products (ambient os & smartphone shuttered)
 etched
+etched.ai
 ethiopian airlines group / ethiopian mro
+eve sleep (administration)
 evenup
 evisort
+evisort contracts
 evolutionaryscale
 ewi
 exabel
@@ -436,17 +826,24 @@ exl
 expertise solutions
 exponent
 extruct ai
+extruct ai data
 fable data
+fable studio / showrunner (ai simulation distress)
 facteus
+facteus financial data
 factory
+factory ai
 factset
 fair (restructured)
+fair.com (restructured)
 fal
 familiar
 family film
 faraday
 fashn ai
 fast (shuttered)
+fast checkout (shuttered)
+fastcase / vlex
 fastino
 fern
 fern / ishiki labs
@@ -455,6 +852,7 @@ fidson healthcare
 field ai
 fieldai
 figure
+figure ai
 finanshels
 finerio connect
 finn plumbing
@@ -464,8 +862,10 @@ fireworks ai
 firsthand
 firstsource
 fish audio
+fisker inc. (chapter 11 bankruptcy / ev automotive)
 fixxa
 fleet ai
+flex logix
 flexential
 flexion robotics
 flikforge
@@ -475,19 +875,25 @@ flywheel.io
 foodcourt / cokitchen
 forage ai
 form design build
+formlabs dental (asset carveout)
 fortis healthcare
+forward health (asset sale / restructuring)
 fourier
+frank (financial aid platform / liquidated)
 freed
 freelancers group of international
 freepik
 friendliai
+frontier car group (acquired / shuttered)
 frontrow
 fusion cx
 future agi
+g42 / inception
 galaxea dynamics
 galbot
 galicia abogados
 galileo
+galileo ai evals
 gaura nitai technologies
 gcore
 gebbs healthcare solutions
@@ -500,13 +906,17 @@ generate biomedicines
 genesis cloud
 genesis molecular ai
 genillect
+genmo
 genpact
 gensyn
 geo int africa
 geopoll
 gertrude's children's hospital
+getaround (restructured carsharing)
 getty images
 ghn / giao hang nhanh
+ghost autonomy (shuttered / assets available)
+ghost robotics
 gigbanc
 giskard
 gladia
@@ -516,17 +926,21 @@ global scale by cloudadvise
 global switch
 gmi cloud
 gnani.ai
+gnani.ai speech
 golemon
 golpo
 good start labs
 goodfire
 goodlife pharmacy
 google deepmind
+google deepmind (former boston dynamics)
 goto
 gpu mart
 gpu rental group
 grant thornton bharat
+graphcore
 gravy analytics
+gravy analytics data
 green mountain
 greptile
 gretel.ai
@@ -538,6 +952,7 @@ gwc / gulf warehousing
 h company
 habiledata / hitech digital
 hadef & partners
+hailo technologies
 haiper
 haize labs
 halluminate
@@ -549,6 +964,7 @@ hapvida notredame intermédica
 harris construction
 harvey
 hazy
+hazy synthetic
 healthians
 healthplix
 healthplus nigeria
@@ -558,9 +974,12 @@ hebbian robotics
 hedra
 heidi health
 helium health
+helix electric
+helm.ai
 helsing
 here technologies
 hermai
+hetzner online
 heygen
 higgsfield ai
 hilab
@@ -570,25 +989,32 @@ hippocratic ai
 holistic ai
 homburger
 honeyhive
+hopster (liquidated edtech)
 horizon robotics
 hostedai, inc. / packet.ai / gpuaas.com
+housecanary (restructuring / asset licensing)
 housecanary (restructuring)
 huawei noah's ark lab
 huft home services
 hugging face
+hugging face datasets
 human archive
+humane (struggling ai pin / assets for sale)
 humanloop
 humanoid
 humans in the loop
 humans&
 hume ai
 humyn labs
+humyn labs code evals
 hurixdigital
 hut 8
 huzzle labs
 hydra host
 hyperbolic
+hyperbolic labs
 hyperfusion
+hyperloop one (liquidated assets)
 hyperloop one (liquidated)
 hyperscience
 hyperstack
@@ -637,8 +1063,13 @@ intouchcx
 intrinsic
 intron
 intron health
+intron health speech
 invisible tech
 invisible technologies
+invision (design collaboration full shutdown)
+invision (shuttered / winding down)
+invitae (chapter 11 / genetic variant data)
+inworld ai
 io-ai
 io.net
 iren
@@ -648,6 +1079,8 @@ ison xperiences
 iudx
 j&t express
 jarvislabs
+jasper ai (enterprise copywriting layoffs / distress)
+jibo (liquidated social robot telemetry)
 jina ai
 jiviai
 jll data center solutions
@@ -657,37 +1090,51 @@ jsa advocates & solicitors
 jsl / simpar
 jua
 jubilee holdings
+judicata (fastcase)
 jumo
 juro
 jusbrasil
 jusfy
 jw mcclenahan
+k health primary care
 k2view
+k2view synthetic
 kaedim
+kaedim (3d mesh ai training datasets)
+kahun medical ai
+kaiber
 kailash labs
 kakao
 kalpa labs
 kamino
+kangaroo health (remote patient monitoring telemetry)
 kao data
 kaplan & stratton
 karya
 katerra (liquidated)
+katerra construction (liquidated assets)
 kavak
 kenya airways / kq mro
 kerry logistics / sf holding
+kespry (liquidated drone photogrammetry)
 keyence corporation
 keyframe labs
 keymakr
 khaitan & co
+kidadl (liquidated / asset sale)
 kili technology
 kims hospitals
 kind humanoid
 kindo ai
 kinetic blocks
 kinetix
+kitty hawk (liquidated evtol telemetry)
+klap ai
+klinik healthcare solutions
 klinik pintar
 klu
 klydo
+kneron
 knowlify
 kochhar & co
 kognic
@@ -698,13 +1145,16 @@ konfio
 konst / glows.ai
 koo
 kore.ai
+kosen labs (defi reinforcement learning shuttered)
 kotoba technologies
 kpj healthcare
 krea
 krea ai
 krutrim
 krutrim / ola krutrim
+krutrim indic
 kudo
+kudo translation
 kueski
 kugelaudio
 kuinbee
@@ -715,20 +1165,25 @@ label your data
 labelbees
 labelbox
 labelbox / prism
+labelbox platform
 labellerr
 laboratory testing inc.
 lagoon hospitals
 lakera
 lalamove
 lambda
+lambda labs
 lami
 lamina labs
 lamini
+lamini ai
 lancet laboratories
 landingai
 langchain
+langfuse observability
 langsmith
 languagewire
+lantern (digital cognitive behavioral therapy shuttered)
 latchbio
 latent labs
 latent technology
@@ -737,12 +1192,14 @@ latticeflow ai
 laurel
 lawson mechanical
 lawtoolbox
+lawtoolbox rules
 le monde group
 leadway assurance
 legalon technologies
 legora
 lelapa ai
 lemon slice
+lendup (consumer credit underwriting ml telemetry)
 lepton software
 lg ai research
 liblibai
@@ -750,11 +1207,14 @@ libra robotics
 life healthcare
 lifestores healthcare
 lifewood data technology ltd.
+light.co (light labs - liquidated computational photography)
+lightmatter
 lightning ai / voltage park
 lighton
 lightricks
 lightwheel
 lila sciences
+lilium (insolvency proceedings / evtol aerospace)
 lilt
 limestone networks, inc.
 limx dynamics
@@ -768,9 +1228,13 @@ liquid ai
 livestock wealth (pty) ltd
 lnt & partners
 lobotek business services
+locomation (shuttered / autonomous convoy)
+loom (atlassian asset integration)
 looplex
+lordstown motors (chapter 11 / electric trucks)
 lovable
 lovo ai
+lovo ai studio
 lseg
 lts group
 lucid
@@ -779,6 +1243,7 @@ luel
 lulalend / lula
 luma ai
 luminance
+luminance legal
 luzia
 lxt
 m-kopa
@@ -786,16 +1251,20 @@ m-tiba
 m47 labs
 macgence
 machado meyer
+made.com (administration / brand sold)
 magic ai
 magic data 晴数智慧（原爱数智慧）
+magnific ai
 magpie iq
 mahindra logistics
 maingen
 maino construction
 maisha meds
 mango ai
+manipal hospitals
 mansa api
 mansa markets
+marelich mechanical
 maritaca ai
 mark iii construction
 markov
@@ -804,21 +1273,26 @@ massed compute
 mater hospital kenya
 matic
 matouk bassiouny
+matternet (struggling medical drone logistics)
 mattos filho
 matx
 mavy edusolutions
 max healthcare
 maxicus
 maxim ai
+may mobility (autonomous shuttle restructuring)
 mbodi ai
 mccrone associates
 md.ai
 mdaas global
 mdclone
+mdclone health
 measurable ai
 mechanize
 mecka
 mecka ai
+mecka robotics data
+medanta the medicity
 medcorpora
 medefer
 medgenome
@@ -841,6 +1315,7 @@ metropolis healthcare
 mgp coatings
 micro1
 micromeritics
+micromobility.com / helbiz (e-scooter telemetry liquidation)
 midcentury
 midjourney
 milaha / qatar navigation
@@ -849,7 +1324,9 @@ mimic robotics
 mimix
 mind robotics
 mindkosh
+mindrift
 mindstone
+mindstrong health (liquidated biomarkers)
 minerva humanoids
 minimax
 mirage (formerly captions)
@@ -857,9 +1334,13 @@ miraxis ai
 mistral ai
 mistras group
 mitchell cotts group
+mmhmm (virtual presentation video telemetry)
+moda operandi (restructured)
 modal
+modal cloud
 modal labs
 modelbest
+modular
 modulate
 mohamed yousuf naghi group / arabian trading supplies
 momenta
@@ -883,11 +1364,15 @@ msci
 multiverse computing
 munito ai
 murf ai
+murf ai studio
 mydawa
+mythic ai
 mytron labs
 nabla
+nairobi hospital
 nalandadata
 naluri
+naluri life health
 naqel express / saudi post spl
 naradatum
 narayana health
@@ -895,10 +1380,13 @@ narrative
 nasdaq alternative data
 national microgrid
 naver cloud
+navina ai
+navya (french autonomous shuttle receivership)
 ndea
 ndotlight
 ndt global
 nebius
+nebius group
 nebula alpha
 neevcloud
 neon
@@ -937,6 +1425,7 @@ nuance labs
 nubank
 numeric / two ai
 nuro
+nurx (thirty madison asset carveout)
 nuuduu
 nuvemshop
 nvidia
@@ -946,21 +1435,25 @@ objectways
 observe.ai
 ocal
 octoai
+octoml / octoai
 ocular ai
 odyssey
 olaniwun ajayi
+olive ai (in liquidation / healthcare automation)
 olive ai (liquidated assets)
 omega healthcare management services
 omie
 omnysys solutions
 one robot
 oneforma / centific
+oneforma by centific
 ooak data
 oort
 openai
 openart
 opendatabay
 openhands / all hands ai
+openlayer evaluation
 oracle ai
 oraro & company advocates
 orbis infrastructure
@@ -969,6 +1462,7 @@ ori
 origami robotics
 osmosis
 osseus
+outcome health (liquidated clinical advertising)
 outlier ai
 owkin
 owow talents
@@ -976,8 +1470,11 @@ ozow
 p&j research
 pacific heating and sheet metal
 pacific rim mechanical
+palo alto software (liveplan small business financials)
 pan-pacific mechanical
+papercup (ai dubbing layoffs / restructuring)
 parallel domain
+parallel domain data
 pareto ai
 parloa
 parsewave
@@ -986,19 +1483,26 @@ pathai
 pathcare south africa
 patronus ai
 paxton ai
+paxton ai legal
 peach payments
+pear therapeutics (chapter 11 / digital therapeutics)
 pearson
+pebble / core health (liquidated wearable biomarkers)
 penda health
 people for ai
 perch homes (acquired / wound down)
+perch homes (wound down)
 perfectbit
 perfios
 periodic labs
 perit.ai
 perplexity
+perplexity ai
 persona ai
+phantom auto (shuttered teleoperation assets)
 pharmarack
 pharmeasy
+phind
 photoroom
 phrase
 physical intelligence
@@ -1017,7 +1521,9 @@ pleias
 pluralis research
 policybazaar
 polyai
+polyai telephony
 polymath robotics
+polymath robotics data
 polyshares
 poolside
 positron ai
@@ -1030,6 +1536,7 @@ preference model
 preferred networks
 premier hospital kenya
 prime intellect
+prime trust (chapter 11 / custodial datasets)
 primordiant
 prisa media
 prismax
@@ -1043,18 +1550,22 @@ prompt security
 promptfoo
 proprio robotics
 protege
+proterra (chapter 11 / fleet battery systems)
 proven companies
 proximal
 pula
 qashio
 qodo
 qodo / codiumai
+qodo integrity
 quaglino roofing
 qualitest
 quandoo / recruit holdings
 qubehealth
 qubrid ai
+quibi (liquidated ip & video)
 quibim
+quibim imaging
 quick annotate
 quickcommercedata
 quotecolo
@@ -1063,6 +1574,7 @@ qwestlab / kumu
 r and m painting
 r-jolad hospitals
 r. mckinley construction
+rabbit inc. (struggling lam / hardware distress)
 radimagenet
 radixark
 raffles medical group
@@ -1083,6 +1595,7 @@ reddington hospital
 rednote / xiaohongshu
 reducto
 refact.ai
+refact.ai smalltalk
 reflection ai
 reframe data services
 reka ai
@@ -1092,16 +1605,20 @@ relevance ai
 reliance health
 reliant ai
 remedial health
+renofi (distressed / restructured)
 renofi (distressed)
 replicate
 replika
 replit
 resemble ai
+resemble ai watermark
 retell ai
 reuters
 reve
 reverie
 reverie language
+reverie language localization
+rewind ai / limitless (wearable pendant distress)
 rhesis ai
 rhizome ai
 rhoda ai
@@ -1113,9 +1630,11 @@ rigaku
 rilith
 rime
 rivian
+rivos
 rj lee group
 rlwrld
 robin ai
+robin ai legal
 robocurve
 roboflow
 roborecs
@@ -1134,6 +1653,7 @@ royal electric company
 rsm india
 rtt logistics
 rubix data sciences
+run:ai
 runpod
 runware
 runway
@@ -1149,6 +1669,7 @@ sakana ai
 salem robotics
 salesforce ai research
 sama
+sambanova systems
 samora ai
 samsung research
 san francisco data
@@ -1160,12 +1681,15 @@ santos brasil
 sap ai
 sapien
 sarvam ai
+sarvam ai corpora
 satsure
 satvacart
 savannah data labs
 savein
 scale ai
+scale ai (outlier)
 scalehub
+scaleway
 scenario
 schibsted media
 schrodinger
@@ -1174,10 +1698,12 @@ scikiq
 sciloop
 sea.ai
 second measure
+second measure (bloomberg)
 seeweb / dhh
 segmed
 sendy (estate/entity unresolved)
 sendy (in administration)
+sendy logistics (in administration)
 sensei
 sereact
 serverwala
@@ -1187,10 +1713,13 @@ sesterce
 sgs
 shadeform
 shaip
+shaip data
+shaip humanoid vla
 shaip, by ubiquity
 shearn delamore & co
 shengshu technology
 shepherd robotics
+shift technologies (chapter 11 / automotive data)
 shimadzu
 shiraz ai
 shofo
@@ -1205,11 +1734,16 @@ sigtuple
 siigo
 silica
 siloam international hospitals
+sima.ai
 similarweb
+similarweb digital
 simular
 singhania & partners
+singtel digital infraco
+skiff (end-to-end encrypted docs / shuttered by notion)
 skild ai
 skrine
+skydio
 slang ai
 sleek
 sloyd
@@ -1217,16 +1751,22 @@ smacc
 smallest.ai
 smartling
 smartone
+smiledirectclub (chapter 7 liquidation / 3d dental)
+smiledirectclub (liquidated)
 smsa express
 snorkel ai
+snorkel flow
 snowflake
 softbank corp
 soket ai labs
 solarsync infra
 solvimate
 solvitude solutions
+sonder (restructuring / strategic partnership)
+sondermind health
 soniox
 soul ai
+soul ai human qa
 soundful
 soundhound ai
 sourcebae
@@ -1237,6 +1777,7 @@ southland industries
 souza construction
 spaitial
 speechify
+speechify audio
 speechmatics
 spellbook
 spheron
@@ -1253,8 +1794,11 @@ stalwork inc.
 standard intelligence
 stankovic & sinovi
 starry (bankruptcy restructuring)
+starry internet (chapter 11 restructuring)
+starsky robotics (liquidated telemetry)
 startek
 statice
+statice / anonos
 stepfun
 sterling vale
 stitch
@@ -1273,24 +1817,32 @@ suntec india / suntec.ai
 supa
 super group
 superannotate
+superannotate multimodal
 superb ai
+superpedestrian (shuttered micromobility)
 surge ai
 sutherland
 swaayatt
 sweep ai
+sweep ai dev
 swiperx
 symbal
 symbolica
+synapse financial technologies (chapter 11 bankruptcy)
 synlab nigeria
 syntegra
+syntegra health
 synthesia
 synthesis ai
 synthetic sciences
 sysgenpro
 taalas
+taalas micro
+tabnine code
 tagx
 tandem health
 taskus
+taskus ai labs
 tasq.ai
 tata 1mg
 taurus welding
@@ -1305,9 +1857,11 @@ telispac digital
 telus digital ai
 templars
 tempus
+tencent cloud ai
 tencent hunyuan
 tensordock
 tensorwave
+tenstorrent
 terawulf
 terra data indonesia
 terray therapeutics
@@ -1328,10 +1882,12 @@ thoma electric
 thp mechanical
 three brothers linguistics
 tidel.ai
+tii (technology innovation institute)
 tilleke & gibbins
 together ai
 toloka
 toloka ai
+tome ai (generative document layoffs / distress)
 tomorrow.io
 tomtom
 tongaat hulett
@@ -1356,9 +1912,13 @@ truelabel
 truera
 trukker
 trustible
+tuft & needle (serta simmons bankruptcy)
+tupelo / gro intelligence (climate data shutdown)
 turaco
 turing
+turing data
 turivius
+tusimple (us wind-down / autonomous trucking)
 tusimple (us wind-down)
 tvs supply chain solutions
 twelve labs
@@ -1368,7 +1928,9 @@ typewise
 tüv nord
 tüv rheinland
 tüv süd
+uBiome
 uber ai solutions
+ubiome (liquidated microbiome sequencing database)
 udio
 udo udoma & belo-osagie
 uipath
@@ -1382,6 +1944,7 @@ unissey
 united mechanical
 unitrans / kap
 unitree robotics
+untether ai
 uplift ai
 upstage
 uthana
@@ -1397,35 +1960,48 @@ vast.ai
 vdego
 veda solutions
 veed
+veev (asset sale / acquisition)
+veev (liquidated modular proptech)
 veev (restructured / asset sale)
 vellum design build
 veraset
+veraset mobility
 verbalscripts ai
 verda
 veris ai
 vertical marketplace
 vezeeta
 viam
+viam machine data
 vidal health
 vidrush
 viettel group
+viggle ai
 vilaf
 village construction
 visioncapture
 vj technologies
 vlex
+vlex global legal
 vli logística
 voicedock / flireo
 voiceflow
+voiceflow dialogue
 voices
+volansi (liquidated commercial vtol drone logistics)
+volocopter (struggling german evtol / emergency funding)
+volta trucks (electric fleet administration)
 voltage park
 volume graphics
 vorelios
 voxel51
 voyager
 vrl logistics
+vroom (e-commerce operations wind-down)
+vroom (wind-down / asset sale)
 vshosting
 vultr
+vultr cloud
 vxible consulting group
 waabi
 waafrika
@@ -1435,13 +2011,16 @@ waygate technologies
 wayve
 wbh
 weave robotics
+weavegrid (ev fleet grid load telemetry)
 webber wentzel
+weights & biases
 wellahealth
 wellsaid labs
 welocalize welo data
 wenzel group
 werksmans attorneys
 western allied mechanical
+wework (post-bankruptcy assets)
 whitefiber
 whylabs
 wicks roofing
@@ -1468,12 +2047,15 @@ xpert systems / xpertsystems.ai / algosrus
 xtalpi
 yellow.ai
 yipitdata
+yipitdata alternative
 ykvn
 yoco
 yodawy
 yola fresh
 yondr
 yotta / shakti cloud
+you.com
+ytl power digital infra
 yugm ai
 z.ai
 zaki hashem
@@ -1482,11 +2064,15 @@ zealthix
 zeehaus (distressed)
 zeiss industrial quality solutions
 zenteiq
+zephyr health (life sciences commercial clinical data)
 zero latitude labs
 zerodha
+zulily (liquidated e-commerce assets)
 zume (shuttered)
+zume pizza (liquidated)
 zuri health
 zydii limited
 zydii limited (in liquidation)
+zydii limited (liquidated)
 zyphra
 数据赋能（陕西）科技有限公司
