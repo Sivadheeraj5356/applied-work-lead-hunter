@@ -20,94 +20,202 @@
 637
 660
 6thsense
+7layers Wireless
 83 sciences
+A123 Systems
+ABBYY Document AI
 ACTS Testing
 ADSB Exchange
 AI Singapore Research
+AIVA Music Engine
 ALS Limited
+AMAX Engineering
+ASRock Rack
+Aberdeen Group B2B
 Ada Support Platform
 Aenova Group
+AeroFarms
 Aether Biomachines
+Africa Data Centres
 AgentOps
+Agilent Chemical
+Agiloft Contract Ops
+Ahrefs Web Index
 AirTrunk Hyperscale
+Akridata Visual Data
+Aligned Data Centers
 Alignerr Platform
 Almac Group
+Alta Motors
+Amberdata Institutional
 Ambi Robotics
 Amino Health
 Anju Software
 Anki Robotics
 Anyline
+Apave Risk Inspection
+Apollo.io Platform
+AppHarvest
+Applied Intuition AV
 Applus Services
+Apptopia Mobile Data
+Aptera Motors Original
+Aquion Energy
 Arcadia.io
 Argo AI
 Arize Phoenix
+Arkham Intelligence Data
 Arrival
+Arterys Medical AI
+Ascenty Digital
+Asetek Datacenter
+Aspen Systems HPC
+Asperitas Immersion
+Asymchem Laboratories
 Atomic AI RNA
+Atrium Legal
+Audix Technology
 AutoStore Systems
 Availity
+Axelera AI Edge
 BDx Datacenters
 BSI Group
+BTL Testing Labs
+Babel Street Analytics
 Bachem
 Bagel Network
+Baraja LiDAR
+Battelle Memorial Institute
+Beepi Used Cars
 Berkshire Grey AI
+Better Place EV
 BharatGPT CoRover
+Bio-Rad Diagnostics
 BioAgilytix
 Bird Global
+Bit Digital Cloud
+BitSight Security Metrics
+Bitfarms Global
+Bizon Tech Workstations
+BlackBoiler Editing
 BlackSky Global
+Bowery Farming
+Boyd Corporation Thermal
+Brammo Electric
+Bruker BioSpin
 Built Robotics
+BuiltWith Tech Profiler
 Bulk Infrastructure
+CB Insights Platform
+CDC Data Centres
+CKC Laboratories
 COTA Healthcare
+CTI Centre Testing
 Cake Electric Bikes
 Cambrex
 Canvas Construction
 Capella Space
 CareJourney
+Carlotz Consignment
+Casetext CoCounsel
 CastAR
+Castellum.ai Sanctions
 Catalent
+Censys Internet Intelligence
+Cetecom Testing
+Chainalysis Blockchain
+Champions Oncology
 Change Healthcare
+Character.ai Platform
+Charles River Preclinical
 Charm Therapeutics
+ChemPartner CRO
 Chindata Group
+Chooch AI Vision
+Cipher Mining
+CipherTrace Mastercard
+Cirrascale Cloud
 Civils.ai Platform
+Civitai Model Hub
 Clarify Health
 Clarivate Life Sciences
 Clark Testing
+CleanSpark HPC
+Clearbit Data Engine
+Cleerly Health
 Clickworker
 Clubhouse
+Coda Automotive
+Cognism Sales Data
+Coin Metrics Network
+Colfax International
 Cologix Interconnect
 Colt Data Centres
+Compal Electronics
+Compass Datacenters
+ComplyAdvantage AML
 ConcertAI
 Consensus Research
+ContractPodAi Legal
+Convoy Freight
+CoolIT Systems
 CordenPharma
+Core Scientific HPC
 CoreSite Realty
 Cotiviti
+CourtListener RECAP
 Cradle Bio Design
+Craft.co Intelligence
+Crown Bioscience
+Crunchbase Database
 Cstream Cloud
 Curia Global
 CyrusOne Hyperscale
+DCI Data Centers
+DLS Electronic Systems
 DNV GL
 Daqri
 Data Canopy
+Data.ai App Annie
+DataCrunch Nordic
 DataForce TransPerfect
 DataGen
 Datacom Cloud
 Datavant
 Dayton T Brown
+Dealroom Data
 DeepBench
 DeepEval
 DeepX Silicon
+Deepcell Single Cell
+DefiLlama Aggregation
 Definitive Healthcare
 Delpharm
+Delta Electronics Power
 Descartes Labs
 Dishman Carbogen
+Docket Alarm
 Doppler Labs
 Drive.ai
+Dune Analytics Queries
 Dusty Robotics
 Dyno Therapeutics
 EagleView
+Eaton Datacenter Systems
 EdgeConneX EQT
+EdgePoint Infrastructure
+Eigen Technologies NLP
 Element Materials
 ElevenLabs Voice
+Elite Electronic Eng
+Elliptic Crypto Analytics
+Embark Trucks
+Empyrion DC
+EnCharge AI
+Enamine Chemistry
 Endel Sound
+Enlyft B2B Data
+Envia Systems
 Essential Products
 Eurofins Scientific
 Evidation Health
@@ -117,10 +225,17 @@ Evotec
 Exotec Skypod
 Expedient Cloud
 Experian Health
+Experior Laboratories
+Extropic AI Physics
+Exxact Corporation
+F2 Labs Testing
 FAIR Health
 Fareva
 Fast.co
+Fastcase Legal Data
+Fifth Season
 Fizyr Robot Vision
+Flashpoint Threat Data
 Flatiron Health
 Flexential Datacenters
 Flexport Datasets
@@ -128,107 +243,204 @@ FlightAware
 Flightradar24
 Forethought AI
 FourKites
+Foxconn Industrial Internet
+Frank Financial Aid
+Fraunhofer USA
 FreightWaves SONAR
+FrontRow Edtech
 Frontage Laboratories
+FullContact Identity
 FuriosaAI
 GDS Holdings
 GHGSat
+GRC Liquid Cooling
 Geekplus Logistics
 GenRocket
+GenScript ProBio
 Genesis Therapeutics
+Ghost Autonomy
 Gideon Brothers
+Giga Computing
+Glassnode On-Chain
 Green Mountain Norway
+GreyNoise Telemetry
 GreyOrange Systems
 H5 Data Centers
+HG Insights Market Data
+Hasty.ai Annotation
+HeadSpin Testing
 Health Catalyst
 HealthVerity
+HeartFlow Analytics
 Helicone
+Hesai Technology
+Hetzner Dedicated
 Hexagon Geospatial
 HiddenLayer
+Hive AI Moderation
+Hive Digital Technologies
+Homejoy Cleaning
+Hopin Events
 HostDime Global
+Hot Aisle Cloud
 Hovione
 Hyperloop One
+Hypertec Systems
+Hyzon Motors
 ICEYE Radar
 IQVIA Data
+IXcellerate Datacenters
+Iceotope Technologies
+Icertis Contract Intelligence
+InVision App
 Inceptive Bio
+Innatera NPU
 Innovaccer
+Innoviz LiDAR Data
 Inovalon
+Intel 471 Cybercrime
 Intertek Testing
+Inventec Computing
+Iris Energy IREN
+Ironclad Contracts
+Jan AI Open Core
 Jawbone Health
 Jibo
 Jubilant Life Sciences
+Juicero Press
+Juno Rideshare
 KBI Biopharma
+KIO Networks LATAM
+Kaiko Market Data
 Kangaroo Health
 Kano Computing
 Kao Data UK
+Katerra Construction
 Kayrros
 Keppel Data Centres
+Kharon Global Graph
 Kitty Hawk
 Kiwa Group
+Kofax Tungsten
 Komodo Health
 Kosen Labs
 Kotoba Translation
+LM Studio Compute
 LabGenius
+Labcorp Drug Development
+Landing AI Lens
 Langdock
 Langfuse
 Lantern Health
+LawGeex Automated Review
+LeadIQ Contacts
 Lefdal Mine Datacenter
+Legrand Datacenter Solutions
 LendUp
 Level AI Contact
+Lex Machina Legal
 LexisNexis Health
 Leya Legal AI
 Light.co
 Lincoln Rackhouse
+LinkSquares AI
+LiquidStack Immersion
+Lit Motors Gyro
+Locomation Convoy
 Locus Robotics
 Lonza Group
 Lordstown Motors
+Lusha B2B Contacts
 Lytro
+MET Laboratories
+Macquarie Data Centres
+MainOne Equinix
 Maincubes Datacenters
+Marathon Digital MARA
 MarineTraffic
+Mawson Infrastructure
 Mayfield Robotics
+Medallion Data Centres
 Medpace
 Mercor Talent
 Merieux NutriSciences
+Merkle Science Tracker
+Messari Research Data
+MiTAC Computing
 Microblink
 Micromobility.com
 Micropsi Industries
+Microway HPC
 Milliman MedInsight
 Mindgard
+Mint Personal Finance
+Mission Motors
 Mmhmm
 Mobilint Accelerator
+Motivair Liquid
+Mubert Generative
 Mujin Controller
+Munters Datacenter
 NEXTDC Australia
+Nabiax Datacenters
+Nansen Blockchain
 National Technical Systems
 Navya
 Nemko Group
 Netrality Data Centers
 NeuReality AI
 Neuromation
+Nikola Restructuring
 NodeWeave Edge
+Northern Data Group
+Northwest EMC Testing
+ODATA Aligned
 ODG Glasses
 OTTO Motors Fleet
+OVHcloud Enterprise
+Ocrolus Financial Data
+Olive AI
+Ollama Open Serving
+OneAsia Network
 Oneforma Platform
+Open Access Data Centres
 OpenPipe
 OpenSky Network
 Orbital Insight
 Osaro Picking
 Otto Aviation
+Ouster Digital LiDAR
 Overhaul
+Owler Business Data
 Oxford Semantic
 Pace Analytical
 Pactera EDGE
+Paige.ai Pathology
 Palo Alto Software
 Parexel
 Patheon Services
 Pearl Automation
+Pegatron Corporation
+Penguin Solutions HPC
+People Data Labs
 Peptone Proteins
+PerkinElmer Sciences
 Phantom Auto
+Pharmaron Life Sciences
 PicnicHealth
 Piramal Pharma Solutions
+PitchBook Private Data
+Plainsight Vision
+Plastiq Payments
+Podcastle Audio
 PokitDok
+Pony Testing Group
 Portkey AI
+Porton Pharma Solutions
 PostEra Chemistry
 Premier Research
+Prime Data Centers
+Primer AI NLP
 Princeton Digital
 Prognos Health
 PromptArmor
@@ -236,44 +448,94 @@ PromptLayer
 Protect AI
 Pulsant UK Datacenters
 Q2 Solutions
+QTS Realty Trust
+Quadric NPU Processor
+Quanergy LiDAR
+Quanta Cloud Technology
+Quantexa Decision Data
+Quest Diagnostics Clinical
 Quirky
 RINA Services
+RISE Sweden
 RS Metrics
+RTI International
 Ragas AI
+Rain AI Neuromorphic
+RapidAI Vascular
+Raxio Group Datacenters
 Reach Robotics
 Real Chemistry
 Rebellions AI
 Recipharm
+Recogni Vision Processor
+Recorded Future Graph
 Remotasks Platform
 Rendered.ai
 Replicant Voice
 Rethink Robotics
+Retlif Testing Labs
 Ribbon Health
 RightHand Robotics
+Riot Platforms Power
+Ripjar Graph Intelligence
+Rittal Datacenter
+RocketReach Prospecting
 Royole Displays
+SINTEF Norway
+SOCOTEC Group
+SRI International
 STT GDC Global
+STULZ Precision Cooling
 Sabey Data Centers
+Sakti3 Battery
+SalesIntel B2B
+Santiment Sentiment
 Satellogic
+Sayari Corporate Graph
+Scala Data Centers
+ScaleFactor
 ScaleMatrix Green
+Schneider Electric Data Centers
 SciSpace Typeset
+Seamless.ai Search
+SecurityScorecard Ratings
 Seegrid Industrial
+Segments.ai Robotics
+Semrush Search Data
+Sensor Tower Intelligence
 Serverfarm Datacenters
+Shift Technologies
 Shiru Bio Protein
+Shodan IoT Search
+Shyp Logistics
+Sidecar Technologies
 Siegfried Holding
+Silicon Mechanics
+SiliconFlow Serving
 Silo AI Enterprise
 Simulations Plus
 Sirin Labs
+Sirion Contract AI
 SkyEngine AI
 Smithers Group
 Soft Robotics Grippers
+Soluna Computing
+Solyndra Solar
 Sondors
+Soundraw Music
+Southwest Research Institute
+SpaceDC Southeast Asia
 Spaceknow
 Spellbook Legal
 Sphero
+SpiNNcloud Systems
+Sporton International
+SpyCloud Identity Data
 Standigm AI
 Starsky Robotics
 Sterling Pharma
 Stockmark AI
+Supermicro Solutions
 Superpedestrian
 Switch Citadel
 Syapse
@@ -283,39 +545,77 @@ Syneos Health
 SynthLabs
 Syntho
 T5 Data Centers
+TNO Netherlands
+TRM Labs Forensics
+TUV AUSTRIA Group
+TUV Hessen
 TUV NORD
 TUV Rheinland
 TUV SUD
+TUV Saarland
+TUV Thuringen
+Taiga Cloud AI
+Tally Technologies
 Telehouse KDDI
+Tensor.art Generative
+Teraco Data Environments
 Thalmic Labs
+Think Global EV
+ThoughtRiver Analysis
 TierPoint Colocation
 Tofu AI
+Token Terminal
+Tracxn Technologies
+Trellis Research State
 TriNetX
+TuSimple Trucking
 Turquoise Health
+Tyan Computer
 UL Solutions
+UniCourt Legal APIs
+UpLead Verified
 Ursa Space Systems
+VTT Technical Research
 Valence Discovery
 VanMoof
 Vana
 Vecna Robotics
+Veev Construction
 Vellum AI
 Verana Health
 Verne Global Iceland
+Vertiv Infrastructure
 VesselFinder
+Vessl AI MLOps
 Vetter Pharma
 Vexcel Imaging
 Vijil AI
+Vincotte Inspection
+Viva Biotech Holdings
+Viz.ai Synchronized
 Vnet Group
 Volansi
 Volocopter
+Voyage Auto
+Vroom Motors
+Wappalyzer Technology
+Washington Laboratories
+Waters Analytical
 Waystar
 Webair Cloud
 Welocalize AI
+Wingu Africa
+Wistron Corporation
+Wiwynn Cloud Hardware
+Workhorse Group
 Worldwide Clinical Trials
 Wrtn Technologies
+WuXi AppTec Services
 Xeneta
 YData
 Zephyr Health
+Zhipu AI Frontier
+ZoomInfo Technologies
 Zume Pizza
 Zumo Labs
 aar healthcare
