@@ -2976,3 +2976,303 @@ zydii limited (in liquidation)
 zydii limited (liquidated)
 zyphra
 数据赋能（陕西）科技有限公司
+Wandercraft
+Clone Robotics
+ENGINEAI
+CASBOT
+Inbolt
+D-Robotics
+AI2 Robotics
+Spirit AI
+Kepler Robotics
+Leju Robot
+UniX AI
+XPeng Robotics
+UBTECH Robotics
+Feather Robotics
+Treble Technologies
+Gradium
+Sonilo
+BreezeBlue AI
+Melius
+Preview
+VideoGen
+PsiQuantum
+Aranya
+Beam Cloud
+Atlas Cloud
+Antioch
+AVES Reality
+driveblocks
+Aureka Biotechnologies
+Topos Bio
+BigHat Biosciences
+0G Labs
+Motif Technologies
+Living Models
+Galux
+MoleculeMind
+BioGeometry
+Argil
+Morphic
+Flick
+TrueFan AI
+Nava
+Gimlet Labs
+Yotta Data Services
+CtrlS Datacenters
+Radical AI
+Ritual
+Ori Industries
+Infinigence AI
+PaleBlueDot AI
+Mirendil
+Aidin Robotics
+JAKA Robotics
+PaXini Technology
+Noetix Robotics
+Theta Labs (Theta EdgeCloud)
+Semron
+Blumind
+Backflip AI
+X-Humanoid
+DroidUp
+DomoAI
+Immersive Fox
+Video Rebirth
+Visko
+Katalist
+Pollo AI
+IONOS
+Sify Technologies
+Dataoorts
+Leaseweb
+Oblivus
+Tachyum
+Sakura Internet
+Akamai
+NxtGen Datacenter & Cloud
+NorthC
+noris network
+Stream Data Centers
+DartPoints
+Aptum
+OpenRouter
+BentoML
+Starship Technologies
+Avride
+Oxa
+BDx (Big Data Exchange)
+Digital Edge
+Bridge Data Centres
+Chayora
+LeaderGPU
+phoenixNAP
+Backblaze
+Fly.io
+DDN
+Scale Computing
+Zadara
+Wasabi Technologies
+Hivelocity
+Cloudian
+Umbra
+Pixxel
+Unseenlabs
+Array Labs
+Xona Space Systems
+OM1
+BeeKeeperAI
+Synthesized
+Monte Carlo
+Bigeye
+Anomalo
+Acceldata
+Spexi
+Soda Data
+Zappi
+Howso (formerly Diveplane)
+Cint
+Orbital Sidekick
+Wyvern
+Kuva Space
+EOS Data Analytics
+CycloMedia
+Aerometrex
+Satelytics
+Regrow Ag
+CropIn
+Hydrosat
+OroraTech
+constellr
+SkyFi
+Open Cosmos
+EnduroSat
+Lytx
+Netradyne
+CameraMatics
+Microlise
+Color (Color Health)
+Health Gorilla
+Particle Health
+Zus Health
+Metriport
+CareEvolution
+PurpleLab
+Jupiter Intelligence
+ClimateAI
+Salient Predictions
+Atmo
+Agreena
+Aclima
+Fairgen
+Climavision
+Sofar Ocean
+Everstream Analytics
+Interos
+Ango AI
+Airly
+Clarity Movement
+Kaiterra
+EROAD
+Powerfleet
+Controlant
+ParkourSC
+Lifen
+Taranis
+CloudResearch
+PureSpectrum
+aytm
+Woolpert
+NV5
+Sanborn
+ISAAC Instruments
+LightMetrics
+Platform Science
+Eleos Technologies
+Ituran
+Arable
+Clearbox AI
+Nauto
+Motorq
+Cartrack
+INRIX
+CerebrumX
+DIMO
+Quartix
+Loft Orbital
+GalaxEye
+UBIMET
+Vaisala
+Baron Weather
+eOdyn
+Briya
+1upHealth
+IOMED
+LynxCare
+Seqster
+John Snow Labs
+Resilinc
+Hivemapper
+Near Space Labs
+Raptor Maps
+Fast Radius
+Shapeways
+Canoo
+Misty Robotics
+Willow Garage
+Iron Ox
+Plenty
+Infarm
+Small Robot Company
+FarmWise
+23andMe
+iRobot
+Sarcos Technology and Robotics
+Chowbotics
+Karakuri
+CyPhy Works (Aria Insights)
+Kalera
+Sema4
+Luminar Technologies
+Savioke (Relay Robotics)
+Takeoff Technologies
+Montrose Environmental Group
+MRIGlobal
+Southern Research
+Charles River Laboratories
+PPD (Thermo Fisher Scientific)
+KCAS Bio
+Veeda Lifesciences
+Syngene International
+Aragen Life Sciences
+Precision for Medicine
+QPS Holdings
+BioDuro
+Inotiv
+Mérieux NutriSciences
+Westpak
+Tentamus Group
+Normec Group
+Transcat
+QIMA
+MiCOM Labs
+Cotecna
+ICON plc
+Virgin Orbit
+Cruise
+Lion Electric
+Supernal
+DroneUp
+PrecisionHawk
+Terran Orbital
+Astra Space
+SCiFi Foods
+Lightning eMotors
+WM Motor
+Byton
+HiPhi (Human Horizons)
+Lightyear (Atlas Technologies)
+Sono Motors
+Tevva Motors
+Vicarious Surgical
+Medrobotics
+Sharecare
+NantHealth
+Science 37
+Airware
+AirMap
+Q Laboratories
+Fime
+IMQ Group
+SIQ
+IEH Laboratories & Consulting
+Pacific BioLabs
+Brooks Applied Labs
+Auriga Research
+Truesdail Laboratories
+IITRI
+Noble Life Sciences
+QAI Laboratories
+iuvo BioScience
+Universal Hydrogen
+Abundant Robotics
+Grabango
+AsureQuality
+Hill Laboratories
+Covalent Metrology
+LGC Group
+EMC Technologies
+GEL Laboratories (The GEL Group)
+Biotrial
+BioIVT
+Fortrea
+Quotient Sciences
+Simbec-Orion
+Resolian
+Aliri Bioanalysis
+Aifleet
+Local Motors
+Austest Laboratories
+Prolytix
+Northvolt
