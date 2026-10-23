@@ -2,378 +2,1000 @@
 0 historical failed founder / assets transferred
 0 historical founder / parent-owned wind-down
 0 rights authority / administration
+01.AI
 01.ai
+0G Labs
 1 failed/distressed account
 1 founder / regional exit, group active
 1 verified executive
+100H Labs
 100h labs
 1010data
+10x Science
 10x science
 1547 Critical Systems
+1DataPipe
+1X Technologies
 1datapipe
+1upHealth
 1x technologies
 2 alternate contact
+23andMe
 3 other linkedin lead
 42dot
+4baseCare
 4basecare
 568
 6 River Systems Chuck
+6 River Systems Collaborative Chuck
 637
 660
+6thSense
 6thsense
 7layers Wireless
+83 Sciences
 83 sciences
 A123 Systems
+AAR Healthcare
 ABBYY Document AI
+ACCO Engineered Systems
+ACE Studio
 ACTS Testing
 ADSB Exchange
+AELEX
+AGIBOT
+AI Enzine
+AI Hay
 AI Singapore Research
+AI2 Robotics
+AI21 Labs
+AI71
+AIMLEAP
+AINOSTICS
 AIVA Music Engine
 AInnovation Data
+AK Solutions
+AKTORIA
 ALS Limited
+AM Intelligence
 AMAX Engineering
+AMI Labs
+ANA Healthcare
+APISetu
+ARIMLABS
 ASRock Rack
 AT Labs India
+AVES Reality
+AXA Mansard
+AZB & Partners
+Abacus Plumbing Air Conditioning Electrical Houston
+Abacus.AI
+Abbott | Reed
 Aberdeen Group B2B
+Abridge
 Abridge AI Medical
+Absci
+Abundant AI
+Abundant Robotics
+Acasia
+Acceldata
+Accenture
+Access Healthcare
 Accretive Health Data
+AceCloud / Ace Cloud Hosting
+Aclima
+Acolad
+Acuren
 Ada Support Platform
+Adams & Adams
+Adapt IO B2B Database
+Advan Research
+Aemon
 Aenova Group
 AeroFarms
+Aerometrex
 Aether Biomachines
 Aether Engine VR
+Aethir
 Aethir Cloud Network
+Aetina Embedded Edge
 Aetion Real World Evidence
+Aeva
+AfriData Labs
+Africa API
 Africa Data Centres
+Africa Healthcare Network
+Afyanalytics
+Aga Khan University Hospital
+Agence France-Presse (AFP)
 AgentOps
 Agilent Chemical
+Agility
+Agility Robotics
 Agiloft Contract Ops
+Agilus Diagnostics
+Agreena
 Ahrefs Web Index
+Ai2 (Allen Institute for AI)
+Aidin Robotics
+Aidoc
+Aidoc Medical
+Aifleet
+Aignostics
+Aindo
+Air Systems Service and Construction
+AirMap
 AirTrunk Hyperscale
 AirWorks AI Geospatial
 Airbus OneAtlas
+Airco Mechanical
+Airly
+Airware
+Akamai
+Akash Network
+Akili Interactive (Restructured Digital Therapeutics)
 Akridata Visual Data
+Al Tamimi & Company
+Al-Wadood Solutions
+Alaan
 Albedo Space Imagery
+Alchedata
+Alchemab Antibody Therapeutics
+Alef Aeronautics (Flying Car Aerospace Engineering Data)
 Alegion Data
+Alegra
+Aleph Alpha
+Alerzo
+Alibaba 阿里巴巴 / Qwen
+Alice
+Align AI / Rubric AI
 Aligned Data Centers
 Alignerr Platform
+Alinia
+Aliri Bioanalysis
+All 1 Mechanical
+Allcargo Logistics
+Alle
+Allen & Gledhill
+Allen Institute for AI
+Alliance Environmental Stack Testing
 Alliance Technical Group
 Allride AI Driving
 Almac Group
+Almanac / Gro Intelligence assets
+Alodokter
 Alpha Analytical Labs
+Alpha Sediment Analytical Testing
+AlphaGeo
+AlphaSights Knowledge Graph
 Alphanumeric Systems
 Alphawave Semi
 Alta Motors
 Altasciences CRO
+Alternata
+Altibbi
+Altus Group Data
+Aluko & Oyebode
+Amazon AGI
 Amberdata Institutional
 Ambi Robotics
+Ambience Healthcare
 Ambience Healthcare AI
+Ambiguity Labs
 Amino Health
+Ampath South Africa
 Ana-Lab Corporation
+Anam
+Anderson Materials Evaluation
+Andes Path
+Andovar
+Ango AI
 Anju Software
+Anki (Liquidated Consumer AI Robotics)
 Anki Robotics
+Annolance
+Annolance AI
+Annolance AI (CAD licensing signal)
+Anomalo
+Anomaly / OpenCode / SST
+Anote
+Anresco Agricultural Safety Labs
 Anresco Laboratories
+Anthropic
+Antioch
+Antropi Robotics
 Anvil Legal Workflow Data
 Anyline
+Anyscale
 Anyscale Cloud
+Anyscale Labs
+Anysphere (Cursor)
 Apave Risk Inspection
 Apex Laboratories
+Apollo Agriculture
+Apollo Hospitals
+Apollo Hospitals Group
+Apollo IO Enterprise
 Apollo.io Platform
 Aporia ML Restructure
+App Magic Mobile Data
 AppHarvest
 Appen AI
+Appen Enterprise
+Appen 奥鹏
 Appinio Consumer Research
+Applause
+Applied Digital
 Applied Intuition AV
 Applied Intuition Simulation
+Applied Technical Services
 Applus Services
+Applus+
 Applus+ Laboratories
 Apptopia Mobile Data
+Apptronik
 Aptera Motors Original
+Aptum
+Aptura
 Aquion Energy
+Arable
+Aragen Life Sciences
+Aragon AI
+Aramex
+Aranya
 Arcadia.io
+Arcee AI
+Argaam
+Argil
 Argo AI
+Argo AI (Shuttered Assets)
+Argo AI (shuttered by Ford/VW)
 Argo AI Autonomous Data
+Argo AI Autonomous Mapping
+Arize AI
 Arize AI Observability
 Arize Phoenix
 Arkham Intelligence Data
+Array Labs
 Arrival
+Arrival (UK Administration / Commercial EV)
 Arterys Medical AI
+Arthur AI
 Arthur AI Monitoring
 Artlist AI
+Arva AI
 Ascenty Digital
+Aseon
 Asetek Datacenter
+Ashr
+Asimov
 Aspen Systems HPC
 Asperitas Immersion
+AssemblyAI
 Astera Labs
+Astra Space
+AstraZeneca
+Astrext
+Astria
+Astribot
+AsureQuality
 Asymchem Laboratories
+Atla
+Atlas Cloud
+Atmo
 Atomic AI RNA
 Atrium Legal
+Atropos Health Prognosis
 Attabotics Automated Fulfilment
 Attest Consumer Intelligence
+Atticman
+AudioShake
 Audix Technology
+Augment Code
+Aumet
+Auravon AI
+Aureka Biotechnologies
+Auriga Research
+Austest Laboratories
 AutoStore Systems
+Automata / Braid (Liquidated)
+Automata / Braid (shuttered)
+Autoresearch, Inc. / hiloop
 Availity
 Avance Biosciences
+Avataar
+Avea Robotics
+Avenue Healthcare
 Avesis Health Claims Data
 Avicenna AI
 Avomeen Analytical Services
+Avride
+Avyaan Management / Dhritii.ai
+Awign
+Axe Compute
 Axelera AI Edge
+Axelera Metis NPU
+Axiom Math
+Axiom Photonics AI
 Axiom Robotics Logistics
+Aya Data
+Aya Data Medical
 Ayar Labs
 B12 Computing
+BARG Info Solutions
+BDx (Big Data Exchange)
 BDx Datacenters
+BITS Cloud
+BJAK
+BLEND
+BMA Advogados
+BOS Sheet Metal
 BSI Group
 BSI Group Product Services
 BTL Testing Labs
+BURN Manufacturing
 Babel Street Analytics
+Babylon Health (Bankruptcy / Chapter 11)
+Babylon Health (bankruptcy)
 Babylon Health UK Asset
 Bachem
+Backblaze
+Backflip AI
 Bagel Network
+Bahri
+Baichuan
+Baidu
+Baker Brothers Plumbing Dallas
+Balyo Autonomous Pallet Trucks
 Balyo Robotic Forklifts
+Bangkok Dusit Medical Services
 Baraja LiDAR
+Barnum and Celillo Electric
+Baron Weather
+Basecamp Research
+Baseten
+Baseten AI
+Baseten Infra
+BasicAI
 Battelle Memorial Institute
+BattleFin
+Bauer Media
+BayanTech
+Bayzat
 BeZero Carbon Ratings
+Beam Cloud
+Beatoven.ai
 Bebop Bee Data
 Bedrock Ocean
+BeeKeeperAI
+Beeble
 BeepKart Two Wheelers
 Beepi Used Cars
+Bell Brothers
+Belvo
+BenchFlow
+BentoML
+Bergelectric
+Berkeys Plumbing Air Conditioning Electrical
 Berkshire Grey AI
+Bespoke Labs
 Better Place EV
+Better.com (Post-SPAC Restructuring)
+Betterdata
+Betterdata AI
 Bext360 Supply Chain
+Beyond Presence
+Bezi
 BharatGPT CoRover
+Bharatsure
+Bicycle Health (Behavioral Health Restructuring)
+Bidvest International Logistics
+BigHat Biosciences
+Bigeye
 Bio-Rad Diagnostics
 Bio-Rad Life Science
 BioAgilytix
 BioAgilytix Labs
+BioDuro
+BioGeometry
+BioIVT
 BioMap AI Pharma
 Biofourmis Biometric Telemetry
 Biofourmis Restructure
+Bioptimus
+Biotrial
+Bird (Chapter 11)
 Bird Global
+Bird Global (Chapter 11 Post-Bankruptcy)
 Bit Digital Cloud
 BitSight Security Metrics
+Bitdeer
 Bitfarms Global
+Bito
+Bito Developer
 Bizon Tech Workstations
+Black Forest Labs
 Black Forest Labs AI
 BlackBoiler Editing
 BlackSky Global
 BlackSky Global Intelligence
+Blackshark.ai
+Blaize
 Bland AI Automations
+BlockFi (Chapter 11 Liquidation)
+Bloomberg
 BluSmart Mobility
+Blue Dart Express
+Bluelearn
+Blumind
+BodenAI
 Bodycote Materials Testing
+Boltz
+Bonney
+Boomy
+Booster Robotics
 Bossa Nova Robotics
+Bossa Nova Robotics (Liquidated Retail Vision)
+Bosta
+Boston Dynamics
 Bowery Farming
+Bowery Valuation (Restructuring)
+Bowery Valuation (restructuring)
+Bowmans
+Bowser-Morner Geotechnical Testing
 Bowser-Morner Labs
 Bowser-Morner Testing Labs
 Boyd Corporation Thermal
+Braintrust
 Braintrust AI Eval
+Braintrust Data
 Brammo Electric
+Brass
 Braun Intertec
+Braun Intertec Environmental Testing
 Braun Intertec Testing
+BreezeBlue AI
 Breezy HR Restructure
 Brev Dev
+Bria
 BriaCell Bio Testing
+Bridge Data Centres
+Bright Data
+Bright Data Datasets
+Britam
+Briya
 Broad Institute Data
+Broadway Mechanical
+Brooks Applied Labs
+Bruker
 Bruker BioSpin
 Builder AI App Builder
 Built Robotics
 BuiltWith Tech Profiler
+Buk
 Bulk Infrastructure
+Bumrungrad Hospital
+Bureau Veritas
 Bureau Veritas Consumer Labs
+Bureau van Dijk Orbis
+Byju's (Think & Learn - Insolvency Proceedings)
+Byntrava
+ByteDance 字节跳动
+Byton
+CAMB.AI
+CASBOT
 CB Insights Data
+CB Insights Intelligence
 CB Insights Platform
+CBRE Data Centers
 CDC Data Centres
+CHAI
+CIC Insurance Group
 CKC Laboratories
 CKC Laboratories Inc
+CMS INDUSLAW
 COTA Healthcare
+CRHDRI.AI Software and Device Technologies
 CSA Group Testing Labs
 CTI Centre Testing
+CTLGroup Infrastructure Materials Lab
 CTLGroup Laboratories
 CTLGroup Materials Testing
 CTrees Global Forest
+CUDO Compute
+CVAT.ai
 CVEDIA
 Cake Electric Bikes
+Calcbench Financial Filings
 Calcoast ITL
+Callosum
+CalypsoAI
 CalypsoAI Trust
 Cambrex
+CameraMatics
+Canoo
+Canopy Wave
+Canva / Leonardo AI
 Canvas Construction
 Canvas Construction Robotics
+CapIQ S&P Intelligence
 Cape Analytics Property
 Capella Space
 Capella Space SAR Data
 Capitolis Restructure
+Captions
 Captions App AI
+Carapis
 Carbon 3D Digital Synthesis
+Carbon Health
+Carbon Health (Urgent Care Clinic Downsizing)
+Cardboard
+CareEvolution
 CareJourney
 CareJourney Value Data
+CarePay
+Carey
 Caris Life Sciences Data
 Carlotz Consignment
+Cartesia
 Cartesia AI Voice
+Cartrack
+Cartwheel
+Casetext (Thomson Reuters)
 Casetext CoCounsel
 Casetext CoCounsel Data
 Casetext Law AI
+Casper Sleep (Take-Private Restructuring)
 CastAR
 Castellum.ai Sanctions
 CastorDoc Catalog
 Catalent
+Cazoo (Restructuring / Asset Wind-Down)
 Cazoo Automotive Restructuring
+Cedarcrest Hospitals
 Celerion Clinical Testing
 Celeris Bio Therapeutics
+Celestial AI
+Celestial Photonic Fabric
+CellType
 Census Sync ETL
 Censys Internet Intelligence
+CentML
+CentML Optimization
+Centaur Labs
+Cerebral (Restructuring)
+Cerebras Compute Cloud
+Cerebras Systems
+Cerebrium
+CerebrumX
+Cerence AI
+Certified Food Safety Laboratories
 Certified Laboratories Inc
+Cescon Barrieu
 Cetecom Testing
+Chai Discovery
+Chai Discovery Bio
 Chainalysis Blockchain
 Champions Oncology
 Change Healthcare
 Character AI Conversational
 Character AI Restructuring
 Character.ai Platform
+Charles River Laboratories
 Charles River Preclinical
 Charm Therapeutics
+Chayora
 ChemPartner CRO
 Chemir Analytical Services
+Cherre Real Estate Graph
+Chimoney
 Chindata Group
 Chooch AI Vision
+Chowbotics
+Chroma
 Chroma Database
+Cint
 Cipher Mining
 CipherTrace Mastercard
+Cirrascale
 Cirrascale Cloud
+Cisco Foundation AI
 Civils.ai Platform
 Civitai Community
 Civitai Model Hub
 Civo Cloud
+Clara
+Clara Health
+Clara Health Data
+Clarifai
 Clarify Health
 Clarify Health Solutions
+Clarity Movement
 Clarivate Life Sciences
+Clark Mechanical Dynamics Lab
 Clark Testing
 Clark Testing Laboratory
+Clarke and Rush
+Claru
 CleanSpark HPC
+Cleanlab
 Cleanlab AI
 Cleanlab Data AI
 ClearML
+ClearTax (Clear)
 Clearbit Data Engine
+Clearbit Hubspot Intelligence
+Clearbox AI
 Cleerly Health
 Clickworker
+Cliffe Dekker Hofmeyr
+ClimateAI
+Climavision
+Clinicas del Azucar
+Clinikk
 Clipdrop Stability
+Clone Robotics
+CloudFactory
 CloudFactory Data
+CloudMinds Cognitive Robotics Assets
 CloudMinds Robotics
+CloudResearch
+Cloudian
+Cloudnium
 Clubhouse
+Clubhouse (Alpha Exploration - Audio Social Distress)
+Clueso
+ClusterBid / BeepWeep
+ClusterNeuron LLP
+CoArena
+CoRover
+Coactive AI
 Cobalt Robotics Security
+Cobre
 Coco Delivery Robotics
 Coda Automotive
+CodeRabbit
+CodeRabbit AI
+Cogito Tech
 Cognata Simulation
+Cognegica Networks
+Cognex Corporation
+Cognigy
 Cognism Sales Data
+Cognism Sales Intelligence
+Cognition
+Cognition AI
 Cognition AI Devin
+Cohere
+CohesionX
 Coin Metrics Network
 Colfax International
+Collinear AI
 Cologix Interconnect
+Color (Color Health)
 Colt Data Centres
 Comet ML
+Comet Yxlon
+Comfort Systems USA
+Common Crawl
 Compal Electronics
 Compass Datacenters
 ComplyAdvantage AML
 ComplyAdvantage AML Data
+Compute Concierge
+Compute Exchange / TCEX
+Con-Test Air Canister Testing
 Con-Test Analytical Laboratory
+Concentrix
 ConcertAI
+Conexa
+Confident AI
+Confident AI (DeepEval)
 Consensus App Academic
 Consensus Research
+Consumer Edge
+Consumer Edge Intelligence
+Conta Azul
+Conta Simples
+ContactOut Executive Data
+Contextual AI
+Continue Dev
+Continue.dev
 ContractPodAi Legal
+Controlant
+Convoy (Asset Sale & Wind-Down)
+Convoy (wind-down / asset sale)
 Convoy Freight
 CoolIT Systems
+Copia Global (In Liquidation)
+Copia Kenya
+Copia Kenya (in liquidation)
+Copia Kenya Limited (In Liquidation)
+Cora
 CordenPharma
 Core Scientific HPC
+Core42
 CoreSite Realty
+CoreWeave
 Cornami AI Compute
 Cornelis Networks
+Cortex AI
+Cortex Labs
+Corti
+Corti Ambient Clinical
+Cosine
+Cosine Genie
 Cota Healthcare Cancer Data
+Cotecna
 Cotiviti
+CourtListener (Free Law Project)
 CourtListener Free Law
 CourtListener Legal Data
 CourtListener RECAP
+Covalent Metrology
+Covariant
+CoveLabs.ai
+Cradle
 Cradle Bio
 Cradle Bio Design
 Craft.co Intelligence
+Credgenics
+Creditas
+Creditsafe Global Business
+Credo AI
+Credtent
+Cresta
+Critchfield Mechanical
+CropIn
+Crosby
 Crown Bioscience
+Cruise
 Crunchbase Database
+Crunchbase Enterprise Data
+Crusoe
+Crusoe Energy
 Crusoe Energy Cloud
 Cstream Cloud
+CtrlS Datacenters
 Cube Dev Universal Semantic
+Cue Health (Chapter 7 Liquidation / Diagnostics)
+Cumulus Labs
+Cupertino Electric
 Cura Software Wind-down
+Curacel
 CureMetrix Mammography
 Curia Global
 Current Health Asset
 Current Health Telemetry
+Cursor / Anysphere Labs
+CuspAI
+CyPhy Works (Aria Insights)
+CycloMedia
 Cycngular Autonomous Yard
+Cyfuture AI
+Cyngn Industrial Autonomous Tow
+Cyril Amarchand Mangaldas
 CyrusOne Hyperscale
 Cytel Biostatistics
+D-ID
 D-ID Creative Reality
 D-ID Media
+D-Matrix
+D-Robotics
+DATA4
+DATAmundi
 DCI Data Centers
+DDK Mechanical
+DDN
+DEEP Robotics
+DEKRA
 DEKRA Certification Testing
+DIMO
 DLS Electronic Systems
 DNV GL
+DP World / Imperial Logistics
+DTDC Express
+DYNA Robotics
+Daedalean
+Daftra
+Dagger Labs
+Dali Geotech
+Damco Solutions
 DapuStor
 Daqri
+DartPoints
+Data Axle Business Graph
 Data Canopy
+Data Race
 Data.ai App Annie
+Data.ai Mobile Market
+DataBank
+DataBazaar
 DataCrunch Nordic
 DataForce TransPerfect
+DataForce by TransPerfect
 DataGen
+DataLens Africa
+DataMarketplace.io
+DataOcean AI 海天瑞声
+DataOne Asia Thailand
+DataPro Capital
+DataVLab
+DataVale AI
+DataX Power
 Databand IBM Observability
+Databricks
+Databricks MosaicML Data
 Datacom Cloud
+Datacurve
+Dataloop
+Dataminr
+Dataminr Signals
+Dataoorts
+Datapp.ai
+Dataprovider Global
+Datarade
+Datasaur
+Datatang
 Datature Vision
 Datavant
 Datavant Ecosystem
+DatologyAI
+Datomize
+Datomize AI
+Datoric
+Datum Africa
+David AI
+Dawa Life Sciences
+Dawex
 Dayton T Brown
+Dayton T. Brown Defense Testing
 Dayton T. Brown Testing
+Dbrain
 Dealroom Co
 Dealroom Data
+Dealroom Ecosystem Data
+Decagon
+Decagon AI
+Decart
+Decart AI
 Decart AI Mirage
+Deccan AI
+Deccan AI STEM
+Decentro
 Deci AI
 Decube Data Governance
+Deep Blue Integration
+Deep Cogito
+Deep Render
+Deep Vision Data / Kinetic Vision
+DeepAnnotate.ai
 DeepBench
+DeepBench (Expert Network Interview Library)
+DeepCure
 DeepEval
+DeepInfra
+DeepL
+DeepL Enterprise
+DeepReach
+DeepSeek
 DeepX Silicon
 Deepbrain AI Humans
 Deepcell Single Cell
+Deepchecks
 Deepchecks Validation
+Deepdub
+Deepen AI
+Deepgram
 Deepnote Notebooks
 Deepset AI
+Deepslate
 DefiLlama Aggregation
+Defined.ai
 Definitive Healthcare
 Definitive Healthcare Data
+Delhivery
 Delpharm
 Delta Electronics Power
+Demarest
 Descartes Labs
 Descartes Labs Spatial
+Descript
+DesiCrew
+DesiData
 Desktop Metal Additive
+Destro AI
+Dext
+Dexterity
+Dhvani AI
+Dhvani AI Audio
+Dhvani.Ai
+Dialectica B2B Insights
 Diffbot Knowledge Graph
+Digital Edge
+Digital Energy
+Digital Realty
+DigitalOcean
+Digituala
+Diligent Robotics
+Discovery Limited
 Dishman Carbogen
+Distyl AI
+Dobot Robotics
+Docket
 Docket Alarm
 Docket Alarm Legal Data
+Doctor Anywhere
+DoctorOnCall
+DomoAI
 Doppler Labs
+Dotspot
+Dr Lal PathLabs
+Drain Doctors Plumbing
 DreamBig Semiconductor
+Drive AI Deep Learning Autonomy
 Drive AI Legacy Data
 Drive.ai
+DroidUp
 DroneDeploy Imagery
+DroneUp
+Drongo AI
+Drongo AI Clinical
+Dropcontact CRM Enrichment
+DrugStoc
+Dubverse
+Dubverse Naturalness
 DueDil Enterprise Registry
+Dun & Bradstreet
+Dun & Bradstreet Hoovers
 Dune Analytics Queries
 Dunzo Commerce
+Dust
 Dusty Robotics
 Dusty Robotics Layout
+Dvara E-Registry
+Dynamo AI
 Dyno Therapeutics
+E-Solutions
+E2E Networks
+EAG Laboratories
+EC Innovations
+EGXO Data / GIG Rewards
+EMC Technologies
+EMSL Analytical
+ENGINEAI
+ENS
+EOS Data Analytics
+EROAD
+EWI
+EXL
+Eagle Alpha
 EagleView
+Earnest Analytics
 EarthDaily Analytics
 Eastern Analytical Inc
+Eastern Analytical Utilities Lab
 Eaton Datacenter Systems
 EcoDataCenter Compute
 EdgeConneX EQT
 EdgeCore Systems
 EdgePoint Infrastructure
+EdotEnv
+EgoData
+EgoScale
+EgoVista
 Eidon AI Robotics
 Eigen Technologies NLP
 Eight Sleep Thermal Data
+Eka Care
+Elastic
+Electricraft
+Electricraft Inc.
+Element
 Element Materials
+Eleos Technologies
+EleutherAI Data Research
+ElevenLabs
 ElevenLabs Data
 ElevenLabs Voice
 Elicit Research Assistant
@@ -382,680 +1004,1982 @@ Elite Electronic Engineering
 Eliyan Corporation
 Elliptic Crypto Analytics
 Embark Trucks
+Embark Trucks (Liquidated / Autonomous Assets)
 Embark Trucks Assets
+Embark Trucks Autonomous Logistics
+Emergence AI
+Emergent
 Empyrion DC
+Emulated
 EnCharge AI
+EnCharge AI Computing
+Enact
 Enamine Chemistry
+Encord
+Encord AI
 Encord Multimodal
 Endel Sound
+EnduroSat
+Enfabrica
 Enfabrica Networks
 Enigma Small Business Data
+Enjoy Technology (Liquidated)
+Enjoy Technology (liquidated)
+Enlitic
+Enlitic Intelligence
 Enlyft B2B Data
+Entos AI Mol
+Envariant
+Enveda
 Envia Systems
+Envisionit Deep AI
+Epoka
+Equinix
+Esperanto Technologies
+Essential AI
 Essential Products
+Essential Products (Ambient OS & Smartphone Shuttered)
+Etched
 Etched In Silico
+Etched.ai
+Ethiopian Airlines Group / Ethiopian MRO
 Eurofins Bioanalytical
+Eurofins Environmental Hazardous Waste
 Eurofins Scientific
 Eurofins TestAmerica Environmental
 Evans Analytical Group
+Eve Sleep (Administration)
+EvenUp
+EvenUp Legal AI
 Eventual Computing
+Everstream Analytics
 Evidation Health
 Evidence Dev BI
 Evidently AI
+Evisort
 Evisort Contract Intelligence
+Evisort Contracts
+EvolutionaryScale
+EvolutionaryScale ESM
 Evoque Data Centers
 Evotec
 Evozyne Proteins
+Exabel
 Exabits Cloud Infra
 Exotec Skypod
 Expedient Cloud
 Experian Health
 Experior Laboratories
+Expertise Solutions
+Exponent
 Extropic AI Physics
+Extruct AI
+Extruct AI Data
 Exxact Corporation
 Exyn Technologies
+F.H. Furr Plumbing Heating Air Conditioning Electrical
 F2 Labs Testing
 FAIR Health
+FASHN AI
+FORM Design Build
+Fable Data
+Fable Studio
+Fable Studio / Showrunner (AI Simulation Distress)
+FactSet
+FactSet StreetAccount
+Facteus
+Facteus Financial Data
+Factory
+Factory AI
+Fair (restructured)
+Fair.com (Restructured)
+Fairgen
 Fal AI
+Familiar
+Family Film
+Faraday
 Fareva
+FarmWise
+Fast (shuttered)
+Fast Checkout (Shuttered)
+Fast Radius
 Fast.co
+Fastcase / vLex
 Fastcase Law Data
 Fastcase Legal Data
+Fastino
+Feather Robotics
 Fenergo Client Lifecycle
+Fern
+Fern / Ishiki Labs
 Fetch Robotics Archive
+Fetch Robotics Zebra Intralogistics
+Fiddler AI
 Fiddler AI Carve-out
 Fiddler AI Explainability
+Fidson Healthcare
+Field AI
+FieldAI
 Fifth Season
+Figure
+Figure AI
 Figure AI Robotics
+Fime
+FinStack
+Finanshels
+Finerio Connect
+Finn Plumbing
+Fintel Institutional Ownership
+Finvero
+Fireworks AI
+Firsthand
+Firstsource
+Fish Audio
+Fisker Inc. (Chapter 11 Bankruptcy / EV Automotive)
+Fixxa
 Fizyr Robot Vision
 Flashpoint Threat Data
 Flatiron Health
+Fleet AI
+Flex Logix
+Flexential
 Flexential Datacenters
+Flexion Robotics
 Flexport Datasets
+Flick
 FlightAware
 Flightradar24
+Flikforge
+Flora
+FluidStack Hyperscale GPU
+Fluidstack
+Fly.io
 Flyability Drones
 Flyte Org
+Flywheel.io
+FoodCourt / CoKitchen
+Forage AI
 Forethought AI
+Formlabs Dental (Asset Carveout)
 Formlabs Desktop SLA
+Fortis Healthcare
+Fortrea
+Forward Health (Asset Sale / Restructuring)
 Forward Health Kiosks
 Foundation Medicine Genomic
 Foundry Technologies
 FourKites
 FourKites Visibility
+Fourier
 Foxconn Industrial Internet
+Frank (Financial Aid Platform / Liquidated)
 Frank Financial Aid
 Fraunhofer USA
+Freed
+Freelancers Group of International
+Freepik
 Freepik AI Labs
 FreightWaves SONAR
+FriendliAI
+FrontRow
 FrontRow Edtech
 Frontage Laboratories
 Frontage Labs CRO
+Frontier Car Group (Acquired / Shuttered)
 FullContact Identity
+FullContact Identity Resolution
 FuriosaAI
+Fusion CX
+Future AGI
+G2 Software Review Data
+G42 / Inception
 GDS Holdings
+GEL Laboratories (The GEL Group)
 GHGSat
+GHN / Giao Hang Nhanh
+GLG Gerson Lehrman Insights
+GMI Cloud
+GPU Mart
+GPU Rental Group
 GRC Liquid Cooling
+GWC / Gulf Warehousing
+GalaxEye
+Galaxea Dynamics
+Galbot
 Galbraith Laboratories
+Galicia Abogados
+Galileo
+Galileo AI Evals
 Galileo AI Evaluation
+Galux
+Garwood Aerospace EMC Test
 Garwood Laboratories
 Gatik Middle Mile
+Gatik Middle Mile Box Trucks
+Gaura Nitai Technologies
+Gcore
+GeBBS Healthcare Solutions
 Geekplus Automation
+Geekplus Goods-to-Person Mobile
 Geekplus Logistics
 GenRocket
 GenScript ProBio
+General Instinct
+General Intuition
+General Reasoning
+General Trajectory
+Generalist
+Generate Biomedicines
+Genesis Cloud
+Genesis Molecular AI
 Genesis Therapeutics
+Genillect
+Genmo
 Genomics England
+Genpact
+Gensyn
+Geo Int Africa
+GeoPoll
 Geocento Data
+Gertrude's Children's Hospital
+Getaround (Restructured Carsharing)
+Getty Images
 Ghost Autonomy
+Ghost Autonomy (Shuttered / Assets Available)
+Ghost Robotics
 Gideon Brothers
 Giga Computing
 GigaIO
+Gigbanc
+Gimlet Labs
+Giskard
+Gladia
+Glass Health Clinical
 Glassnode On-Chain
+Glean
 Glean Search Enterprise
+Global Datafeeds
 Global Fishing Watch
+Global Scale by CloudAdvise
+Global Switch
+Gnani.ai
+Gnani.ai Speech
+GoLemon
+GoTo
+Golpo
+Good Start Labs
+Goodfire
+Goodlife Pharmacy
+Google DeepMind
+Google DeepMind (former Boston Dynamics)
+Grabango
+Gradium
+Grant Thornton Bharat
+Graphcore
+Graphcore IPU
+Gravy Analytics
+Gravy Analytics Data
+Green Mountain
 Green Mountain Data
 Green Mountain Norway
+Greptile
 Gretel Labs
+Gretel.ai
 GreyNoise Telemetry
 GreyOrange Robotics
+GreyOrange Sortation Robotics
 GreyOrange Systems
+GridPoint Advisors
+Gridspace
+Grindrod
+Groq
+Groq LPU Cloud
 Guardant Health Liquid Data
+Guidepoint Global Expert
+H Company
 H5 Data Centers
+HERE Technologies
 HG Insights Market Data
+HUD
+HabileData / Hitech Digital
+Hadef & Partners
+Hailo Technologies
+Haiper
 Haiper AI Video
 Haiper Video AI
+Haize Labs
+Halluminate
+Halodoc
 Hammerspace
+Hamming AI
+Handshake AI (Handshake)
+HappyRobot
+Hapvida NotreDame Intermédica
+Harris Construction
+Harvey
+Harvey AI Law
 Hasty.ai Annotation
 HawkEye 360 RF Data
+Hazy
+Hazy Synthetic
 Hazy Synthetic Data
 HeadSpin Testing
 Health Catalyst
+Health Gorilla
 HealthJoy Restructure
+HealthPlix
+HealthPlus Nigeria
+HealthTAG
 HealthVerity
 HealthVerity Exchange
+Healthians
 HeartFlow Analytics
+Hebbia
 Hebbia AI Matrix
+Hebbian Robotics
+Hedra
 Hedra AI
 Hedra AI Video
+Heidi Health
 Helicone
 Helicone LLM Observability
+Helium Health
+Helix Electric
 Helm AI Autonomous
+Helm.ai
+Helsing
+Hermai
 Hesai Technology
 Hetzner Cloud Compute
 Hetzner Dedicated
+Hetzner Online
 Hex Data Technologies
 Hexagon Geospatial
+HeyGen
 HeyGen Video AI
+HiPhi (Human Horizons)
 HiddenLayer
 HiddenLayer Security
+Higgsfield AI
 Higgsfield AI Video
 Hightouch Reverse ETL
 Hike Messenger
+Hilab
+Hill Laboratories
+Hillclimb
+Hiller Plumbing Heating Cooling Electrical
+Hinduja Global Solutions
+Hippocratic AI
 Hippocratic AI Health
 Hive AI Moderation
 Hive Digital Technologies
+Hivelocity
+Hivemapper
+Holistic AI
 HoloMatic Autonomous
+Homburger
 Homejoy Cleaning
+HoneyHive
 Hopin Events
+Hopster (Liquidated Edtech)
+Horizon Robotics
+Horizon Services Delaware
 HostDime Global
+HostedAI, Inc. / packet.ai / GPUaaS.com
 Hot Aisle Cloud
 Hour One AI
 Hour One AI Video
+HouseCanary (Restructuring / Asset Licensing)
+HouseCanary (restructuring)
 Hovione
+Howso (formerly Diveplane)
+Huawei Noah's Ark Lab
+Huft Home Services
+Hugging Face
+Hugging Face Datasets
+Human Archive
+Humane (Struggling Ai Pin / Assets for Sale)
 Humane AI Hardware
+Humanloop
+Humanoid
+Humans in the Loop
+Hume AI
+Humyn Labs
+Humyn Labs Code Evals
+HurixDigital
+Hut 8
+Huzzle Labs
+Hydra Host
+Hydrosat
+Hyperbolic
 Hyperbolic AI Compute
+Hyperbolic Labs
+Hyperfusion
 Hyperloop One
+Hyperloop One (Liquidated Assets)
+Hyperloop One (liquidated)
+Hyperscience
+Hyperstack
 Hypertec Systems
 Hyzon Motors
+IAM Robotics Piece-Picking Swift
 IAM Robotics Swift
+IBM Research
 ICEYE Radar
 ICEYE Synthetic Aperture
+ICICI Lombard
+ICON plc
+IEH Laboratories & Consulting
+IITRI
+IKS Health
+IMQ Group
+IMR Test Labs
+INRIX
+IO-AI
+IOMED
+IONOS
 IQVIA Data
+IREN
+ISAAC Instruments
 ITC Labs India
+IUDX
 IXcellerate Datacenters
+Iambic Therapeutics
 Iceotope Technologies
 Icertis Contract Intelligence
+Ideogram
 Ideogram AI
 Ideogram AI Visual
+Idler
 Ike Robotics Automated
+Ike Robotics Freight Assurance
+Ilara Health
+Imagga
+Imbue
+Immersive Fox
+Immunai
 Impact Analytical Testing
 Import.io Data
+In House Serbia
+InVision (Design Collaboration Full Shutdown)
+InVision (Shuttered / Winding Down)
 InVision App
+Inbolt
+Incalmo
+Inception Labs
 Inceptive Bio
+Indegene
+Indico Data
+Indoor Environmental Services
+Indosat / Lintasarta
+Induction Labs
+Industrial Inspection & Consulting
+Infarm
+Inference.net
+Infermedica
+Infinigence AI
+Inflect
+Inflection AI
 Inflection AI Pi
 Informed Data Systems
+Inloop Robotics
 Innatera NPU
+Innatera Pulsar NPU
+Innodata
 Innovaccer
 Innoviz LiDAR Data
+Inotiv
 Inovalon
+Insilico Medicine
 Insilico Medicine AI
+Instabase
+Institute of Foundation Models (MBZUAI)
+InsuranceDekho
+Insuro Africa
+Intangible
+Intech Mechanical
+Intel
 Intel 471 Cybercrime
+Inteleca
+InterPixels AI
+Interos
+Intertek
 Intertek Electrical Labs
 Intertek Testing
+IntouchCX
+Intrinsic
+Intron
+Intron Health
+Intron Health Speech
 Inventec Computing
+Invisible Tech
+Invisible Technologies
+Invitae (Chapter 11 / Genetic Variant Data)
+Inworld AI
 Iris Energy IREN
+Iron Mechanical
+Iron Ox
 Ironclad Contract Lifecycle
 Ironclad Contracts
+Isomorphic Labs DeepMind
+Ituran
+J&T Express
+JAKA Robotics
+JLL Data Center Solutions
+JNE / PT Tiki Jalur Nugraha Ekakurir
+JSA Advocates & Solicitors
+JSL / SIMPAR
+JUMO
+JW McClenahan
 Jan AI Open Core
+Jarvislabs
+Jasper AI
+Jasper AI (Enterprise Copywriting Layoffs / Distress)
 Jawbone Health
 Jibo
+Jibo (Liquidated Social Robot Telemetry)
+Jina AI
+JiviAI
+John Madonna Construction
+John Moore Services Houston
+John Snow Labs
+Jua
 Jubilant Life Sciences
+Jubilee Holdings
+Judicata (Fastcase)
 Judicata Legal Analytics
 Juicero Press
 Juno Rideshare
+Jupiter Intelligence
+Juro
+Jusbrasil
+Jusfy
+K Health Primary Care
 K-Scale Labs Open
+K2View
+K2View Synthetic
 KBI Biopharma
 KBI Biopharma Testing
+KCAS Bio
+KEYENCE Corporation
+KIMS Hospitals
 KIO Networks LATAM
+KOKO Networks (Administration)
+KOKO Networks (administration)
+KOKO Networks — Kenya administration
+KONST / Glows.ai
+KPJ Healthcare
+Kaedim
+Kaedim (3D Mesh AI Training Datasets)
 Kaedim 3D
+Kahun Medical AI
+Kaiber
 Kaiko Market Data
+Kailash Labs
+Kaiterra
+Kakao
+Kalera
+Kalpa Labs
+Kamino
 Kandou Bus
 Kangaroo Health
+Kangaroo Health (Remote Patient Monitoring Telemetry)
 Kano Computing
 Kanop Canopy Carbon
+Kao Data
 Kao Data UK
+Kaplan & Stratton
+Karakuri
+Karya
+Kaspr Contact Graph
+Katalist
+Katerra (liquidated)
 Katerra Construction
+Katerra Construction (Liquidated Assets)
+Kavak
 Kayrros
 Kayrros Energy Analytics
 Kenko Health Plans
+Kenya Airways / KQ MRO
+Kepler Robotics
 Keppel Data Centres
+Kerry Logistics / SF Holding
+Kespry (Liquidated Drone Photogrammetry)
+Keyframe Labs
+Keymakr
+Khaitan & Co
 Kharon Global Graph
+Kidadl (Liquidated / Asset Sale)
+Kili Technology
+Kind Humanoid
+Kindo AI
 Kindo AI Enterprise
+Kinetic Blocks
+Kinetix
 Kinsa Health Illness Data
 KiteX Wind Power
 Kitty Hawk
+Kitty Hawk (Liquidated eVTOL Telemetry)
 Kiwa Group
 Kiwibot Delivery Fleet
+Klap AI
 Kling AI Video
+Klinik Healthcare Solutions
+Klinik Pintar
+Klu
 Klu AI
+Klydo
+Kneron
 Knightscope Autonomous Security
+Knowlify
+Kochhar & Co
+Kodiak Autonomous Trucking
 Kodiak Robotics Freight
 Kofax Tungsten
+Kognic
+Kolena
 Komodo Health
 Komodo Health Dragon
+Konfio
+Koo
+Kore.ai
 Kosen Labs
+Kosen Labs (DeFi Reinforcement Learning Shuttered)
+Kotoba Technologies
 Kotoba Translation
 Kowabunga Cloud
 Koyeb Cloud
 Koyo Loans UK
 Kpler Commodities
+Krea
+Krea AI
 Krea AI Canvas
+Kroll Risk Analytics
+Krutrim
+Krutrim / Ola Krutrim
+Krutrim Indic
 Kry Health Restructure
+Kudo
+Kudo Translation
+Kueski
+KugelAudio
+Kuinbee
+Kunlun Tech Mureka
+Kuva Space
+Kyutai
 Kyutai Labs Voice
+LG AI Research
+LGC Group
 LM Studio Compute
+LNT & Partners
+LSEG
+LSEG Refinitiv Workspace
+LTS Group
+LXT
 LXT AI Data
 LabGenius
+LabGenius Synthetic Bio
 Labcorp Drug Development
+Label Studio / HumanSignal
+Label Your Data
+Labelbees
+Labelbox
+Labelbox / Prism
+Labelbox Platform
+Labellerr
+Laboratory Testing Inc.
+Lagoon Hospitals
+Lakera
 Lakera AI Defense
+Lalamove
+Lambda
+Lambda Labs
+Lambda Labs Baremetal
+Lami
+Lamina Labs
+Lamini
+Lamini AI
 Lamini Enterprise LLM
 LanceDB Corp
+Lancet Laboratories
 Landing AI Data
 Landing AI Lens
+LandingAI
+LangChain
+LangSmith
 Langdock
 Langfuse
+Langfuse Observability
+LanguageWire
+Lantern (Digital Cognitive Behavioral Therapy Shuttered)
 Lantern Health
+LatchBio
+Latent Labs
+Latent Technology
+Latitude.sh
+LatticeFlow AI
+Laurel
 LawGeex Automated Review
+LawToolBox
+LawToolBox Rules
+Lawson Mechanical
 Layer AI Gaming
+Le Monde Group
 LeadIQ Contacts
+LeaderGPU
+Leadspace CDP Graph
+Leadway Assurance
 League Health Restructure
+Leaseweb
 Lefdal Mine Datacenter
+LegalOn Technologies
+Legalyze AI
+Legora
 Legrand Datacenter Solutions
+Leju Robot
+Lelapa AI
+Lemon Slice
+Len The Plumber
 LendUp
+LendUp (Consumer Credit Underwriting ML Telemetry)
 Lepton AI Cloud
+Lepton Software
 Level AI Contact
 Levels Health Metabolic
 Lex Machina Legal
 LexisNexis Health
 LexisNexis Legal Data
 Leya Legal AI
+LiblibAI
+Libra Robotics
+Life Healthcare
+Lifen
+Lifestores Healthcare
+Lifewood Data Technology Ltd.
 Light.co
+Light.co (Light Labs - Liquidated Computational Photography)
+LightMetrics
+LightOn
+Lightelligence Optoelectronic
+Lightmatter
 Lightning AI
+Lightning AI / Voltage Park
+Lightning eMotors
+Lightricks
+Lightwheel
+Lightyear (Atlas Technologies)
+Lila Sciences
+Lilium
+Lilium (Insolvency Proceedings / eVTOL Aerospace)
+Lilt
+LimX Dynamics
+Limestone Networks, Inc.
 Lincoln Rackhouse
+Linewise (formerly Vision Lab)
+Lingvora Solutions
 LinkSquares AI
+LinkedCare Technologies
+Linum
+Lion Electric
+Lionbridge
 Lionbridge AI
+Lipa Later
 Liqid Inc
+Liquid AI
 LiquidStack Immersion
 Lit Motors Gyro
+Livestock Wealth (Pty) Ltd
+Living Models
 Livongo Chronic Care Data
 LlamaIndex AI
+Lobotek Business Services
+Local Motors
+Locomation (Shuttered / Autonomous Convoy)
 Locomation Autonomous Convoy
+Locomation Autonomous Following
 Locomation Convoy
 Locus Robotics
+Locus Robotics Fulfillment Trajectories
 Locus Robotics Pickers
+Loft Orbital
 Log9 Materials Corp
 Lonza Group
+Loom (Atlassian Asset Integration)
 Loomis Analytics Asset
+Looplex
 Lordstown Motors
+Lordstown Motors (Chapter 11 / Electric Trucks)
+Lovable
+Lovo AI
+Lovo AI Studio
+Lucid
+Lucideon
 Lucideon Materials
+Luel
+Lulalend / Lula
+Luma AI
 Luma AI 3D
+Luminance
+Luminance Legal
 Luminance Legal AI
+Luminar Technologies
 Lusha B2B Contacts
+Lusha Contact Intelligence
+Luzia
+LynxCare
 Lytro
+Lytx
+M-KOPA
+M-TIBA
+M47 Labs
+MAVY EduSolutions
+MD.ai
+MDClone
+MDClone Health
+MDaaS Global
 MET Laboratories
+MGP Coatings
+MISTRAS Group
+MRIGlobal
+MSCI
+MYDAWA
+Macgence
 Macgence Data
+Machado Meyer
 Macquarie Data Centres
+Made.com (Administration / Brand Sold)
+Magic AI
+Magic Data 晴数智慧（原爱数智慧）
+Magnific AI
+Magpie IQ
+Mahindra Logistics
 MainOne Equinix
 Maincubes Datacenters
+Maingen
+Maino Construction
+Maisha Meds
+Mango AI
+Manipal Hospitals
+Mansa API
+Mansa Markets
 Marathon Digital MARA
+Marelich Mechanical
 MarineTraffic
+Maritaca AI
+Mark III Construction
 Markforged 3D Systems
+Markov
 Marqo AI
 Martian Model Router
+Marval O'Farrell Mairal
+Massed Compute
+MatX
 MatX Chips
 MatX Semiconductor
+Mater Hospital Kenya
+Matic
+Matouk Bassiouny
+Matternet
+Matternet (Struggling Medical Drone Logistics)
+Mattioni Plumbing Heating Cooling
+Mattos Filho
 Mawson Infrastructure
+Max Healthcare
 Maxar Technologies Data
+Maxicus
+Maxim AI
+May Mobility (Autonomous Shuttle Restructuring)
 Mayfield Robotics
+Mbodi AI
+McCarthy Services Virginia
+McCrone Associates
+Measurable AI
+Mechanize
+Mecka
+Mecka AI
+Mecka Robotics Data
+MedCorpora
+MedGenome
 Medallion Data Centres
+Medanta The Medicity
+Medefer
+Medi Assist
+MediBuddy
+Medial
+Mediclinic
+Mediktor
 Medistri Sterilization Labs
 Medpace
 Medpace Testing
+Medplus
+Medrobotics
+Megabyte Axis Sdn Bhd
 Meilisearch
+Meituan
+Melius
+Memed
+Mendel AI
 Mendel AI Clinical NLP
+Mentee Robotics
+Mercor
 Mercor Talent
 Merieux NutriSciences
 Merkle Science Tracker
+Meshy
 Meshy AI 3D
 Messari Research Data
+Meta AI
 Metaphysic AI
 Metaplane Observability
 Metcut Research
 Metcut Research Associates
+Meteomatics
+Metriport
+Metropolis Healthcare
+MiCOM Labs
 MiTAC Computing
+Michael & Son Services
+Michelson Food Chemistry Testing
 Michelson Laboratories
+Microanalytics Aroma GC-MS Labs
 Microanalytics Testing Labs
 Microbac Laboratories
 Microblink
+Microlise
+Micromeritics
 Micromobility.com
+Micromobility.com / Helbiz (E-Scooter Telemetry Liquidation)
 Micropsi Industries
 Microway HPC
+Midcentury
 Middesk Business Identity
+Midjourney
 Midwest Laboratories
+Midwest Soil & Agriculture Testing
+Milaha / Qatar Navigation
+Milestone Electric Air Plumbing Dallas
+Miljan Gogic
 Milliman MedInsight
 Milvus Zilliz
+Mimic Robotics
+Mimix
 MinIO Object Storage
+Mind Robotics
 Mindgard
+Mindkosh
+Mindrift
+Mindstone
+Mindstrong Health (Liquidated Biomarkers)
+Minerva Humanoids
+MiniMax
 Minimax AI Corp
 Mint Personal Finance
+Mirage (formerly Captions)
+Miraxis AI
+Mirendil
 Mission Motors
+Mistral AI
 Mistral AI Corp
+Misty Robotics
+Mitchell Cotts Group
 Mmhmm
+Mmhmm (Virtual Presentation Video Telemetry)
 Mobilint Accelerator
+Moda Operandi (Restructured)
+Modal
+Modal Cloud
+Modal Labs
+Modal Labs Cloud
+ModelBest
+Modular
+Modular Accelerate
 Modular Systems
+Modulate
+Mohamed Yousuf Naghi Group / Arabian Trading Supplies
+MoleculeMind
+Momenta
+Momentum Group
+Moniepoint / TeamApt
+Monte Carlo
+Montrose Environmental Group
 Monumental Bricklaying Robotics
+Moondream
+Moonshot AI
 Moonshot AI Kimi
+Moonvalley
+Moove (Nigeria exit; group active)
 Morph Studio
+Morphic
+Morris-Jenkins Charlotte
+Morrow-Meadows
+Most Robotic
+Mostly AI
+Motif Technologies
+Motional
 Motivair Liquid
+Motorica
+Motorq
+Movate
+Moving Atoms
 Moxion Power Storage
+Mozilla Data Collective
+Mr. Data Centers
 Mubert Generative
 Mujin Controller
+Multiverse Computing
+Munito AI
 Munters Datacenter
 Muon Space Data
+Murf AI
+Murf AI Studio
+MyTron Labs
+Mythic AI
+Mythic Analog Compute
+Mérieux NutriSciences
 NAMSA Medical Device CRO
+NAQEL Express / Saudi Post SPL
+NAVER Cloud
+NDT Global
+NEURA Robotics
+NEURVIX
 NEXTDC Australia
+NHN Cloud
+NK Builders
+NSL Analytical
 NSL Analytical Services
 NTS Technical Systems
+NTT Global Data Centers
+NUMERIC / TWO AI
+NURX (Thirty Madison Asset Carveout)
+NV5
+NVIDIA
 Nabiax Datacenters
+Nabla
+Nabla Clinical Copilot
 Nagman Calibration
+Nairobi Hospital
+NalandaData
+Naluri
+Naluri Life Health
 Nansen Blockchain
+NantHealth
+NaraDatum
+Narayana Health
+Narrative
+Nasdaq Alternative Data
+National Microgrid
 National Technical Systems
+Nauto
+Nava
+Navina AI
 Navitas Life Sciences
 Navya
+Navya (French Autonomous Shuttle Receivership)
+Ndea
+NdotLight
 Near Earth Autonomy
+Near Space Labs
 Neara Infrastructure
 Nearmap Aerial Imagery
 Nearmap Imagery
+Nebius
 Nebius AI Cloud
+Nebius Group
+Nebula Alpha
 Nebula Block
+NeevCloud
 Nelson Laboratories Sterility
 Nemko Group
+Neon
 Neptune AI
+NetLex
+Netcare
+Netradyne
 Netrality Data Centers
+NeuRRAM Analog AI
 NeuReality AI
+Neudata
+Neuphonic
 Neural Magic
 NeuroBlade
+NeuroPixel.AI
 Neurolabs AI
 Neuromation
+Neuromorphic
+New Age Solution
+NexClinAI / Nexnu Vision AI Solutions Private Limited
 NextSilicon
+NextWealth
 Neysa Networks
+Nikkei
 Nikola Restructuring
+Nikon Industrial Metrology
 Nimble Robotics Automated
+Ninja Van
+Niramai Health Analytix
 Niro Credit Fintech
+Nisa Premier Hospital
+Noble Life Sciences
+Noble Machines
 NodeWeave Edge
+Noetix Robotics
+Nomic AI
 Noom Behavioral Data
+Nordson Test & Inspection
+Nori
+Norm AI Compliance
+Normal / Normal Factory
+Normec Group
+North Star Imaging
+NorthC
 Northern Data Group
 Northflank
+Northvolt
 Northwest EMC Testing
 Nosana Compute Grid
+Nota AI
+Notta
+Nous Research
+Novita AI
+Nscale
+Nuance Labs
+Nubank
+Nuro
 Nuro Autonomous Delivery
+Nuuduu
+Nuvemshop
+NxtGen Datacenter & Cloud
+Nyne.ai
+Nyonic
 ODATA Aligned
 ODG Glasses
+OM1
+OORT
 OTTO Motors Fleet
 OVHcloud AI Infra
 OVHcloud Enterprise
+OWOW Talents
+Objectways
+Oblivus
+Observe.AI
+Ocal
 Ocrolus Financial Data
+OctoAI
+OctoAI System
+OctoML / OctoAI
 OctoML Systems
+Ocular AI
+Odyssey
+Olaniwun Ajayi
 Olive AI
+Olive AI (In Liquidation / Healthcare Automation)
+Olive AI (Liquidated Assets)
+Olive AI (liquidated assets)
 Ollama Open Serving
 Omada Health Behavioral
+Omega Healthcare Management Services
+Omie
 Omni BI Analytics
 OmniML
 Omnipresent Restructure
+Omnysys Solutions
+One Robot
 OneAsia Network
+OneForma / Centific
+OneForma by Centific
 Oneforma Platform
+Ooak Data
 Open Access Data Centres
+Open Cosmos
+OpenAI
+OpenArt
 OpenCorporates Data
 OpenCorporates Registry
+OpenHands / All Hands AI
 OpenPipe
+OpenRouter
 OpenSky Network
 OpenTopography Data
+Opendatabay
+Openlayer Evaluation
+Optalysys Optical AI
 Opus Clip Video
+Oracle AI
+Oraro & Company Advocates
+Orbis Infrastructure
+Orbital Industries / Orbital Materials
 Orbital Insight
 Orbital Insight Geospatial
+Orbital Sidekick
+Ori
+Ori Industries
+Origami Robotics
+OroraTech
 Osaro Picking
+Osmosis
+Osseus
 Otipy Fresh Commerce
 Otto Aviation
+Otto Motors Heavy Payload AMRs
 Otto Motors Intralogistics
 Ottonomy IO Autonomous
 Oura Ring Biometrics
 Ouster Digital LiDAR
+Outcome Health (Liquidated Clinical Advertising)
 Outerbounds
+Outlier AI
 Outrider Yard Automation
+Outrider Yard Autonomous Tractor
 Overhaul
 Overhaul Supply Chain
 Overstory Vegetation Data
+Owkin
 Owkin Medical Intelligence
 Owler Business Data
+Oxa
 Oxford Semantic
 Oxylabs Proxies
+Ozow
+P&J Research
+PPD (Thermo Fisher Scientific)
+PRISA Media
+PaXini Technology
 Pace Analytical
 Pace Analytical Life Sciences
+Pace Life Sciences Chromatography
 Pachama Forest Carbon
+Pacific BioLabs
+Pacific Heating and Sheet Metal
+Pacific Rim Mechanical
 Pactera EDGE
 Paige AI Oncology Data
 Paige.ai Pathology
+PaleBlueDot AI
 Palo Alto Software
+Palo Alto Software (LivePlan Small Business Financials)
+Pan-Pacific Mechanical
+Papercup (AI Dubbing Layoffs / Restructuring)
 Papercup Translation
 Papercup Video
 Paperspace Cloud
+Paradigm Asbestos Testing Lab
 Paradigm Environmental Services
+Parallel Domain
+Parallel Domain Data
 Parallel Domain Synthetic
+Pareto AI
 Parexel
+ParkourSC
+Parloa
+Parsewave
+Particle Health
+Patched
+PathAI
+PathCare South Africa
 Patheon Services
+Patronus AI
 Patronus AI Evaluator
+Paxton AI
+Paxton AI Legal
+Peach Payments
+Pear Therapeutics (Chapter 11 / Digital Therapeutics)
 Pearl Automation
+Pearson
+Pebble / Core Health (Liquidated Wearable Biomarkers)
 Pegatron Corporation
+Penda Health
 Penguin Solutions HPC
 People Data Labs
+People for AI
+Peptone Disordered Proteins
 Peptone Proteins
 Percepto Autonomous
+Perch Homes (Wound Down)
+Perch Homes (acquired / wound down)
+PerfectBit
+Perfios
+Periodic Labs
+Perit.AI
 PerkinElmer Sciences
+Perplexity
+Perplexity AI
+Persona AI
+Peterman Brothers Indianapolis
 Phantom Auto
+Phantom Auto (Shuttered Teleoperation Assets)
+PharmEasy
 Pharmalex Regulatory
+Pharmarack
 Pharmaron Life Sciences
 Pharmaron Testing Services
+Phind
 Phind Search Engine
 Phoenix Environmental Labs
+Phoenix Trace Petroleum Testing
+Photoroom
+Phrase
+Physical Intelligence
 Physical Intelligence Robotics
+PhysicsX
+PicSee / Billion Hearts
 PicnicHealth
 Picsart AI Research
+Picterra
 Picterra Geospatial AI
+Pika
 Pika Labs Video
+Pinecone
+Pinterest
+Pipo Saude
 Piramal Pharma Solutions
+PitchBook
 PitchBook Data Inc
 PitchBook Private Data
+PitchBook Private Markets
 Pix4D Photogrammetry
+PixVerse
+Pixxel
 Plainsight Vision
 Planet Labs Data
 Plastiq Payments
+Platform Science
+PlayAI
+PlayHT
 PlayHT Generative Audio
 PlaytestCloud
+Pleias
+Plenty
 Pliops
+Pluralis Research
 Plus AI Autonomous Freight
+Plus AI Driver-in-Loop
 Podcastle Audio
 PokitDok
 Pole Star Global Data
+Policybazaar
 Pollfish Survey Network
+Pollo AI
+PolyAI
+PolyAI Telephony
+Polymath Robotics
+Polymath Robotics Data
 Polymer Solutions Inc
+Polyshares
 Pony Testing Group
+Poolside
 Poolside AI
 Porter Cloud
 Portkey AI
 Portkey AI Gateway
 Porton Pharma Solutions
+Positron AI
 Positron AI Systems
 PostEra Chemistry
+Powerfleet
+Practo
+Praxis Robotics
+Precision Construction Services
+Precision Data
+Precision Plumbing Heating Cooling Las Vegas
+Precision for Medicine
+PrecisionHawk
+Predibase
 Predibase FineTuning
+Preference Model
+Preferred Networks
+Premier Hospital Kenya
 Premier Research
 Premier Research CRO
+Preqin Alternative Assets
+Preview
 Prime Data Centers
+Prime Intellect
 Prime Intellect Compute
+Prime Trust (Chapter 11 / Custodial Datasets)
 PrimeCompute
 Primer AI NLP
+Primordiant
 Princeton Digital
+Prism Industrial Effluent Labs
 Prism Laboratories Inc
+PrismaX
+Prisu Experts
+PrivCo Private Financials
+ProCogia
 ProPharma Group
+Proception.ai
+Prodigy Research
+Profluent
 Profluent Bio
 Prognos Health
+Prolific
+Prolytix
 Promega Corporation
+Prompt Security
 PromptArmor
 PromptLayer
+Promptfoo
 Pronto AI Autonomy
+Pronto AI Mining Haul
 Propeller Aero
+Proprio Robotics
 Proscia Digital Asset
 Proscia Digital Pathology
 Protect AI
 Protect AI Platform
+Protege
+Proterra (Chapter 11 / Fleet Battery Systems)
+Proven Companies
+Proximal
+PsiQuantum
+Pula
 Pulsant UK Datacenters
+PureSpectrum
 Pureprofile Panel Data
+PurpleLab
+Q Laboratories
 Q2 Solutions
 Q2 Solutions Labs
+QAI Laboratories
+QIMA
+QPS Holdings
 QTS Realty Trust
+Qashio
 Qdrant Vector
+Qodo
+Qodo / CodiumAI
+Qodo Integrity
 Quadric NPU Processor
+Quaglino Roofing
+Qualitest
+Quandoo / Recruit Holdings
 Quanergy LiDAR
 Quanta Cloud Technology
 Quantexa Decision Data
 Quantexa Decision Intelligence
 Quanticate Data CRO
 Quantilope Insights Automation
+Quartix
+QubeHealth
+Qubrid AI
 Quest Diagnostics Clinical
+Quibi (Liquidated IP & Video)
+Quibim
+Quibim Imaging
+Quick Annotate
+QuickCommerceData
 Quirky
+Quiver Quantitative AltData
 Qumulo Storage
+QuoteColo
+Quotient Sciences
+Qure.ai
+QwestLab / Kumu
+R and M Painting
+R-Jolad Hospitals
+R. McKinley Construction
+RAIC Labs
 RINA Services
 RISE Sweden
+RJ Lee Group
+RLWRLD
+ROVR
 RS Metrics
 RS Metrics Environmental
+RSM India
 RTI International
+RTT Logistics
+RWS TrainAI
+Rabbit Inc. (Struggling LAM / Hardware Distress)
+RadImageNet
+Radical AI
+RadixArk
+Raffles Medical Group
 Ragas AI
 Rain AI Neuromorphic
+Rain Neuromorphics AI
+Rajah & Tann Asia
+Rakuten
 RapidAI Vascular
+Raptor Maps
+Rarig Construction
+Rask AI
+Rasyn
+RawEval Research
 Raxio Group Datacenters
 Reach Robotics
+Reactor
+ReadSpeaker
 Real Chemistry
 Rebellions AI
 Recipharm
+Recogni Vision Perception
 Recogni Vision Processor
 Recorded Future Graph
+Recraft
 Recraft AI
+Recursion / Exscientia
 Recursion OS Bio
+RedBrick AI
+Redcliffe Labs
+Reddington Hospital
+Rednote / Xiaohongshu
+Reducto
 Reducto AI
+Refact.ai
+Refact.ai SmallTalk
 Reflect Orbital
+Reflection AI
 Refraction AI Delivery
+Reframe Data Services
+Regrow Ag
+Reka AI
+Relari
+Relevance AI
+Reliance Health
+Reliant AI
+Remedial Health
 Remesh Conversational Insights
 Remotasks Platform
 Render Network
 Rendered.ai
+RenoFi (Distressed / Restructured)
+RenoFi (distressed)
 Renoster Carbon Verification
 Reonomy Property Data
 Replica Analytics Synthetic
 Replicant Voice
+Replicate
+Replika
+Replit
+Resemble AI
 Resemble AI Voice
+Resemble AI Watermark
+Resilinc
+Resolian
+Retell AI
 Rethink Robotics
 Rethink Robotics Assets
 Retlif Testing Laboratories
 Retlif Testing Labs
+Reuters
+Reve
+Reverie
+Reverie Language
+Reverie Language Localization
+Rewind AI / Limitless (Wearable Pendant Distress)
+Rhesis AI
+Rhizome AI
 Rho Clinical Research
+Rhoda AI
+Rhymes AI
 Ribbon Health
+Ricursive Intelligence
+Ridgewell Compute
+Riften
+Rigaku
 RightHand Robotics
+Rilith
+Rime
 Riot Platforms Power
 Ripjar Crime Intelligence
 Ripjar Graph Intelligence
 Rittal Datacenter
+Ritual
+Rivian
+Rivos
+Rivos RISC-V Silicon
 Roambee Telemetry
+Robin AI
+Robin AI Legal
 Robin AI Legal Contracts
+Robocurve
+Roboflow
 Roboflow Data
+Roborecs
+RobotEra
+Robotics Center
 Robust Intelligence Guard
+Robust.AI
+RocketReach Profile Graph
 RocketReach Prospecting
+Rodrigo Elias & Medrano
+Rogo
+Rokoko
+Ropedia
+Rosendin Electric
+Rossum
+Royal Electric
+Royal Electric Company
 Royole Displays
+Rubix Data Sciences
 RudderStack CDP
+Run:ai
 RunPod Cloud
+Runpod
+Runware
+Runway
+S&P Global Marketplace
+S&R Associates
+SAP AI
+SCIKIQ
+SCiFi Foods
+SEA.AI
+SEMrush Marketing Intelligence
 SF Compute
+SGS
 SGS North America Testing
 SINTEF Norway
+SIQ
+SMACC
+SMSA Express
 SOCOTEC Group
 SRI International
+STACK Infrastructure
 STT GDC Global
 STULZ Precision Cooling
+SUPA
+SYNLAB Nigeria
 Sabey Data Centers
+SadiGroup (SadiHub)
+Safe Superintelligence
+SafeGraph
+Sagility
 Saildrone Ocean Data
+Sajid Ahmed / Truelancer relationship
+Sakana AI
 Sakti3 Battery
+Sakura Internet
 SaladCloud
+Salem Robotics
 SalesIntel B2B
+SalesIntel Verified B2B
+Salesforce AI Research
+Salient Predictions
+Sama
 Sama Data Platform
+SambaNova DataScale
+SambaNova Systems
+Samora AI
+Samsung Research
+San Francisco Data
+Sanborn
+Sanctuary AI
+SandAI
+SandboxAQ
+Sanlam
 Santiment Sentiment
+Santos Brasil
+Sapien
+Sarcos Technology and Robotics
+Sarvam AI
+Sarvam AI Corpora
+SatSure
 Satellogic
 Satellogic Earth Imaging
+Satelytics
+Satvacart
+Savannah Data Labs
+SaveIN
+Savioke (Relay Robotics)
 Sayari Corporate Graph
 Scala Data Centers
+Scale AI
+Scale AI (Outlier)
+Scale Computing
 ScaleFactor
 ScaleFlux
+ScaleHub
 ScaleMatrix Green
+Scaleway
+Scenario
 Scenario GG
+Schibsted Media
 Schneider Electric Data Centers
+Schrodinger
 SciSpace Typeset
+Science 37
+Sciforium
 Sciformix Technologies
+Sciloop
 ScrapingBee Data
+Seamless AI Engine
 Seamless.ai Search
 Secoda Data Hub
+Second Measure
+Second Measure (Bloomberg)
 SecurityScorecard Ratings
+Seegrid 3D Vision AMRs
 Seegrid Industrial
 Seegrid Vision AMRs
+Seeweb / DHH
+Segmed
 Segmed AI
 Segments.ai Robotics
+Sema4
+Semron
 Semrush Data
 Semrush Search Data
+Sendy (estate/entity unresolved)
+Sendy (in administration)
+Sendy Logistics (In Administration)
 Sensat Spatial Data
+Sensei
 Sensely Health Restructure
 Sensitech Cold Chain
 Sensor Tower Intelligence
+Seqster
+Sereact
 Serve Robotics Sidewalk
 Serverfarm Datacenters
+Serverwala
+Service Champions Orange County
+ServiceNow AI
+Sesame AI
+Sesterce
+Shadeform
+Shaip
+Shaip Data
+Shaip Humanoid VLA
+Shaip, by Ubiquity
 Shakudo MLOps
+Shapeways
+Sharecare
 Shealy Environmental Services
+Shealy Groundwater Testing
+Shearn Delamore & Co
+Shengshu Technology
+Shepherd Robotics
 Shield AI Defense Data
 Shift Technologies
+Shift Technologies (Chapter 11 / Automotive Data)
+Shimadzu
 Shippeo Logistics
+Shiraz AI
 Shiru Bio Protein
 Shodan IoT Search
+Shofo
+Shook Lin & Bok
 Shyp Logistics
+SiCepat Ekspres
+SiFive Core AI
+SiMa.ai
+Sical Logistics
 Sidecar Technologies
 Siegfried Holding
+Sierra
+Sierra AI Agents
+SieveData
 Sifflet Data Quality
+Sify Technologies
+SigTuple
+Siginon Group
+Sigma AI
+Siigo
+Sila Services HVAC
+Silica
 Silicon Mechanics
 SiliconFlow Serving
 Silo AI Enterprise
+Siloam International Hospitals
 SimActive Software
 Simbe Robotics Tally
+Simbec-Orion
+Similarweb
+Similarweb Digital
+Similarweb Digital Data
+Simular
 Simulations Plus
+Singhania & Partners
+Singtel Digital InfraCo
 Sirin Labs
 Sirion Contract AI
+Sixtytwo
+Skiff (End-to-End Encrypted Docs / Shuttered by Notion)
+Skild AI
 Skild AI Robotics
+Skrine
 SkyEngine AI
+SkyFi
 Skycatch Spatial
+Skydio
 Skydio Data Solutions
+Slang AI
+Sleek
+Sloyd
+Small Robot Company
+Smallest.ai
+SmartOne
+Smartling
 Smartproxy Data
+SmileDirectClub (Chapter 7 Liquidation / 3D Dental)
+SmileDirectClub (Liquidated)
 Smithers Group
 Smithers Materials Science
 Smithers Materials Testing
+Snell Heating Air Plumbing
+Snorkel AI
 Snorkel AI Flow
+Snorkel Flow
+Snowflake
+Soda Data
+Sofar Ocean
 Soft Robotics Grippers
+SoftBank Corp
+Soket AI Labs
+SolarSync Infra
 Soluna Computing
+Solvimate
+Solvitude Solutions
 Solyndra Solar
+Sonder (Restructuring / Strategic Partnership)
+SonderMind Health
 Sondors
+Sonilo
+Soniox
+Sono Motors
+Soul AI
+Soul AI Human QA
 Soul Machines Virtual
+SoundHound AI
+Soundful
 Soundraw Music
+SourceBridge Co.
+SourceX
+Sourcebae
+Sourcegraph
 Sourcemap Supply
+Southern Research
+Southland Industries
 Southwest Research Institute
+Souza Construction
+SpAItial
 SpaceDC Southeast Asia
 Spaceknow
+Speechify
+Speechify Audio
 Speechify Media
+Speechmatics
 Speedata
+Spellbook
 Spellbook Legal
+Spexi
 Sphero
+Spheron
 SpiNNcloud Systems
+SpiNNcloud Systems Germany
 Spire Aviation
+Spire Global
 Spire Global Maritime Data
 Spire Maritime Tracking
+Spirit AI
+Splash Music
+Spline
+Splx AI
+Spoor & Fisher
 Sporton International
 Spring Health Restructure
+Springer Nature
 Spruce Holdings Restructure
 SpyCloud Identity Data
+Stability AI
+Stalwork
+Stalwork Inc.
+Standard Intelligence
 Standigm AI
+Stankovic & sinovi
+Starry (bankruptcy restructuring)
+Starry Internet (Chapter 11 Restructuring)
+Starship Technologies
 Starsky Robotics
+Starsky Robotics (Liquidated Telemetry)
 Starsky Robotics Archive
+Starsky Robotics Cabless
+Startek
+Statice
+Statice / Anonos
 Statice Synthetic
+StepFun
 StepFun AI
 Sterling Pharma
+Sterling Vale
+Stitch
+Stoa
+StockTwits Sentiment Stream
 Stockmark AI
+Stord Data Foundry
 Stork H&E Materials
 Stork Herron Testing Labs
+Storytailors / Fixer Colombia
+Straight Line Roofing and Construction
+Strand AI
+Stream Data Centers
 Streetbees Conversational Data
+Strut Partners
 Subtl AI Search
+Subtle Medical
 Suburban Testing Labs
+Suburban Water Quality Labs
+Suki
+Suki AI Healthcare
+Sumer
+SunTec India / SunTec.ai
+Sunday Robotics
+Suno
 Suno AI Music
 Supahands Data
+Super Group
+SuperAnnotate
+SuperAnnotate Multimodal
+Superb AI
 Supermicro Solutions
+Supernal
 Superpedestrian
+Superpedestrian (Shuttered Micromobility)
+Surge AI
+Sutherland
 Suzy Consumer Insights
+Swaayatt
+Sweep AI
+Sweep AI Dev
+SwipeRx
 Switch Citadel
+Swordfish AI Identity
 Syapse
 Syapse Oncology Network
 Sylvera Carbon Intelligence
+Symbal
+Symbolica
 Symbotic Warehouse
 Symphony Health
 Synapse BaaS Corp
+Synapse Financial Technologies (Chapter 11 Bankruptcy)
 Syneos Health
+Syngene International
 Synq Data Reliability
+Syntegra
+Syntegra Health
 Syntegra Synthetic EHR
 Synteract Clinical
 SynthLabs
+Synthesia
 Synthesia Media
 Synthesia Studio
+Synthesis AI
+Synthesized
+Synthetic Sciences
 Syntho
+Syntiant Edge Ultra
+SysGenPro
 T5 Data Centers
+TAUS
+TDCX
+TEAM, Inc.
+TELUS Digital AI
 TELUS International AI
+TEMPLARS
+THP Mechanical
+TII (Technology Innovation Institute)
 TNO Netherlands
 TRM Labs Forensics
 TUV AUSTRIA Group
@@ -1067,88 +2991,251 @@ TUV SUD
 TUV SUD America Labs
 TUV Saarland
 TUV Thuringen
+TVS Supply Chain Solutions
+TWI
+Taalas
+Taalas Micro
 Taalas Silicon
+Tabnine Code
+Tachyum
+TagX
 Taiga Cloud
 Taiga Cloud AI
+Takeoff Technologies
 Tally Credit App
 Tally Technologies
+Tandem Health
+Taranis
+TaskUs
+TaskUs AI Labs
 Tasq Technology
+Tasq.ai
+Tata 1mg
 Tauras AI Cloud
+Taurus Welding
+Tavus
 Tavus Conversational Video
+Taylor & Francis / Informa
+TechSpeed
+Techsalerator
+Tegus Alpha Insights
 Telehouse KDDI
+Telispac Digital
 Telmai Data Observability
+Tempus
 Tempus AI Precision Data
+Tencent Cloud AI
+Tencent Hunyuan
 Tensor.art Generative
+TensorDock
+TensorWave
 TensorWave AMD Cloud
+Tenstorrent
+Tenstorrent Wormhole
+Tentamus Group
+TeraWulf
 Teraco Data Environments
+Terra Data Indonesia
+Terracon Engineering Laboratories
 Terracon Environmental Labs
 Terradepth Subsea
+Terran Orbital
+Terray Therapeutics
+Tessl
+Testlio
+TetraMem In-Memory
+Tevva Motors
 Thalmic Labs
+The Agentic Data Company
+The Ayurveda Co
+The Biological Computing Co.
+The Data Appeal Company
+The Data Factory Global
+The Delta Group
 The Messenger Media
+The Nairobi Hospital
+The Weather Company
+Therma LLC
+Theta Labs (Theta EdgeCloud)
 Think Global EV
+Thinking Machines Lab
+Thinknum
+Third Bridge Forum Data
+Thoma Electric
 ThoughtRiver Analysis
+Three Brothers Linguistics
+Tidel.ai
 TierPoint Colocation
+Tilleke & Gibbins
 Tive Sensor Tracking
 Tofu AI
+Together AI
 Together AI Infra
 Token Terminal
+Toloka
+Toloka AI
 Toluna Consumer Intelligence
+TomTom
+Tome AI (Generative Document Layoffs / Distress)
 Tomorrow Weather Data
+Tomorrow.io
+Tongaat Hulett
+Tonic.ai
 Toplyne Technologies
+Topos Bio
+Torc Robotics Autonomous Freight
 Torc Robotics Autonomy
 Torrent Laboratory
 Tortoise Autonomous Mobile
 Toxikon Corporation
+TozziniFreire
 Trace Laboratories
+Traceloop
+Tracxn Innovation Intelligence
 Tracxn Technologies
+Train Them AI
+TrainPlex
+TransQual Corp
+Transcat
+Translated
+Transport Corporation of India
+Transworld Group
 Trase Earth Data
+Traverse
+Treble Technologies
 Trellis Legal Intelligence
 Trellis Research State
 TriNetX
 TriNetX Real World
+Tricamo Construction
+Tricog Health
+Trilegal
+Trinta
 Tripo 3D AI
+Tripo AI
+Troveo
+TruEra
 TruEra AI Quality
+TruKKer
+TrueData
+TrueFan AI
 TrueFoundry
+Truelabel
 Truera AI Restructure
+Truesdail Laboratories
+TrustRadius Software Data
+Trustible
 Truveta Health Intelligence
+TuSimple (US Wind-Down / Autonomous Trucking)
+TuSimple (US Wind-Down)
+TuSimple (US wind-down)
 TuSimple Autonomous Trucks
+TuSimple Highway Freight
 TuSimple Trucking
+Tuft & Needle (Serta Simmons Bankruptcy)
+Tupelo / Gro Intelligence (Climate Data Shutdown)
+Turaco
+Turing
+Turing Data
 Turing GPU Cloud
+Turivius
 Turquoise Health
+Twelve Labs
 Tyan Computer
+TypeSafe AI
 Typesense Engine
+Typewise
+TÜV NORD
+TÜV Rheinland
+TÜV SÜD
+UBIMET
+UBTECH Robotics
 UK Biobank Data
 UL Solutions
 UL Solutions Testing
+UNEVA AI
+Uber AI Solutions
+Udio
 Udio Music AI
+Udo Udoma & Belo-Osagie
+UiPath
+Ula
+Ultromics
+Umbra
+Unbabel
 Uncapped Restructure
 UniCourt Legal APIs
 UniCourt Legal Intelligence
+UniX AI
+Unidata
+Uniphore
+Unissey
+United Mechanical
+Unitrans / KAP
+Unitree Robotics
+Universal Hydrogen
+Unseenlabs
 Unstructured IO
+Untether AI
+Untether AI Speed
 Untether Hardware
+UpLead B2B Prospect Data
 UpLead Verified
+Uplift AI
+Upstage
 Ursa Space Systems
+Uthana
+Utho
+V7
+V7 Labs
+VEED
+VILAF
+VJ Technologies
+VLI Logística
+VRL Logistics
+VSHosting
 VTT Technical Research
+Vaisala
 Valence Discovery
+ValidMind
 ValidMind Restructure
 Validic Health Carve-out
 Valohai
+Vals AI
+Value Logistics
 VanMoof
 Vana
+Vantage Data Centers
+Vapi
 Vapi Voice AI
 Vartest Laboratories
 Vast Data
+Vast.ai
+Vdego
+Vecna Autonomous Pallet Jacks
 Vecna Robotics
 Vecna Robotics AMRs
+Veda Solutions
+Veeda Lifesciences
+Veev (Asset Sale / Acquisition)
+Veev (Liquidated Modular PropTech)
+Veev (restructured / asset sale)
 Veev Construction
 Veev Modular Building
 Vellum AI
+Vellum Design Build
 Velo3D Metal Additive
 Verana Health
 Verana Health Registry
+Veraset
+Veraset Mobility
+Verbalscripts AI
+Verda
+Veris AI
 Veristat CRO
 Verity AG Robotics
 Verne Global Iceland
+Vertical Marketplace
 Vertiv Infrastructure
 Vespa Cloud
 Vespa Technologies
@@ -1157,63 +3244,183 @@ Vessl AI MLOps
 Vetter Pharma
 Vexcel Imaging
 Vexcel Imaging Photogrammetry
+Vezeeta
+Viam
+Viam Machine Data
 Viamet Labs
 Vicarious AI Robotics
+Vicarious Surgical
+VidRush
+Vidal Health
+Video Rebirth
+VideoGen
 Vidu AI Video
+Viettel Group
+Viggle AI
 Viggle AI 3D Motion
 Vijil AI
+Village Construction
 Vincotte Inspection
+Virgin Orbit
+VisionCapture
+Visko
 Viva Biotech Holdings
 Vivify Health Asset
 Viz.ai Synchronized
 Vnet Group
+VoiceDock / Flireo
+Voiceflow
+Voiceflow Dialogue
+Voices
 Volansi
+Volansi (Liquidated Commercial VTOL Drone Logistics)
 Volocopter
+Volocopter (Struggling German eVTOL / Emergency Funding)
+Volta Trucks (Electric Fleet Administration)
+Voltage Park
+Volume Graphics
+Vorelios
 Vortexa Energy Data
+Voxel51
 Voxel51 Data
 Voyage Auto
+Voyager
+Vroom (E-Commerce Operations Wind-Down)
+Vroom (Wind-Down / Asset Sale)
 Vroom Motors
+Vultr
+Vultr Cloud
+Vxible Consulting Group
+WBH
+WENZEL Group
+WM Motor
+WNS
+WOMBO
+Waabi
 Waabi Autonomous AI
+Waafrika
+Wadata Africa
+Wafeq
+Wandercraft
 Wappalyzer Technology
+Wasabi Technologies
 Washington Laboratories
 Waters Analytical
 Waters Corporation Testing
+Waygate Technologies
 Waystar
+Wayve
 Wayve AI Mobility
+WeWork (Post-Bankruptcy Assets)
+Weave Robotics
+WeaveGrid (EV Fleet Grid Load Telemetry)
 Webair Cloud
+Webber Wentzel
 Webz.io Cyber Data
 Weck Laboratories
+Weck Organic Contaminant Lab
+Weights & Biases
 Weka IO
+WellSaid Labs
+WellaHealth
 Welocalize AI
+Welocalize Welo Data
+Werksmans Attorneys
+Western Allied Mechanical
 Westmoreland Mechanical
 Westmoreland Mechanical Testing
+Westpak
+WhaleWisdom 13F Data
+WhiteFiber
 Whoop Human Performance
+WhyLabs
 WhyLabs AI Control
+Wicks Roofing
+WideBot AI
+Wiingy AI
+Wilder Point
+Wiley
+Willow Garage
+Wilson Sons
 Windward Maritime AI
 Wingtra Aerial
 Wingu Africa
+Winverse AI
 Wirestock Inc
 Wistron Corporation
+WitnessAI
 Wiwynn Cloud Hardware
+WonderTx
+WongPartnership
+Woolpert
+Wordsmith
 Workhorse Group
+World Labs
+WorldEngine AI
 Worldwide Clinical Trials
+Worldwide Technology Solutions
+Writer
 Writer Enterprise LLM
 Wrtn Technologies
 WuXi AppTec Services
 WuXi AppTec Testing
+Wyvern
+X Square Robot
+X-Humanoid
+XPeng Robotics
+Xaira Therapeutics
 Xeneta
+Xona Space Systems
+Xpert Systems / XpertSystems.ai / Algosrus
+XtalPi
 YData
 YData AI
+YKVN
+YTL Power Digital Infra
+Yellow.ai
+YipitData
+YipitData Alternative
+YoLa Fresh
+Yoco
+Yodawy
+Yondr
 York Analytical Laboratories
+York Contaminant Analytical Labs
+Yotta / Shakti Cloud
+Yotta Data Services
+You.com
+Yugm AI
+Z.ai
+ZEISS Industrial Quality Solutions
+Zadara
+Zaki Hashem
+Zapia AI
+Zappi
+Zealthix
+Zeehaus (Distressed)
+Zeehaus (distressed)
 Zeet Co
 ZenML
+ZenteiQ
 Zephyr Health
+Zephyr Health (Life Sciences Commercial Clinical Data)
+Zero Latitude Labs
+Zerodha
 Zesty AI Fire Restructure
 Zhipu AI Frontier
 Zongmu Technology
 ZoomInfo Technologies
+Zulily (Liquidated E-Commerce Assets)
+Zume (shuttered)
 Zume Pizza
+Zume Pizza (Liquidated)
 Zumo Labs
+Zuri Health
+Zus Health
+Zydii Limited
+Zydii Limited (Liquidated)
+Zydii Limited (in liquidation)
+Zyphra
 Zyte Web Scraping
 aar healthcare
 abacus.ai
@@ -1250,6 +3457,8 @@ ai hay
 ai2 (allen institute for ai)
 ai21 labs
 ai71
+aiOla
+aiXplain
 aidoc
 aidoc medical
 aignostics
@@ -1319,6 +3528,7 @@ applied digital
 applied technical services
 applus+
 apptronik
+aptLearn
 aptlearn
 aptura
 aragon ai
@@ -1340,6 +3550,7 @@ astrazeneca
 astrext
 astria
 astribot
+atNorth
 atNorth High Density
 atla
 atnorth
@@ -1361,6 +3572,7 @@ axe compute
 axiom math
 aya data
 aya data medical
+aytm
 azb & partners
 babylon health (bankruptcy / chapter 11)
 babylon health (bankruptcy)
@@ -1516,6 +3728,7 @@ concentrix
 conexa
 confident ai
 confident ai (deepeval)
+constellr
 consumer edge
 consumer edge intelligence
 conta azul
@@ -1561,6 +3774,7 @@ cursor / anysphere labs
 cuspai
 cvat.ai
 cyril amarchand mangaldas
+d-Matrix Corsair Cluster
 d-id
 d-matrix
 daedalean
@@ -1654,6 +3868,7 @@ dp world / imperial logistics
 dr lal pathlabs
 dr.consulta
 drain doctors plumbing
+driveblocks
 drongo ai
 drongo ai clinical
 drugstoc
@@ -1668,6 +3883,10 @@ dynamo ai
 e-solutions
 e2e networks
 e2f
+eFishery (Restructuring / Asset Sale)
+eFishery (estate/entity unresolved)
+eFishery (restructuring)
+eOdyn
 eStruxture Data Centers
 eag laboratories
 eagle alpha
@@ -1916,12 +4135,17 @@ hyperloop one (liquidated assets)
 hyperloop one (liquidated)
 hyperscience
 hyperstack
+iMerit
+iRobot
+iSON Xperiences
+iSoftStone
 iambic therapeutics
 ibm research
 icici lombard
 ideogram
 idler
 idwall
+iiV Health Solutions
 iiv health solutions
 iks health
 ilara health
@@ -1976,6 +4200,7 @@ iron mechanical
 isoftstone
 ison xperiences
 iudx
+iuvo BioScience
 j&t express
 jarvislabs
 jasper ai (enterprise copywriting layoffs / distress)
@@ -2148,6 +4373,7 @@ lxt
 m-kopa
 m-tiba
 m47 labs
+mPharma
 macgence
 machado meyer
 made.com (administration / brand sold)
@@ -2311,6 +4537,7 @@ noble machines
 nomic ai
 nordson test & inspection
 nori
+noris network
 normal / normal factory
 north star imaging
 nota ai
@@ -2402,6 +4629,7 @@ phantom auto (shuttered teleoperation assets)
 pharmarack
 pharmeasy
 phind
+phoenixNAP
 photoroom
 phrase
 physical intelligence
@@ -2829,6 +5057,7 @@ tüv nord
 tüv rheinland
 tüv süd
 uBiome
+uBiome (Liquidated Microbiome Sequencing Database)
 uber ai solutions
 ubiome (liquidated microbiome sequencing database)
 udio
@@ -2851,6 +5080,8 @@ uthana
 utho
 v7
 v7 labs
+vLex
+vLex Global Legal
 validmind
 vals ai
 value logistics
@@ -2941,6 +5172,7 @@ worldengine ai
 worldwide technology solutions
 writer
 x square robot
+xAI / SpaceXAI
 xai / spacexai
 xaira therapeutics
 xpert systems / xpertsystems.ai / algosrus
