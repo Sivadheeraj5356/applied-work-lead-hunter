@@ -23,6 +23,7 @@
 23andMe
 3 other linkedin lead
 42dot
+466
 4baseCare
 4basecare
 568
@@ -30,11 +31,13 @@
 6 River Systems Collaborative Chuck
 637
 660
+687
 6thSense
 6thsense
 7layers Wireless
 83 Sciences
 83 sciences
+839
 A123 Systems
 AAR Healthcare
 ABBYY Document AI
@@ -98,6 +101,7 @@ Aether Biomachines
 Aether Engine VR
 Aethir
 Aethir Cloud Network
+Aethir Decentralized GPU Cloud
 Aetina Embedded Edge
 Aetion Real World Evidence
 Aeva
@@ -151,6 +155,7 @@ Alice
 Align AI / Rubric AI
 Aligned Data Centers
 Alignerr Platform
+Alina — alina@appliedwork.ai
 Alinia
 Aliri Bioanalysis
 All 1 Mechanical
@@ -193,6 +198,7 @@ Ango AI
 Anju Software
 Anki (Liquidated Consumer AI Robotics)
 Anki Robotics
+Anki Robotics IP Assets
 Annolance
 Annolance AI
 Annolance AI (CAD licensing signal)
@@ -229,6 +235,9 @@ Applied Digital
 Applied Intuition AV
 Applied Intuition Simulation
 Applied Technical Services
+AppliedWork compute brokering
+AppliedWork data
+AppliedWork data brokering
 Applus Services
 Applus+
 Applus+ Laboratories
@@ -252,6 +261,7 @@ Argo AI (Shuttered Assets)
 Argo AI (shuttered by Ford/VW)
 Argo AI Autonomous Data
 Argo AI Autonomous Mapping
+Argo AI Autonomy Assets
 Arize AI
 Arize AI Observability
 Arize Phoenix
@@ -259,6 +269,7 @@ Arkham Intelligence Data
 Array Labs
 Arrival
 Arrival (UK Administration / Commercial EV)
+Arrival Electric Mobility
 Arterys Medical AI
 Arthur AI
 Arthur AI Monitoring
@@ -407,6 +418,7 @@ Biotrial
 Bird (Chapter 11)
 Bird Global
 Bird Global (Chapter 11 Post-Bankruptcy)
+Bird Rides Restructuring
 Bit Digital Cloud
 BitSight Security Metrics
 Bitdeer
@@ -416,6 +428,7 @@ Bito Developer
 Bizon Tech Workstations
 Black Forest Labs
 Black Forest Labs AI
+Black Forest Labs FLUX Infra
 BlackBoiler Editing
 BlackSky Global
 BlackSky Global Intelligence
@@ -449,6 +462,7 @@ Boyd Corporation Thermal
 Braintrust
 Braintrust AI Eval
 Braintrust Data
+Braintrust YC Eval
 Brammo Electric
 Brass
 Braun Intertec
@@ -466,6 +480,7 @@ Britam
 Briya
 Broad Institute Data
 Broadway Mechanical
+Brodmann17 Vision IP
 Brooks Applied Labs
 Bruker
 Bruker BioSpin
@@ -514,6 +529,7 @@ CalypsoAI Trust
 Cambrex
 CameraMatics
 Canoo
+Canoo EV Distressed
 Canopy Wave
 Canva / Leonardo AI
 Canvas Construction
@@ -539,6 +555,7 @@ Caris Life Sciences Data
 Carlotz Consignment
 Cartesia
 Cartesia AI Voice
+Cartesia Voice Lab
 Cartrack
 Cartwheel
 Casetext (Thomson Reuters)
@@ -590,6 +607,7 @@ Chemir Analytical Services
 Cherre Real Estate Graph
 Chimoney
 Chindata Group
+Chloris Geospatial Env
 Chooch AI Vision
 Chowbotics
 Chroma
@@ -621,6 +639,7 @@ CleanSpark HPC
 Cleanlab
 Cleanlab AI
 Cleanlab Data AI
+Cleanlab Eval Labs
 ClearML
 ClearTax (Clear)
 Clearbit Data Engine
@@ -666,6 +685,7 @@ Cognism Sales Intelligence
 Cognition
 Cognition AI
 Cognition AI Devin
+Cognition Labs Devin Compute
 Cohere
 CohesionX
 Coin Metrics Network
@@ -679,6 +699,8 @@ Comet Yxlon
 Comfort Systems USA
 Common Crawl
 Compal Electronics
+Company
+Company Name
 Compass Datacenters
 ComplyAdvantage AML
 ComplyAdvantage AML Data
@@ -699,6 +721,7 @@ Conta Azul
 Conta Simples
 ContactOut Executive Data
 Contextual AI
+Contextual AI Lab
 Continue Dev
 Continue.dev
 ContractPodAi Legal
@@ -717,6 +740,7 @@ Core Scientific HPC
 Core42
 CoreSite Realty
 CoreWeave
+CoreWeave Dedicated Clusters
 Cornami AI Compute
 Cornelis Networks
 Cortex AI
@@ -734,6 +758,7 @@ CourtListener Legal Data
 CourtListener RECAP
 Covalent Metrology
 Covariant
+Covariant Robotics Lab
 CoveLabs.ai
 Cradle
 Cradle Bio
@@ -755,6 +780,7 @@ Crunchbase Enterprise Data
 Crusoe
 Crusoe Energy
 Crusoe Energy Cloud
+Crusoe Energy Data Centers
 Cstream Cloud
 CtrlS Datacenters
 Cube Dev Universal Semantic
@@ -857,6 +883,7 @@ Dealroom Data
 Dealroom Ecosystem Data
 Decagon
 Decagon AI
+Decagon YC Lab
 Decart
 Decart AI
 Decart AI Mirage
@@ -883,6 +910,7 @@ DeepX Silicon
 Deepbrain AI Humans
 Deepcell Single Cell
 Deepchecks
+Deepchecks Eval Lab
 Deepchecks Validation
 Deepdub
 Deepen AI
@@ -904,6 +932,7 @@ Descript
 DesiCrew
 DesiData
 Desktop Metal Additive
+Desktop Metal Merger Hold
 Destro AI
 Dext
 Dexterity
@@ -934,6 +963,7 @@ Dr Lal PathLabs
 Drain Doctors Plumbing
 DreamBig Semiconductor
 Drive AI Deep Learning Autonomy
+Drive AI Legacy Assets
 Drive AI Legacy Data
 Drive.ai
 DroidUp
@@ -972,6 +1002,7 @@ EXL
 Eagle Alpha
 EagleView
 Earnest Analytics
+Earth Genome Env Labs
 EarthDaily Analytics
 Eastern Analytical Inc
 Eastern Analytical Utilities Lab
@@ -1003,10 +1034,12 @@ Elite Electronic Eng
 Elite Electronic Engineering
 Eliyan Corporation
 Elliptic Crypto Analytics
+Email contacts
 Embark Trucks
 Embark Trucks (Liquidated / Autonomous Assets)
 Embark Trucks Assets
 Embark Trucks Autonomous Logistics
+Embark Trucks Restructured
 Emergence AI
 Emergent
 Empyrion DC
@@ -1018,6 +1051,7 @@ Enamine Chemistry
 Encord
 Encord AI
 Encord Multimodal
+Encord Multimodal Lab
 Endel Sound
 EnduroSat
 Enfabrica
@@ -1041,6 +1075,7 @@ Essential Products
 Essential Products (Ambient OS & Smartphone Shuttered)
 Etched
 Etched In Silico
+Etched Sohu Accelerator
 Etched.ai
 Ethiopian Airlines Group / Ethiopian MRO
 Eurofins Bioanalytical
@@ -1066,6 +1101,7 @@ Evotec
 Evozyne Proteins
 Exabel
 Exabits Cloud Infra
+Exabits GPU Clusters
 Exotec Skypod
 Expedient Cloud
 Experian Health
@@ -1119,6 +1155,7 @@ Fiddler AI Carve-out
 Fiddler AI Explainability
 Fidson Healthcare
 Field AI
+Field AI Robotics
 FieldAI
 Fifth Season
 Figure
@@ -1135,6 +1172,7 @@ Fireworks AI
 Firsthand
 Firstsource
 Fish Audio
+Fisker Inc Liquidation
 Fisker Inc. (Chapter 11 Bankruptcy / EV Automotive)
 Fixxa
 Fizyr Robot Vision
@@ -1151,6 +1189,7 @@ FlightAware
 Flightradar24
 Flikforge
 Flora
+FluidStack Bare Metal GPU
 FluidStack Hyperscale GPU
 Fluidstack
 Fly.io
@@ -1160,6 +1199,7 @@ Flywheel.io
 FoodCourt / CoKitchen
 Forage AI
 Forethought AI
+Form Energy Analytics
 Formlabs Dental (Asset Carveout)
 Formlabs Desktop SLA
 Fortis Healthcare
@@ -1209,6 +1249,7 @@ Galbot
 Galbraith Laboratories
 Galicia Abogados
 Galileo
+Galileo AI Eval
 Galileo AI Evals
 Galileo AI Evaluation
 Galux
@@ -1229,6 +1270,7 @@ General Intuition
 General Reasoning
 General Trajectory
 Generalist
+Generalist AI Lab
 Generate Biomedicines
 Genesis Cloud
 Genesis Molecular AI
@@ -1246,6 +1288,7 @@ Getaround (Restructured Carsharing)
 Getty Images
 Ghost Autonomy
 Ghost Autonomy (Shuttered / Assets Available)
+Ghost Autonomy Shuttered
 Ghost Robotics
 Gideon Brothers
 Giga Computing
@@ -1307,6 +1350,7 @@ Hailo Technologies
 Haiper
 Haiper AI Video
 Haiper Video AI
+Haiper Video Compute Cluster
 Haize Labs
 Halluminate
 Halodoc
@@ -1318,6 +1362,7 @@ Hapvida NotreDame Intermédica
 Harris Construction
 Harvey
 Harvey AI Law
+Hasan — hasan@appliedwork.ai
 Hasty.ai Annotation
 HawkEye 360 RF Data
 Hazy
@@ -1413,6 +1458,7 @@ Hydra Host
 Hydrosat
 Hyperbolic
 Hyperbolic AI Compute
+Hyperbolic AI Decentralized
 Hyperbolic Labs
 Hyperfusion
 Hyperloop One
@@ -1538,6 +1584,7 @@ Jasper AI (Enterprise Copywriting Layoffs / Distress)
 Jawbone Health
 Jibo
 Jibo (Liquidated Social Robot Telemetry)
+Jibo Social Robotics IP
 Jina AI
 JiviAI
 John Madonna Construction
@@ -1556,6 +1603,7 @@ Jusbrasil
 Jusfy
 K Health Primary Care
 K-Scale Labs Open
+K-Scale Open Humanoid Locomotion
 K2View
 K2View Synthetic
 KBI Biopharma
@@ -1599,6 +1647,7 @@ Katerra Construction (Liquidated Assets)
 Kavak
 Kayrros
 Kayrros Energy Analytics
+Keecker Home Robot Assets
 Kenko Health Plans
 Kenya Airways / KQ MRO
 Kepler Robotics
@@ -1618,6 +1667,7 @@ Kinetic Blocks
 Kinetix
 Kinsa Health Illness Data
 KiteX Wind Power
+KiteX Wind Systems
 Kitty Hawk
 Kitty Hawk (Liquidated eVTOL Telemetry)
 Kiwa Group
@@ -1668,6 +1718,7 @@ Kunlun Tech Mureka
 Kuva Space
 Kyutai
 Kyutai Labs Voice
+Kyutai Voice Lab
 LG AI Research
 LGC Group
 LM Studio Compute
@@ -1695,6 +1746,7 @@ Lalamove
 Lambda
 Lambda Labs
 Lambda Labs Baremetal
+Lambda Labs GPU Clusters
 Lami
 Lamina Labs
 Lamini
@@ -1710,6 +1762,7 @@ LangSmith
 Langdock
 Langfuse
 Langfuse Observability
+Langfuse YC Eval
 LanguageWire
 Lantern (Digital Cognitive Behavioral Therapy Shuttered)
 Lantern Health
@@ -1794,6 +1847,7 @@ Livongo Chronic Care Data
 LlamaIndex AI
 Lobotek Business Services
 Local Motors
+Local Motors Shuttered
 Locomation (Shuttered / Autonomous Convoy)
 Locomation Autonomous Convoy
 Locomation Autonomous Following
@@ -1809,6 +1863,7 @@ Loomis Analytics Asset
 Looplex
 Lordstown Motors
 Lordstown Motors (Chapter 11 / Electric Trucks)
+Lordstown Motors Assets
 Lovable
 Lovo AI
 Lovo AI Studio
@@ -1819,6 +1874,7 @@ Luel
 Lulalend / Lula
 Luma AI
 Luma AI 3D
+Luma AI Dream Machine Cluster
 Luminance
 Luminance Legal
 Luminance Legal AI
@@ -1846,6 +1902,7 @@ MYDAWA
 Macgence
 Macgence Data
 Machado Meyer
+Machina Labs AI
 Macquarie Data Centres
 Made.com (Administration / Brand Sold)
 Magic AI
@@ -1867,6 +1924,7 @@ Marelich Mechanical
 MarineTraffic
 Maritaca AI
 Mark III Construction
+Markforged 3D Hold
 Markforged 3D Systems
 Markov
 Marqo AI
@@ -1875,6 +1933,7 @@ Marval O'Farrell Mairal
 Massed Compute
 MatX
 MatX Chips
+MatX Large Cluster Compute
 MatX Semiconductor
 Mater Hospital Kenya
 Matic
@@ -1889,6 +1948,7 @@ Maxar Technologies Data
 Maxicus
 Maxim AI
 May Mobility (Autonomous Shuttle Restructuring)
+May Mobility Autonomous Fleet
 Mayfield Robotics
 Mbodi AI
 McCarthy Services Virginia
@@ -1947,6 +2007,7 @@ Microbac Laboratories
 Microblink
 Microlise
 Micromeritics
+Micromobility Superpedestrian
 Micromobility.com
 Micromobility.com / Helbiz (E-Scooter Telemetry Liquidation)
 Micropsi Industries
@@ -1973,6 +2034,7 @@ Mindstrong Health (Liquidated Biomarkers)
 Minerva Humanoids
 MiniMax
 Minimax AI Corp
+Minimax Hailuo AI Supercluster
 Mint Personal Finance
 Mirage (formerly Captions)
 Miraxis AI
@@ -1980,6 +2042,7 @@ Mirendil
 Mission Motors
 Mistral AI
 Mistral AI Corp
+Mistral AI Training Clusters
 Misty Robotics
 Mitchell Cotts Group
 Mmhmm
@@ -1993,6 +2056,7 @@ Modal Labs Cloud
 ModelBest
 Modular
 Modular Accelerate
+Modular MAX Acceleration
 Modular Systems
 Modulate
 Mohamed Yousuf Naghi Group / Arabian Trading Supplies
@@ -2006,6 +2070,7 @@ Monumental Bricklaying Robotics
 Moondream
 Moonshot AI
 Moonshot AI Kimi
+Moonshot AI Kimi Cluster
 Moonvalley
 Moove (Nigeria exit; group active)
 Morph Studio
@@ -2016,6 +2081,7 @@ Most Robotic
 Mostly AI
 Motif Technologies
 Motional
+Motional Autonomous Lab
 Motivair Liquid
 Motorica
 Motorq
@@ -2084,6 +2150,7 @@ Nearmap Aerial Imagery
 Nearmap Imagery
 Nebius
 Nebius AI Cloud
+Nebius AI Studio Infrastructure
 Nebius Group
 Nebula Alpha
 Nebula Block
@@ -2137,6 +2204,7 @@ Northflank
 Northvolt
 Northwest EMC Testing
 Nosana Compute Grid
+Nosana Distributed Grid
 Nota AI
 Notta
 Nous Research
@@ -2146,6 +2214,7 @@ Nuance Labs
 Nubank
 Nuro
 Nuro Autonomous Delivery
+Nuro Delivery Assets
 Nuuduu
 Nuvemshop
 NxtGen Datacenter & Cloud
@@ -2247,6 +2316,7 @@ PaXini Technology
 Pace Analytical
 Pace Analytical Life Sciences
 Pace Life Sciences Chromatography
+Pachama Carbon Lab
 Pachama Forest Carbon
 Pacific BioLabs
 Pacific Heating and Sheet Metal
@@ -2278,12 +2348,14 @@ PathAI
 PathCare South Africa
 Patheon Services
 Patronus AI
+Patronus AI Eval
 Patronus AI Evaluator
 Paxton AI
 Paxton AI Legal
 Peach Payments
 Pear Therapeutics (Chapter 11 / Digital Therapeutics)
 Pearl Automation
+Pearl Automation Auto IP
 Pearson
 Pebble / Core Health (Liquidated Wearable Biomarkers)
 Pegatron Corporation
@@ -2319,6 +2391,7 @@ Phoenix Trace Petroleum Testing
 Photoroom
 Phrase
 Physical Intelligence
+Physical Intelligence Co
 Physical Intelligence Robotics
 PhysicsX
 PicSee / Billion Hearts
@@ -2368,6 +2441,7 @@ Polyshares
 Pony Testing Group
 Poolside
 Poolside AI
+Poolside AI Code Compute
 Porter Cloud
 Portkey AI
 Portkey AI Gateway
@@ -2395,6 +2469,7 @@ Preview
 Prime Data Centers
 Prime Intellect
 Prime Intellect Compute
+Prime Intellect Compute Hub
 Prime Trust (Chapter 11 / Custodial Datasets)
 PrimeCompute
 Primer AI NLP
@@ -2498,6 +2573,7 @@ Raffles Medical Group
 Ragas AI
 Rain AI Neuromorphic
 Rain Neuromorphics AI
+Raja — raja@appliedwork.ai
 Rajah & Tann Asia
 Rakuten
 RapidAI Vascular
@@ -2648,6 +2724,7 @@ Sagility
 Saildrone Ocean Data
 Sajid Ahmed / Truelancer relationship
 Sakana AI
+Sakana AI Tokyo
 Sakti3 Battery
 Sakura Internet
 SaladCloud
@@ -2891,6 +2968,7 @@ Stankovic & sinovi
 Starry (bankruptcy restructuring)
 Starry Internet (Chapter 11 Restructuring)
 Starship Technologies
+Starship Technologies Fleet
 Starsky Robotics
 Starsky Robotics (Liquidated Telemetry)
 Starsky Robotics Archive
@@ -2901,6 +2979,7 @@ Statice / Anonos
 Statice Synthetic
 StepFun
 StepFun AI
+StepFun Large Models
 Sterling Pharma
 Sterling Vale
 Stitch
@@ -2916,6 +2995,7 @@ Strand AI
 Stream Data Centers
 Streetbees Conversational Data
 Strut Partners
+Sublime Systems Lab
 Subtl AI Search
 Subtle Medical
 Suburban Testing Labs
@@ -3014,6 +3094,7 @@ Tata 1mg
 Tauras AI Cloud
 Taurus Welding
 Tavus
+Tavus AI Video Lab
 Tavus Conversational Video
 Taylor & Francis / Informa
 TechSpeed
@@ -3030,6 +3111,7 @@ Tensor.art Generative
 TensorDock
 TensorWave
 TensorWave AMD Cloud
+TensorWave MI300X Hyperscale
 Tenstorrent
 Tenstorrent Wormhole
 Tentamus Group
@@ -3224,6 +3306,7 @@ Veev Construction
 Veev Modular Building
 Vellum AI
 Vellum Design Build
+Velo3D Additive Restructuring
 Velo3D Metal Additive
 Verana Health
 Verana Health Registry
@@ -3248,6 +3331,7 @@ Vezeeta
 Viam
 Viam Machine Data
 Viamet Labs
+Vibrant Planet Env Lab
 Vicarious AI Robotics
 Vicarious Surgical
 VidRush
@@ -3255,6 +3339,7 @@ Vidal Health
 Video Rebirth
 VideoGen
 Vidu AI Video
+Vidu ShengShu AI Video
 Viettel Group
 Viggle AI
 Viggle AI 3D Motion
@@ -3414,6 +3499,7 @@ Zulily (Liquidated E-Commerce Assets)
 Zume (shuttered)
 Zume Pizza
 Zume Pizza (Liquidated)
+Zume Pizza Robotics
 Zumo Labs
 Zuri Health
 Zus Health
@@ -4195,6 +4281,7 @@ inworld ai
 io-ai
 io.net
 io.net Cloud DePIN
+io.net DePIN Compute Network
 iren
 iron mechanical
 isoftstone
