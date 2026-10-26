@@ -184,6 +184,7 @@ Aluko & Oyebode
 Amazon AGI
 Amberdata Institutional
 Ambi Robotics
+Ambi Robotics Lab
 Ambience Healthcare
 Ambience Healthcare AI
 Ambiguity Labs
@@ -230,6 +231,7 @@ Appen AI
 Appen Enterprise
 Appen 奥鹏
 Appinio Consumer Research
+Appinio Consumer Survey Lab
 Applause
 Applied Digital
 Applied Intuition AV
@@ -244,6 +246,7 @@ Applus+ Laboratories
 Apptopia Mobile Data
 Apptronik
 Aptera Motors Original
+Aptera Solar Mobility Hold
 Aptum
 Aptura
 Aquion Energy
@@ -264,6 +267,7 @@ Argo AI Autonomous Mapping
 Argo AI Autonomy Assets
 Arize AI
 Arize AI Observability
+Arize Model Drift Compute
 Arize Phoenix
 Arkham Intelligence Data
 Array Labs
@@ -273,6 +277,7 @@ Arrival Electric Mobility
 Arterys Medical AI
 Arthur AI
 Arthur AI Monitoring
+Arthur Model Monitoring Firewall
 Artlist AI
 Arva AI
 Ascenty Digital
@@ -299,6 +304,7 @@ Atrium Legal
 Atropos Health Prognosis
 Attabotics Automated Fulfilment
 Attest Consumer Intelligence
+Attest Consumer Panel
 Atticman
 AudioShake
 Audix Technology
@@ -390,6 +396,7 @@ Bergelectric
 Berkeys Plumbing Air Conditioning Electrical
 Berkshire Grey AI
 Bespoke Labs
+Better Place Battery Switch IP
 Better Place EV
 Better.com (Post-SPAC Restructuring)
 Betterdata
@@ -443,6 +450,7 @@ Bluelearn
 Blumind
 BodenAI
 Bodycote Materials Testing
+Bollore Bluecar Fleets Hold
 Boltz
 Bonney
 Boomy
@@ -462,6 +470,7 @@ Boyd Corporation Thermal
 Braintrust
 Braintrust AI Eval
 Braintrust Data
+Braintrust Model Evaluation Cloud
 Braintrust YC Eval
 Brammo Electric
 Brass
@@ -497,6 +506,7 @@ Byju's (Think & Learn - Insolvency Proceedings)
 Byntrava
 ByteDance 字节跳动
 Byton
+Byton M-Byte EV Liquidation
 CAMB.AI
 CASBOT
 CB Insights Data
@@ -525,6 +535,7 @@ Calcbench Financial Filings
 Calcoast ITL
 Callosum
 CalypsoAI
+CalypsoAI Enterprise LLM Firewall
 CalypsoAI Trust
 Cambrex
 CameraMatics
@@ -534,6 +545,7 @@ Canopy Wave
 Canva / Leonardo AI
 Canvas Construction
 Canvas Construction Robotics
+Canvas Robotics Drywall
 CapIQ S&P Intelligence
 Cape Analytics Property
 Capella Space
@@ -638,6 +650,7 @@ Claru
 CleanSpark HPC
 Cleanlab
 Cleanlab AI
+Cleanlab Automated Label AI
 Cleanlab Data AI
 Cleanlab Eval Labs
 ClearML
@@ -672,7 +685,9 @@ Coactive AI
 Cobalt Robotics Security
 Cobre
 Coco Delivery Robotics
+Coco Remote Sidewalk Fleet
 Coda Automotive
+Coda Automotive EV Archive
 CodeRabbit
 CodeRabbit AI
 Cogito Tech
@@ -713,6 +728,7 @@ ConcertAI
 Conexa
 Confident AI
 Confident AI (DeepEval)
+Consensus Academic Reasoning
 Consensus App Academic
 Consensus Research
 Consumer Edge
@@ -904,12 +920,14 @@ DeepEval
 DeepInfra
 DeepL
 DeepL Enterprise
+DeepL Translation Supercluster
 DeepReach
 DeepSeek
 DeepX Silicon
 Deepbrain AI Humans
 Deepcell Single Cell
 Deepchecks
+Deepchecks Continuous Validation Lab
 Deepchecks Eval Lab
 Deepchecks Validation
 Deepdub
@@ -983,6 +1001,7 @@ Dunzo Commerce
 Dust
 Dusty Robotics
 Dusty Robotics Layout
+Dusty Robotics Layout CAD
 Dvara E-Registry
 Dynamo AI
 Dyno Therapeutics
@@ -1006,6 +1025,7 @@ Earth Genome Env Labs
 EarthDaily Analytics
 Eastern Analytical Inc
 Eastern Analytical Utilities Lab
+EasyMile Autonomous Fleet Restructure
 Eaton Datacenter Systems
 EcoDataCenter Compute
 EdgeConneX EQT
@@ -1020,6 +1040,7 @@ Eigen Technologies NLP
 Eight Sleep Thermal Data
 Eka Care
 Elastic
+Electric Last Mile Solutions
 Electricraft
 Electricraft Inc.
 Element
@@ -1030,6 +1051,7 @@ ElevenLabs
 ElevenLabs Data
 ElevenLabs Voice
 Elicit Research Assistant
+Elicit Research Semantic Cluster
 Elite Electronic Eng
 Elite Electronic Engineering
 Eliyan Corporation
@@ -1134,6 +1156,7 @@ Fal AI
 Familiar
 Family Film
 Faraday
+Faraday Future EV Asset
 Fareva
 FarmWise
 Fast (shuttered)
@@ -1153,6 +1176,7 @@ Fetch Robotics Zebra Intralogistics
 Fiddler AI
 Fiddler AI Carve-out
 Fiddler AI Explainability
+Fiddler Enterprise AI Trust
 Fidson Healthcare
 Field AI
 Field AI Robotics
@@ -1252,6 +1276,7 @@ Galileo
 Galileo AI Eval
 Galileo AI Evals
 Galileo AI Evaluation
+Galileo LLM Studio Cluster
 Galux
 Garwood Aerospace EMC Test
 Garwood Laboratories
@@ -1300,6 +1325,7 @@ Gladia
 Glass Health Clinical
 Glassnode On-Chain
 Glean
+Glean Enterprise Search Infra
 Glean Search Enterprise
 Global Datafeeds
 Global Fishing Watch
@@ -1381,6 +1407,7 @@ Healthians
 HeartFlow Analytics
 Hebbia
 Hebbia AI Matrix
+Hebbia AI Matrix Reasoning
 Hebbian Robotics
 Hedra
 Hedra AI
@@ -1388,6 +1415,7 @@ Hedra AI Video
 Heidi Health
 Helicone
 Helicone LLM Observability
+Helicone Token Observability Cloud
 Helium Health
 Helix Electric
 Helm AI Autonomous
@@ -1404,6 +1432,7 @@ HeyGen
 HeyGen Video AI
 HiPhi (Human Horizons)
 HiddenLayer
+HiddenLayer ML Threat Protection
 HiddenLayer Security
 Higgsfield AI
 Higgsfield AI Video
@@ -1468,6 +1497,7 @@ Hyperscience
 Hyperstack
 Hypertec Systems
 Hyzon Motors
+Hyzon Motors Fuel Cell Hold
 IAM Robotics Piece-Picking Swift
 IAM Robotics Swift
 IBM Research
@@ -1663,6 +1693,7 @@ Kili Technology
 Kind Humanoid
 Kindo AI
 Kindo AI Enterprise
+Kindo AI Multimodel Enterprise
 Kinetic Blocks
 Kinetix
 Kinsa Health Illness Data
@@ -1671,6 +1702,7 @@ KiteX Wind Systems
 Kitty Hawk
 Kitty Hawk (Liquidated eVTOL Telemetry)
 Kiwa Group
+Kiwibot Autonomous Fleet
 Kiwibot Delivery Fleet
 Klap AI
 Kling AI Video
@@ -1742,6 +1774,7 @@ Laboratory Testing Inc.
 Lagoon Hospitals
 Lakera
 Lakera AI Defense
+Lakera AI Threat Defense
 Lalamove
 Lambda
 Lambda Labs
@@ -1783,6 +1816,7 @@ LeaderGPU
 Leadspace CDP Graph
 Leadway Assurance
 League Health Restructure
+Leap AI Robotics Lab
 Leaseweb
 Lefdal Mine Datacenter
 LegalOn Technologies
@@ -1818,9 +1852,11 @@ Lightmatter
 Lightning AI
 Lightning AI / Voltage Park
 Lightning eMotors
+Lightning eMotors Receivership
 Lightricks
 Lightwheel
 Lightyear (Atlas Technologies)
+Lightyear Solar Mobility
 Lila Sciences
 Lilium
 Lilium (Insolvency Proceedings / eVTOL Aerospace)
@@ -1868,6 +1904,7 @@ Lovable
 Lovo AI
 Lovo AI Studio
 Lucid
+Lucid Motors Supply Restructuring
 Lucideon
 Lucideon Materials
 Luel
@@ -1928,6 +1965,7 @@ Markforged 3D Hold
 Markforged 3D Systems
 Markov
 Marqo AI
+Martian Dynamic Model Router
 Martian Model Router
 Marval O'Farrell Mairal
 Massed Compute
@@ -2066,6 +2104,7 @@ Momentum Group
 Moniepoint / TeamApt
 Monte Carlo
 Montrose Environmental Group
+Monumental Bricklaying Lab
 Monumental Bricklaying Robotics
 Moondream
 Moonshot AI
@@ -2092,6 +2131,7 @@ Mozilla Data Collective
 Mr. Data Centers
 Mubert Generative
 Mujin Controller
+Mullen Automotive EV Hold
 Multiverse Computing
 Munito AI
 Munters Datacenter
@@ -2141,6 +2181,7 @@ Navina AI
 Navitas Life Sciences
 Navya
 Navya (French Autonomous Shuttle Receivership)
+Navya Autonomous Shuttle Hold
 Ndea
 NdotLight
 Near Earth Autonomy
@@ -2179,8 +2220,10 @@ NextSilicon
 NextWealth
 Neysa Networks
 Nikkei
+Nikola Energy Restructuring
 Nikola Restructuring
 Nikon Industrial Metrology
+Nimble Autonomous Robotics
 Nimble Robotics Automated
 Ninja Van
 Niramai Health Analytix
@@ -2245,6 +2288,7 @@ Olive AI (In Liquidation / Healthcare Automation)
 Olive AI (Liquidated Assets)
 Olive AI (liquidated assets)
 Ollama Open Serving
+Olli Autonomous Transit IP
 Omada Health Behavioral
 Omega Healthcare Management Services
 Omie
@@ -2291,6 +2335,7 @@ Otipy Fresh Commerce
 Otto Aviation
 Otto Motors Heavy Payload AMRs
 Otto Motors Intralogistics
+Ottonomy Airport Delivery
 Ottonomy IO Autonomous
 Oura Ring Biometrics
 Ouster Digital LiDAR
@@ -2348,6 +2393,7 @@ PathAI
 PathCare South Africa
 Patheon Services
 Patronus AI
+Patronus AI Automated Evaluation
 Patronus AI Eval
 Patronus AI Evaluator
 Paxton AI
@@ -2371,6 +2417,7 @@ Perch Homes (acquired / wound down)
 PerfectBit
 Perfios
 Periodic Labs
+Periodic Research Labs
 Perit.AI
 PerkinElmer Sciences
 Perplexity
@@ -2392,6 +2439,7 @@ Photoroom
 Phrase
 Physical Intelligence
 Physical Intelligence Co
+Physical Intelligence Lab
 Physical Intelligence Robotics
 PhysicsX
 PicSee / Billion Hearts
@@ -2445,6 +2493,7 @@ Poolside AI Code Compute
 Porter Cloud
 Portkey AI
 Portkey AI Gateway
+Portkey Gateway Multi-LLM
 Porton Pharma Solutions
 Positron AI
 Positron AI Systems
@@ -2501,9 +2550,11 @@ Proprio Robotics
 Proscia Digital Asset
 Proscia Digital Pathology
 Protect AI
+Protect AI Machine Learning Shield
 Protect AI Platform
 Protege
 Proterra (Chapter 11 / Fleet Battery Systems)
+Proterra EV Battery Chapter 11
 Proven Companies
 Proximal
 PsiQuantum
@@ -2554,6 +2605,7 @@ R and M Painting
 R-Jolad Hospitals
 R. McKinley Construction
 RAIC Labs
+REE Automotive Restructuring
 RINA Services
 RISE Sweden
 RJ Lee Group
@@ -2607,6 +2659,7 @@ Refact.ai SmallTalk
 Reflect Orbital
 Reflection AI
 Refraction AI Delivery
+Refraction Last Mile Delivery
 Reframe Data Services
 Regrow Ag
 Reka AI
@@ -2616,6 +2669,7 @@ Reliance Health
 Reliant AI
 Remedial Health
 Remesh Conversational Insights
+Remesh Qualitative NLP Lab
 Remotasks Platform
 Render Network
 Rendered.ai
@@ -2675,13 +2729,16 @@ Roboflow Data
 Roborecs
 RobotEra
 Robotics Center
+Robust AI Carter
 Robust Intelligence Guard
+Robust Intelligence Security Test
 Robust.AI
 RocketReach Profile Graph
 RocketReach Prospecting
 Rodrigo Elias & Medrano
 Rogo
 Rokoko
+Romeo Power Battery Liquidation
 Ropedia
 Rosendin Electric
 Rossum
@@ -2803,11 +2860,13 @@ Sendy Logistics (In Administration)
 Sensat Spatial Data
 Sensei
 Sensely Health Restructure
+Sensible 4 Weather Autonomy
 Sensitech Cold Chain
 Sensor Tower Intelligence
 Seqster
 Sereact
 Serve Robotics Sidewalk
+Serve Sidewalk Robotics Lab
 Serverfarm Datacenters
 Serverwala
 Service Champions Orange County
@@ -2861,6 +2920,7 @@ Silo AI Enterprise
 Siloam International Hospitals
 SimActive Software
 Simbe Robotics Tally
+Simbe Robotics Tally Scans
 Simbec-Orion
 Similarweb
 Similarweb Digital
@@ -2874,6 +2934,7 @@ Sirion Contract AI
 Sixtytwo
 Skiff (End-to-End Encrypted Docs / Shuttered by Notion)
 Skild AI
+Skild AI Humanoid Lab
 Skild AI Robotics
 Skrine
 SkyEngine AI
@@ -2915,6 +2976,7 @@ Sondors
 Sonilo
 Soniox
 Sono Motors
+Sono Motors Solar EV
 Soul AI
 Soul AI Human QA
 Soul Machines Virtual
@@ -2993,7 +3055,9 @@ Storytailors / Fixer Colombia
 Straight Line Roofing and Construction
 Strand AI
 Stream Data Centers
+StreetScooter Fleet Restructuring
 Streetbees Conversational Data
+Streetbees Conversational Diary
 Strut Partners
 Sublime Systems Lab
 Subtl AI Search
@@ -3005,6 +3069,7 @@ Suki AI Healthcare
 Sumer
 SunTec India / SunTec.ai
 Sunday Robotics
+Sunday Robotics Lab
 Suno
 Suno AI Music
 Supahands Data
@@ -3019,6 +3084,7 @@ Superpedestrian (Shuttered Micromobility)
 Surge AI
 Sutherland
 Suzy Consumer Insights
+Suzy Consumer Sentiment Lab
 Swaayatt
 Sweep AI
 Sweep AI Dev
@@ -3030,6 +3096,7 @@ Syapse Oncology Network
 Sylvera Carbon Intelligence
 Symbal
 Symbolica
+Symbotic Autonomous Logistics
 Symbotic Warehouse
 Symphony Health
 Synapse BaaS Corp
@@ -3169,6 +3236,7 @@ Torc Robotics Autonomous Freight
 Torc Robotics Autonomy
 Torrent Laboratory
 Tortoise Autonomous Mobile
+Tortoise Delivery Teleoperation
 Toxikon Corporation
 TozziniFreire
 Trace Laboratories
@@ -3198,6 +3266,7 @@ Tripo AI
 Troveo
 TruEra
 TruEra AI Quality
+TruEra Model Quality System
 TruKKer
 TrueData
 TrueFan AI
@@ -3330,6 +3399,7 @@ Vexcel Imaging Photogrammetry
 Vezeeta
 Viam
 Viam Machine Data
+Viam Robotics Lab
 Viamet Labs
 Vibrant Planet Env Lab
 Vicarious AI Robotics
@@ -3345,6 +3415,7 @@ Viggle AI
 Viggle AI 3D Motion
 Vijil AI
 Village Construction
+VinFast Operations Restructuring
 Vincotte Inspection
 Virgin Orbit
 VisionCapture
@@ -3362,6 +3433,7 @@ Volansi (Liquidated Commercial VTOL Drone Logistics)
 Volocopter
 Volocopter (Struggling German eVTOL / Emergency Funding)
 Volta Trucks (Electric Fleet Administration)
+Volta Trucks Restructuring
 Voltage Park
 Volume Graphics
 Vorelios
@@ -3420,6 +3492,7 @@ WhiteFiber
 Whoop Human Performance
 WhyLabs
 WhyLabs AI Control
+WhyLabs AI Robust Control
 Wicks Roofing
 WideBot AI
 Wiingy AI
@@ -3440,12 +3513,14 @@ WongPartnership
 Woolpert
 Wordsmith
 Workhorse Group
+Workhorse Group Fleet Hold
 World Labs
 WorldEngine AI
 Worldwide Clinical Trials
 Worldwide Technology Solutions
 Writer
 Writer Enterprise LLM
+Writer Palmyra Model Compute
 Wrtn Technologies
 WuXi AppTec Services
 WuXi AppTec Testing
