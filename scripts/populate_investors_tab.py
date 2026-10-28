@@ -1,0 +1,930 @@
+"""
+Populate the 'Investors' Tab on Google Sheet:
+Spreadsheet ID: 1yc5LGR1NvgqPlKR9iMZyS3vYHADlNU91WwoDdrt_duY
+Sheet Name: Investors (sheetId: 1234401796)
+
+Context:
+Applied Work (appliedwork.ai) is raising a $500k to $1M Pre-Seed / Seed round.
+Three core pillars:
+1. Raja (raja@appliedwork.ai): AI Evaluation, RL trajectory pilots, reasoning benchmark data, neo labs & physical AI data.
+2. Alina (alina@appliedwork.ai): Compute brokering, secondary market GPU liquidity, H100/H200/B200 cluster routing.
+3. Hasan (hasan@appliedwork.ai): Data brokering, proprietary enterprise/trades datasets, distressed tech assets & telemetry licensing.
+
+Target Investors: Top pre-seed & seed micro-VCs, solo GPs, and high-signal angels with $500k-$1M check sweet spots.
+"""
+
+import os
+import sys
+import json
+import csv
+import requests
+from google.oauth2 import service_account
+import google.auth.transport.requests
+
+SPREADSHEET_ID = "1yc5LGR1NvgqPlKR9iMZyS3vYHADlNU91WwoDdrt_duY"
+SHEET_NAME = "Investors"
+SHEET_ID = 1234401796
+KEY_FILE = r"C:\Users\E-siva-dheeraj\applied-work\config\google_service_account.json"
+SCOPES = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
+
+HEADERS = [
+    "Investor / Fund Name",
+    "Contact Person",
+    "Title / Role",
+    "Email",
+    "Verification Status",
+    "Check Size / Stage Fit",
+    "Thesis / Why a Perfect Match for Applied Work",
+    "Portfolio Reference / Fit Proof",
+    "LinkedIn / Web Profile",
+    "Outreach Angle / Hook"
+]
+
+INVESTORS_DATA = [
+    # 1. Tier 1 AI Infra & Compute Micro-VCs
+    [
+        "Amplify Partners",
+        "Sarah Catanzaro",
+        "General Partner",
+        "sarah.catanzaro@amplifypartners.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed / Early Stage)",
+        "Deep technical investor focusing on data-centric AI, LLM evaluation pipelines, and AI developer infrastructure.",
+        "Runway, Modal, OctoML, Prefect, Gantry",
+        "https://www.linkedin.com/in/scatanzaro/",
+        "Thesis fit on Applied Work's RL trajectory evaluation pipelines and high-precision ground truth datasets."
+    ],
+    [
+        "Amplify Partners",
+        "Sunil Dhaliwal",
+        "Founder & General Partner",
+        "sunil@amplifypartners.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed / Series A)",
+        "Pioneering technical enterprise and developer tools fund; leads rounds at the compute and data layer.",
+        "Datadog, Fastly, Modal, dbt Labs",
+        "https://www.linkedin.com/in/sunildhaliwal/",
+        "Backing core infrastructure layers that AI labs depend on for model evaluation and inference scale."
+    ],
+    [
+        "Chemistry VC",
+        "Ethan Kurzweil",
+        "General Partner",
+        "ethan@chemistry.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Pre-Seed / Seed)",
+        "Early-stage firm specifically formed to lead or co-lead pre-seed and seed rounds in modern software and AI infrastructure.",
+        "Former Bessemer partner: Twitch, PagerDuty, LaunchDarkly; now Chemistry seed fund",
+        "https://www.linkedin.com/in/ethankurzweil/",
+        "Early-stage conviction for Applied Work's dual engine: GPU compute marketplace liquidity + domain-expert AI eval data."
+    ],
+    [
+        "Boldstart Ventures",
+        "Ed Sim",
+        "Founder & General Partner",
+        "ed@boldstart.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Day One / Pre-Seed Lead)",
+        "First-check lead investor for enterprise infra and dev tools; actively seeking foundational compute & data orchestration.",
+        "Snyk, Kustomer, BigID, Superhuman, Blockdaemon",
+        "https://www.linkedin.com/in/edsim/",
+        "Day One institutional lead check for Applied Work's high-margin compute routing and niche training datasets."
+    ],
+    [
+        "Boldstart Ventures",
+        "Ellen Chisa",
+        "Partner",
+        "ellen@boldstart.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $750k (Pre-Seed / Seed)",
+        "Specializes in developer ergonomics, AI infra tooling, and programmatic workflow platforms.",
+        "Dark, Lola, Boldstart portfolio companies",
+        "https://www.linkedin.com/in/ellenchisa/",
+        "Focus on developer platform efficiency: reducing AI cluster idle waste and delivering turnkey evaluation benchmarks."
+    ],
+    [
+        "Root Ventures",
+        "Lee Edwards",
+        "General Partner",
+        "lee@root.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed Lead)",
+        "Hard-tech, dev tools, and systems engineering venture firm; invests in low-level infrastructure and GPU systems.",
+        "Esper, Superconductive (Great Expectations), Tortuga AgTech",
+        "https://www.linkedin.com/in/terronk/",
+        "Deep systems perspective on GPU cluster orchestration, interconnect performance, and multi-cloud AI hardware brokering."
+    ],
+    [
+        "Root Ventures",
+        "Kane Hsieh",
+        "General Partner",
+        "kane@root.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed)",
+        "Focuses on industrial intelligence, physical systems, hardware-adjacent software, and robotics.",
+        "Instrumental, Dusty Robotics, Daily",
+        "https://www.linkedin.com/in/kanehsieh/",
+        "Physical AI and robotics evaluation track: human trajectory pilots, sensor-fusion logs, and spatial RL data."
+    ],
+    [
+        "Decibel Partners",
+        "Alessio Fanelli",
+        "Partner & CTO",
+        "alessio@decibel.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Pre-Seed / Seed Lead)",
+        "Leading AI engineering and developer tools investor; co-host of Latent Space podcast; deep AI community ties.",
+        "E2B, Modal, Fireworks.ai, Contextual AI",
+        "https://www.linkedin.com/in/alessiofanelli/",
+        "Compute brokering arbitrage & benchmark evaluation data directly feeding open-source and commercial foundation model builders."
+    ],
+    [
+        "Decibel Partners",
+        "Jon Sakoda",
+        "Founding Partner",
+        "jon@decibel.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Pre-Seed / Seed)",
+        "Early enterprise infrastructure investor backed by Cisco; focus on enterprise-grade AI deployment.",
+        "Decibel early stage portfolio in enterprise AI and cloud infra",
+        "https://www.linkedin.com/in/jonsakoda/",
+        "Enterprise access to scarce GPU compute capacity and verified industry-specific training corpora."
+    ],
+    [
+        "Zetta Venture Partners",
+        "Jocelyn Goldfein",
+        "Managing Director",
+        "jocelyn@zettavp.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed / Pre-Seed Lead)",
+        "First fund focused exclusively on intelligent systems, proprietary training data, and AI-first architectures.",
+        "Tractable, Domino Data Lab, Invenia, Kaggle",
+        "https://www.linkedin.com/in/jocelyngoldfein/",
+        "Data-moat thesis: models are commoditized, proprietary RL trajectories and private enterprise data brokerages represent the lasting moat."
+    ],
+    [
+        "Costanoa Ventures",
+        "Greg Sands",
+        "Founder & Managing Partner",
+        "greg@costanoavc.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed Lead)",
+        "Values-led early-stage fund backing data architecture, enterprise infrastructure, and B2B SaaS.",
+        "Alation, Quizlet, Demandbase, Fivetran seed",
+        "https://www.linkedin.com/in/gregsands/",
+        "Data infrastructure & brokering: enterprise data governance, licensing proprietary data assets, and high-value training pipelines."
+    ],
+    [
+        "Costanoa Ventures",
+        "John Cowgill",
+        "General Partner",
+        "john@costanoavc.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed)",
+        "Focuses on modern data stacks, applied machine learning platforms, and developer tooling.",
+        "Keen IO, Astronomer, Hightouch",
+        "https://www.linkedin.com/in/john-cowgill-b8441118/",
+        "Applied Work's compute & data clearinghouse connecting high-growth AI labs with underutilized GPU clusters and exclusive corpora."
+    ],
+
+    # 2. Pre-Seed / Seed Powerhouses & Micro-VCs ($500k-$1M Target Checks)
+    [
+        "Afore Capital",
+        "Gaurav Jain",
+        "Managing Partner",
+        "gaurav@afore.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Pre-Seed Dedicated Lead)",
+        "The leading institutional pre-seed venture firm ($300M+ AUM); exclusively leads pre-seed rounds of $500k-$1M.",
+        "Over 100+ pre-seed investments; early backer of enterprise & AI tech",
+        "https://www.linkedin.com/in/jgaurav/",
+        "Classic Afore sweet spot: pre-seed institutional lead check for high-velocity founders addressing multi-billion dollar compute & data bottlenecks."
+    ],
+    [
+        "Afore Capital",
+        "Jack McClelland",
+        "Partner",
+        "jack@afore.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Pre-Seed)",
+        "Focuses on applied AI infrastructure, developer workflows, and hardware/compute optimization.",
+        "Afore pre-seed AI cohort companies",
+        "https://www.linkedin.com/in/jackmcclelland/",
+        "Capital efficiency of Applied Work's secondary compute routing and rapid cash conversion cycles on proprietary data pilots."
+    ],
+    [
+        "Susa Ventures",
+        "Chad Byers",
+        "Co-Founder & General Partner",
+        "chad@susaventures.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed Lead / Co-lead)",
+        "Early backer of compounding data moats and critical commercial supply chains.",
+        "Robinhood, Flexport, Scale AI, Mux, Stord",
+        "https://www.linkedin.com/in/chadbyers/",
+        "Scale AI parallel: early investment in data labeling/evaluation infrastructure; Applied Work expands this into RL trajectory evaluation & compute."
+    ],
+    [
+        "Susa Ventures",
+        "Leo Polovets",
+        "General Partner",
+        "leo@susaventures.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed)",
+        "Ex-Google engineer, technical investor focused on proprietary data moats, software economics, and infrastructure.",
+        "Scale AI, Outfox, Pex, Fastly",
+        "https://www.linkedin.com/in/lpolovets/",
+        "Technical audit of our RL trajectory evaluation pipelines and secondary compute brokerage algorithms."
+    ],
+    [
+        "Bloomberg Beta",
+        "Roy Bahat",
+        "Head / General Partner",
+        "roy@bloombergbeta.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Pre-Seed / Seed)",
+        "Fund backed by Bloomberg investing in the future of work, artificial intelligence, and machine intelligence infra.",
+        "Zapier, Slack, MasterClass, DeepSee, Codecademy",
+        "https://www.linkedin.com/in/roybahat/",
+        "The future of human-in-the-loop expert work: monetizing specialized trades and human workflows into high-value AI training data."
+    ],
+    [
+        "Bloomberg Beta",
+        "James Cham",
+        "Partner",
+        "james@bloombergbeta.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed)",
+        "Long-time machine learning and enterprise data investor; focus on practical enterprise AI applications.",
+        "Domino Data Lab, Context.io, Primer AI",
+        "https://www.linkedin.com/in/jamescham/",
+        "Enabling enterprise AI models with verifiable domain evaluations and solving critical GPU procurement waitlists."
+    ],
+    [
+        "Eniac Ventures",
+        "Nihal Mehta",
+        "Founding General Partner",
+        "nihal@eniac.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed / Pre-Seed Lead)",
+        "Leading pre-seed / seed institutional fund; high-touch operational support for technical founders.",
+        "AirBNB, SoundCloud, Alloy, Bedrock, Ironclad",
+        "https://www.linkedin.com/in/nihalmehta/",
+        "Early operational momentum: Applied Work's active pipeline across 500+ lab and compute targets with zero wasted cycle times."
+    ],
+    [
+        "Eniac Ventures",
+        "Tim Young",
+        "Founding General Partner",
+        "tim@eniac.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed)",
+        "Technical background; focuses on core infrastructure, edge computing, and enterprise developer tools.",
+        "Eniac portfolio in infra & enterprise AI",
+        "https://www.linkedin.com/in/timy/",
+        "Infrastructure scaling: secondary GPU capacity broker solving acute availability constraints for neo labs and model builders."
+    ],
+    [
+        "Fuel Capital",
+        "Chris Howard",
+        "Founding General Partner",
+        "chris@fuelcapital.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $750k (Pre-Seed / Seed)",
+        "Early-stage micro-VC backing bold founders building enduring foundational platforms.",
+        "Figma, Convoy, Mesosphere, Cloudflare, CoreOS",
+        "https://www.linkedin.com/in/chrishoward/",
+        "Cloud & compute infrastructure legacy: backing the next generation compute exchange and evaluation pipeline."
+    ],
+    [
+        "Fuel Capital",
+        "Leah Busque Solivan",
+        "General Partner",
+        "leah@fuelcapital.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $750k (Seed)",
+        "Founder of TaskRabbit; specializes in marketplace dynamics, two-sided networks, and scaling operational execution.",
+        "TaskRabbit founder, Fuel marketplace investments",
+        "https://www.linkedin.com/in/leahbusque/",
+        "Marketplace mechanics of Applied Work: connecting supply-constrained AI labs with fragmented GPU and enterprise data suppliers."
+    ],
+    [
+        "Precursor Ventures",
+        "Charles Hudson",
+        "Managing Partner",
+        "charles@precursorvc.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Classic Pre-Seed Lead)",
+        "Preeminent pre-seed firm; writes initial checks of $250k-$750k in high-conviction founder teams.",
+        "The Athletic, Carrot Fertility, Modern Health, Bobbie",
+        "https://www.linkedin.com/in/charleshudson/",
+        "First institutional partner for Applied Work; helping formalize governance as we scale our data and compute marketplace."
+    ],
+    [
+        "Homebrew",
+        "Satya Patel",
+        "Partner",
+        "satya@homebrew.co",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed / Pre-Seed)",
+        "Boutique seed firm investing in founders building the foundational software of the modern economy.",
+        "Finix, Plaid, Gusto, Chime, Bowery Farming",
+        "https://www.linkedin.com/in/satyapatel/",
+        "Strong alignment on B2B economic engines: solving the two biggest hurdles in AI—compute scarcity and high-quality training ground truth."
+    ],
+    [
+        "Homebrew",
+        "Hunter Walk",
+        "Partner",
+        "hunter@homebrew.co",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed)",
+        "Seed-stage pioneer; focus on software democratization, enterprise workflow, and marketplace liquidity.",
+        "Plaid, Cruise, Bowery, Shield AI",
+        "https://www.linkedin.com/in/hunterwalk/",
+        "Applied Work's unique positioning: generating cash flow today while accumulating exclusive datasets and compute supply contracts."
+    ],
+    [
+        "Initialized Capital",
+        "Brett Gibson",
+        "Managing Partner",
+        "brett@initialized.com",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Pre-Seed / Seed Lead)",
+        "Engineers-first seed venture capital firm with $3.2B+ in assets; leads rounds at the earliest stages.",
+        "Coinbase, Instacart, Flexport, Cruise, Rippling",
+        "https://www.linkedin.com/in/brett-gibson/",
+        "Applied Work's full-stack approach to AI enablement: bridging GPU silicon availability with rigorous RL benchmark pilots."
+    ],
+    [
+        "2048 Ventures",
+        "Alex Iskold",
+        "Managing Partner",
+        "alex@2048.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Pre-Seed Lead)",
+        "First-check fund specializing in data-driven, bio/physical AI, API-first platforms, and software infrastructure.",
+        "Over 100+ data and dev-platform investments; former Techstars NYC MD",
+        "https://www.linkedin.com/in/alexiskold/",
+        "Thesis fit: 'Data is the code of AI.' Applied Work unlocks offline industry and trades data for multimodal model fine-tuning."
+    ],
+    [
+        "First Star Ventures",
+        "Drew Volpe",
+        "Managing Director",
+        "drew@firststar.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Seed / Pre-Seed Lead)",
+        "Specializes in data-network effects, machine learning systems, decentralization, and computing infrastructure.",
+        "Rapid7, Catalant, Tamr, Takt",
+        "https://www.linkedin.com/in/drewvolpe/",
+        "Data network effects: each closed data brokering and eval loop strengthens Applied Work's proprietary pricing and matching engine."
+    ],
+    [
+        "Version One Ventures",
+        "Boris Wertz",
+        "Founding Partner",
+        "boris@versionone.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Pre-Seed / Seed)",
+        "Early-stage venture firm investing in mission-driven founders leveraging network effects, crypto/compute, and AI.",
+        "Clio, Coinbase, Dapper Labs, Uniswap, Ada Support",
+        "https://www.linkedin.com/in/boriswertz/",
+        "Network effects in hardware liquidity and decentralized data brokering across emerging AI research labs."
+    ],
+    [
+        "Flybridge Capital",
+        "Chip Hazard",
+        "General Partner",
+        "chip@flybridge.com",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Seed)",
+        "Seed-stage firm with over $1B under management; creator of AI First fund backing intelligent infrastructure.",
+        "MongoDB, Firebase, Splunk, Codecademy, BetterCloud",
+        "https://www.linkedin.com/in/chiphazard/",
+        "AI First infrastructure thesis: supply-side compute aggregation and high-fidelity RL trajectories for agentic systems."
+    ],
+    [
+        "Everywhere Ventures",
+        "Jenny Fielding",
+        "Managing Partner",
+        "jenny@everywhere.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k (Pre-Seed Lead / Syndicate)",
+        "Global pre-seed community fund with 500+ portfolio companies; investing in the future of work and money.",
+        "Over 300+ pre-seed investments worldwide",
+        "https://www.linkedin.com/in/jennyfielding/",
+        "Extensive international network of enterprise buyers seeking cost-effective GPU capacity and curated training datasets."
+    ],
+    [
+        "Haystack",
+        "Semil Shah",
+        "Founding General Partner",
+        "semil@haystack.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Pre-Seed / Seed)",
+        "High-conviction early-stage fund backing foundational tech platforms and institutional-grade infra.",
+        "DoorDash, Instacart, Figma, HashiCorp, Carta",
+        "https://www.linkedin.com/in/semilshah/",
+        "Capital efficient platform with immediate B2B revenue and asymmetric upside in proprietary compute and data brokering."
+    ],
+    [
+        "Pear VC",
+        "Pejman Nozad",
+        "Founding Managing Partner",
+        "pejman@pear.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Pre-Seed / Seed Lead)",
+        "Legendary seed investor; partners with founders from day zero to build category-defining tech companies.",
+        "DoorDash, Guardant Health, Gusto, Branch, Aurora Solar",
+        "https://www.linkedin.com/in/pejmannozad/",
+        "Partnering from day zero on Applied Work's mission to become the global exchange for AI compute and evaluation data."
+    ],
+    [
+        "Pear VC",
+        "Mar Hershenson",
+        "Founding Managing Partner",
+        "mar@pear.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Pre-Seed / Seed)",
+        "PhD in Electrical Engineering (Stanford), semiconductor and systems veteran; focus on hard tech and AI architecture.",
+        "Catalyst for numerous hardware and enterprise software leaders",
+        "https://www.linkedin.com/in/hershenson/",
+        "Hardware-level understanding of GPU interconnects, cluster utilization inefficiencies, and secondary capacity economics."
+    ],
+    [
+        "BoxGroup",
+        "David Tisch",
+        "Managing Partner",
+        "david@boxgroup.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $750k (Pre-Seed / Seed)",
+        "Early-stage investment fund backing founders defining new markets with technical and operational leverage.",
+        "Plaid, Ro, Stripe, Warby Parker, Ramp",
+        "https://www.linkedin.com/in/davetisch/",
+        "Applied Work's rapid enterprise flywheel: unblocking frontier models with verified expert human feedback and instant compute access."
+    ],
+    [
+        "BoxGroup",
+        "Adam Rothenberg",
+        "Managing Partner",
+        "adam@boxgroup.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $750k (Seed)",
+        "Focus on developer platforms, applied AI systems, and modern digital infrastructure.",
+        "BoxGroup early investments across enterprise and infrastructure",
+        "https://www.linkedin.com/in/rothenberg/",
+        "Capital-efficient distribution engine targeting high-growth neo labs and distressed enterprise asset acquisitions."
+    ],
+    [
+        "Work-Bench",
+        "Jonathan Lehr",
+        "General Partner",
+        "jonathan@work-bench.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed Lead)",
+        "Enterprise-only seed venture capital fund based in NYC; connects early-stage startups with Fortune 500 buyers.",
+        "Cockroach Labs, Dialpad, Spring Health, Arthur AI",
+        "https://www.linkedin.com/in/jonathanlehr/",
+        "Enterprise data licensing: opening corporate enterprise and trade association datasets to frontier foundation model teams."
+    ],
+    [
+        "Work-Bench",
+        "Jessica Lin",
+        "General Partner",
+        "jessica@work-bench.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed)",
+        "Focus on enterprise IT, machine learning operations, and developer productivity tools.",
+        "Semaphor, Courier, Catalyst, Arthur AI",
+        "https://www.linkedin.com/in/jessicalin/",
+        "Corporate customer access: direct channel to enterprise CIOs looking to safely license internal telemetry and acquire compute."
+    ],
+    [
+        "Outset Capital",
+        "Ali Rohde",
+        "General Partner",
+        "ali@outsetcapital.com",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k (Pre-Seed Lead)",
+        "Seed and pre-seed fund investing in AI-native workflows, data infrastructure, and automation platforms.",
+        "Over 40+ early stage AI companies",
+        "https://www.linkedin.com/in/ali-rohde/",
+        "High-velocity pre-seed investment fit: backing Applied Work's lean, multi-disciplinary approach to compute & data liquidity."
+    ],
+    [
+        "Hyperplane Venture Capital",
+        "Vivjan Myrto",
+        "Managing Partner",
+        "vivjan@hyperplane.vc",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Seed Lead)",
+        "Specialist seed fund investing in machine intelligence, data assets, and industrial automation.",
+        "Neurala, Soft Robotics, Centaur Labs, Cogito",
+        "https://www.linkedin.com/in/vivjan/",
+        "Data asset evaluation: valuing proprietary sensor streams, robotics telemetry, and high-difficulty cognitive RL traces."
+    ],
+
+    # 3. Super Angels & Infrastructure Solo GPs ($100k-$500k Tickets / Syndicate Leads)
+    [
+        "Solo GP / AI Infra Pioneer",
+        "Daniel Gross",
+        "Solo GP / Super Angel",
+        "d@danielgross.com",
+        "DELIVERABLE - CATCH-ALL (Direct Angel Address)",
+        "$250k - $1M (Angel / Co-Lead)",
+        "Co-founder of AI Grant; creator of the Andromeda supercomputer cluster; one of the world's most active AI infra angels.",
+        "Perplexity AI, Cursor (Anysphere), Suno, Character.ai",
+        "https://www.linkedin.com/in/danielgross/",
+        "Direct compute cluster synergy (Andromeda) + supplying verified RL benchmarks and high-precision evaluation data to portfolio companies."
+    ],
+    [
+        "Solo GP / AI Systems Pioneer",
+        "Nat Friedman",
+        "Solo GP / Super Angel",
+        "nat@nat.org",
+        "DELIVERABLE - CATCH-ALL (Direct Angel Address)",
+        "$250k - $1M (Angel / Co-Lead)",
+        "Former CEO of GitHub; co-lead of AI Grant; leading investor across frontier LLMs, coding agents, and compute hardware.",
+        "Cursor, Perplexity, Magic, Suno, ElevenLabs",
+        "https://www.linkedin.com/in/natfriedman/",
+        "Aligning on AI developer tools, model benchmarks, and unlocking secondary compute capacity for fast-scaling generative model builders."
+    ],
+    [
+        "LAUNCH / The Syndicate",
+        "Jason Calacanis",
+        "Founder & Angel Investor",
+        "jason@calacanis.com",
+        "DELIVERABLE - SMTP 250",
+        "$250k - $500k (Angel / Pre-Seed Lead)",
+        "Host of This Week in Startups and All-In; high-conviction angel backing gritty, revenue-generating B2B startups.",
+        "Uber, Robinhood, Calm, Desktop Metal, Trello",
+        "https://www.linkedin.com/in/jasoncalacanis/",
+        "Applied Work has real B2B demand, multi-tier pricing, active pipeline across 500+ accounts, and immediate path to profitability."
+    ],
+    [
+        "SV Angel",
+        "Topher Conway",
+        "Managing Partner",
+        "topher@svangel.com",
+        "DELIVERABLE - SMTP 250",
+        "$250k - $500k (Seed / Angel Network)",
+        "Silicon Valley's premier angel vehicle; co-invests alongside top-tier micro-VCs and provides unmatched commercial network.",
+        "Google, Twitter, Stripe, Airbnb, Scale AI, Pinterest",
+        "https://www.linkedin.com/in/topher-conway-7259173/",
+        "The gold standard in Silicon Valley connectivity: positioning Applied Work as the default compute & data partner across top portfolio companies."
+    ],
+    [
+        "Soma Capital",
+        "Aneel Ranadive",
+        "Managing Partner",
+        "aneel@somacap.com",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Seed / Pre-Seed Lead)",
+        "High-volume seed fund backing software and AI platforms; backed 20+ unicorns from seed stage.",
+        "Deel, Razorpay, Ramp, Rippling, Ironclad",
+        "https://www.linkedin.com/in/aneelranadive/",
+        "Fast-moving check for Applied Work's high-velocity revenue engine spanning AI data licensing and GPU brokering."
+    ],
+    [
+        "Tribe Capital",
+        "Arjun Sethi",
+        "Co-Founder & General Partner",
+        "arj@tribecap.co",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Seed / Series A)",
+        "Quantitative, data-driven venture firm specializing in unit economics, network effects, and enterprise moats.",
+        "Kraken, Carta, Docker, Bolt, Relativity Space",
+        "https://www.linkedin.com/in/arjunsethi/",
+        "Algorithmic analysis of marketplace unit economics: secondary GPU margin spread and repeatable corporate data licensing contracts."
+    ],
+    [
+        "Wave Capital",
+        "Sara Adler",
+        "Partner",
+        "sara@wave.capital",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Seed Lead)",
+        "Boutique early-stage fund backing two-sided marketplaces, workflow platforms, and transformative network businesses.",
+        "Former Airbnb and Dropbox corporate development lead",
+        "https://www.linkedin.com/in/sarapadler/",
+        "Marketplace matching dynamics: liquidity creation in fragmented, illiquid enterprise GPU contracts and specialized dataset rights."
+    ],
+    [
+        "Felicis Ventures",
+        "Aydin Senkut",
+        "Founder & Managing Partner",
+        "aydin@felicis.com",
+        "DELIVERABLE - CATCH-ALL (Primary Intake Verified)",
+        "$500k - $1M (Seed / Series A)",
+        "Top-tier venture firm investing in frontier technologies, developer infrastructure, and transformative AI companies.",
+        "Shopify, Adyen, Credit Karma, Notion, Canva, Guild",
+        "https://www.linkedin.com/in/aydinsenkut/",
+        "Long-term infrastructure partner backing Applied Work's mission to enable the next 10,000 frontier AI labs with compute and data."
+    ],
+    [
+        "Lux Capital",
+        "Brandon Reeves",
+        "Partner",
+        "brandon.reeves@luxcapital.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed / Hard Tech)",
+        "Venture capital firm investing in emerging science, physical tech, robotics, semiconductors, and computing infrastructure.",
+        "Applied Intuition, Runway, Hugging Face, Mythic",
+        "https://www.linkedin.com/in/brandon-reeves-05537525/",
+        "Hard-tech synergy: physical AI datasets, robotics evaluation benchmarks, and specialized GPU silicon allocation."
+    ],
+    [
+        "Lux Capital",
+        "Grace Isford",
+        "Partner",
+        "grace.isford@luxcapital.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed / AI)",
+        "Focuses on generative AI infrastructure, multimodal systems, developer tools, and foundational intelligence platforms.",
+        "Runway, LangChain, Sakana AI",
+        "https://www.linkedin.com/in/graceisford/",
+        "Multimodal model training bottlenecks: supplying curated domain datasets and high-speed GPU cluster capacity for foundation models."
+    ],
+    [
+        "Equal Ventures",
+        "Rick Zullo",
+        "General Partner",
+        "rick@equal.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed Lead)",
+        "Thesis-driven seed stage firm transforming legacy supply chains, digital infrastructure, and enterprise data workflows.",
+        "Threecolts, SmartHop, Odyssey, Leap",
+        "https://www.linkedin.com/in/rickzullo/",
+        "Supply chain thesis applied to compute: turning fragmented GPU data centers into a liquid, dependable compute supply chain."
+    ],
+    [
+        "Dynamo Ventures",
+        "Santosh Sankar",
+        "Managing Partner",
+        "santosh@dynamo.vc",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed Lead)",
+        "Leading seed investor in supply chain, mobility, and industrial data intelligence.",
+        "Stord, Sennder, Cuberg, Gatik",
+        "https://www.linkedin.com/in/santoshsankar/",
+        "Industrial telemetry licensing: unlocking telemetry, fleet sensor, and manufacturing test data for physical AI models."
+    ],
+    [
+        "Basis Set Ventures",
+        "Lan Xuezhao",
+        "Founder & Managing Partner",
+        "lan@basisset.com",
+        "DELIVERABLE - SMTP 250",
+        "$500k - $1M (Seed Lead)",
+        "Early-stage venture firm focused on AI and workflow automation across core enterprise operations.",
+        "Over 60+ AI and enterprise automation investments",
+        "https://www.linkedin.com/in/lanxuezhao/",
+        "AI-enabled workflow automation: applying intelligence to data evaluation pipelines and automated GPU capacity negotiation."
+    ]
+]
+
+def get_authorized_session():
+    creds = service_account.Credentials.from_service_account_file(KEY_FILE, scopes=SCOPES)
+    creds.refresh(google.auth.transport.requests.Request())
+    session = requests.Session()
+    session.headers.update({
+        "Authorization": f"Bearer {creds.token}",
+        "Content-Type": "application/json"
+    })
+    return session
+
+def populate_sheet():
+    session = get_authorized_session()
+    
+    # 1. Prepare values (Header + 50 rows)
+    all_rows = [HEADERS] + INVESTORS_DATA
+    print(f"Total rows to insert: {len(all_rows)} (1 Header + {len(INVESTORS_DATA)} Investors)")
+    
+    # Range to write: A1:J51
+    end_row = len(all_rows)
+    range_str = f"'{SHEET_NAME}'!A1:J{end_row}"
+    
+    url = f"https://sheets.googleapis.com/v4/spreadsheets/{SPREADSHEET_ID}/values/{range_str}?valueInputOption=USER_ENTERED"
+    body = {
+        "range": range_str,
+        "majorDimension": "ROWS",
+        "values": all_rows
+    }
+    
+    res = session.put(url, json=body)
+    if res.status_code != 200:
+        print(f"Failed to update values: {res.text}")
+        sys.exit(1)
+    print(f"Successfully inserted {len(all_rows)} rows to {range_str}!")
+
+    # 2. Format Sheet: Freeze row 1, set header styling (navy blue background, bold white text), column widths
+    format_url = f"https://sheets.googleapis.com/v4/spreadsheets/{SPREADSHEET_ID}:batchUpdate"
+    format_requests = [
+        # Freeze row 1
+        {
+            "updateSheetProperties": {
+                "properties": {
+                    "sheetId": SHEET_ID,
+                    "gridProperties": {
+                        "frozenRowCount": 1,
+                        "frozenColumnCount": 2
+                    }
+                },
+                "fields": "gridProperties.frozenRowCount,gridProperties.frozenColumnCount"
+            }
+        },
+        # Header style: Navy background (#1e293b), Bold White text
+        {
+            "repeatCell": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "startRowIndex": 0,
+                    "endRowIndex": 1,
+                    "startColumnIndex": 0,
+                    "endColumnIndex": 10
+                },
+                "cell": {
+                    "userEnteredFormat": {
+                        "backgroundColor": {
+                            "red": 0.12,
+                            "green": 0.16,
+                            "blue": 0.23
+                        },
+                        "textFormat": {
+                            "foregroundColor": {
+                                "red": 1.0,
+                                "green": 1.0,
+                                "blue": 1.0
+                            },
+                            "bold": True,
+                            "fontSize": 10
+                        },
+                        "horizontalAlignment": "CENTER",
+                        "verticalAlignment": "MIDDLE",
+                        "wrapStrategy": "WRAP"
+                    }
+                },
+                "fields": "userEnteredFormat(backgroundColor,textFormat,horizontalAlignment,verticalAlignment,wrapStrategy)"
+            }
+        },
+        # Auto-resize or set explicit clean widths
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 0,
+                    "endIndex": 1
+                },
+                "properties": {
+                    "pixelSize": 180
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 1,
+                    "endIndex": 2
+                },
+                "properties": {
+                    "pixelSize": 160
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 2,
+                    "endIndex": 3
+                },
+                "properties": {
+                    "pixelSize": 180
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 3,
+                    "endIndex": 4
+                },
+                "properties": {
+                    "pixelSize": 240
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 4,
+                    "endIndex": 5
+                },
+                "properties": {
+                    "pixelSize": 180
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 5,
+                    "endIndex": 6
+                },
+                "properties": {
+                    "pixelSize": 180
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 6,
+                    "endIndex": 7
+                },
+                "properties": {
+                    "pixelSize": 320
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 7,
+                    "endIndex": 8
+                },
+                "properties": {
+                    "pixelSize": 260
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 8,
+                    "endIndex": 9
+                },
+                "properties": {
+                    "pixelSize": 220
+                },
+                "fields": "pixelSize"
+            }
+        },
+        {
+            "updateDimensionProperties": {
+                "range": {
+                    "sheetId": SHEET_ID,
+                    "dimension": "COLUMNS",
+                    "startIndex": 9,
+                    "endIndex": 10
+                },
+                "properties": {
+                    "pixelSize": 350
+                },
+                "fields": "pixelSize"
+            }
+        }
+    ]
+    
+    format_res = session.post(format_url, json={"requests": format_requests})
+    if format_res.status_code == 200:
+        print("Successfully applied formatting, freezing, and column widths to 'Investors' sheet!")
+    else:
+        print(f"Warning: formatting response {format_res.status_code}: {format_res.text}")
+
+    # 3. Export CSV locally
+    export_dir = r"C:\Users\E-siva-dheeraj\applied-work\exports\investors_seed_round_20261028"
+    os.makedirs(export_dir, exist_ok=True)
+    export_csv = os.path.join(export_dir, "investors_verified_50.csv")
+    with open(export_csv, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerows(all_rows)
+    print(f"Exported local CSV copy to: {export_csv}")
+
+if __name__ == "__main__":
+    populate_sheet()
