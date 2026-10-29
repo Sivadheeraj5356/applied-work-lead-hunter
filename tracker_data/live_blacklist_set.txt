@@ -99,6 +99,7 @@ AeroFarms
 Aerometrex
 Aether Biomachines
 Aether Engine VR
+Aether Robotics Humanoid Agility Testbed
 Aethir
 Aethir Cloud Network
 Aethir Decentralized GPU Cloud
@@ -222,6 +223,8 @@ Anysphere (Cursor)
 Anysphere Cursor Scaling Cluster
 Apave Risk Inspection
 Apex Laboratories
+Apex RL Distributed Environment Foundry
+Apex.AI Certified Automotive Restructure
 Apollo Agriculture
 Apollo Hospitals
 Apollo Hospitals Group
@@ -315,6 +318,7 @@ Atticman
 AudioShake
 Audix Technology
 Augment Code
+Augment Code Intelligence Cluster
 Aumet
 Auravon AI
 Aureka Biotechnologies
@@ -340,8 +344,10 @@ Axelera AI Edge
 Axelera Metis NPU
 Axiom Math
 Axiom Photonics AI
+Axiom RL Formal Trajectory Lab
 Axiom Robotics Logistics
 Axolotl Distributed Fine-Tuning Labs
+Axolotl FSDP Fine-Tuning Supercluster
 Aya Data
 Aya Data Medical
 Ayar Labs
@@ -381,6 +387,7 @@ Basecamp Research
 Baseten
 Baseten AI
 Baseten Infra
+Baseten Model Serving Acceleration Fleet
 BasicAI
 Battelle Memorial Institute
 BattleFin
@@ -388,12 +395,14 @@ Bauer Media
 BayanTech
 Bayzat
 BeZero Carbon Ratings
+Beacon Eval Enterprise Reasoning Foundry
 Beam Cloud
 Beatoven.ai
 Bebop Bee Data
 Bedrock Ocean
 BeeKeeperAI
 Beeble
+Beep Autonomous Shuttles Asset Unit
 BeepKart Two Wheelers
 Beepi Used Cars
 Bell Brothers
@@ -608,7 +617,9 @@ Centaur Labs
 Cerebral (Restructuring)
 Cerebras Compute Cloud
 Cerebras Systems
+Cerebras Systems High-Performance Model Fleet
 Cerebrium
+Cerebrum AI Neurosymbolic Evaluation Testbed
 CerebrumX
 Cerence AI
 Certified Food Safety Laboratories
@@ -638,6 +649,7 @@ Chooch AI Vision
 Chowbotics
 Chroma
 Chroma Database
+Chronos AI Dynamic Environment Lab
 Cint
 Cipher Mining
 CipherTrace Mastercard
@@ -716,7 +728,9 @@ Cognition
 Cognition AI
 Cognition AI Devin
 Cognition Labs Devin Compute
+Cognitive Action Robotics Laboratory
 Cohere
+Cohere Multi-Region Enterprise Cluster
 CohesionX
 Coin Metrics Network
 Colfax International
@@ -825,6 +839,7 @@ Curia Global
 Current Health Asset
 Current Health Telemetry
 Cursor / Anysphere Labs
+Cursor Speculative Decoding Supercluster
 CuspAI
 CyPhy Works (Aria Insights)
 CycloMedia
@@ -851,6 +866,7 @@ DIMO
 DLS Electronic Systems
 DNV GL
 DP World / Imperial Logistics
+DSPy Automated Prompt Optimization Cluster
 DTDC Express
 DYNA Robotics
 Daedalean
@@ -917,6 +933,7 @@ Decagon AI
 Decagon YC Lab
 Decart
 Decart AI
+Decart AI Interactive World Model Supercluster
 Decart AI Mirage
 Deccan AI
 Deccan AI STEM
@@ -1019,6 +1036,7 @@ Dusty Robotics
 Dusty Robotics Layout
 Dusty Robotics Layout CAD
 Dvara E-Registry
+Dynamis Robotics Mobile Bimanual Lab
 Dynamo AI
 Dyno Therapeutics
 E-Solutions
@@ -1042,6 +1060,7 @@ EarthDaily Analytics
 Eastern Analytical Inc
 Eastern Analytical Utilities Lab
 EasyMile Autonomous Fleet Restructure
+EasyMile Fleet Restructuring BV
 Eaton Datacenter Systems
 EcoDataCenter Compute
 EdgeConneX EQT
@@ -1221,6 +1240,7 @@ Firstsource
 Fish Audio
 Fisker Inc Liquidation
 Fisker Inc. (Chapter 11 Bankruptcy / EV Automotive)
+Fisker Ocean Telematics & IP Trust
 Fixxa
 Fizyr Robot Vision
 Flashpoint Threat Data
@@ -1389,6 +1409,7 @@ Gridspace
 Grindrod
 Groq
 Groq LPU Cloud
+Groq LPU High-Density Inference Backbone
 Guardant Health Liquid Data
 Guidepoint Global Expert
 H Company
@@ -1479,6 +1500,7 @@ Hive Digital Technologies
 Hivelocity
 Hivemapper
 Holistic AI
+Holistic Eval Multimodal Testbed Foundry
 HoloMatic Autonomous
 Homburger
 Homejoy Cleaning
@@ -1559,6 +1581,7 @@ Ideogram AI Visual
 Idler
 Ike Robotics Automated
 Ike Robotics Freight Assurance
+Ike Robotics Legacy Asset Holding
 Ilara Health
 Imagga
 Imbue
@@ -1729,6 +1752,7 @@ Kindo AI Multimodel Enterprise
 Kinetic Blocks
 Kinetix
 Kinsa Health Illness Data
+KiteX Wind Energy Drone Liquidation
 KiteX Wind Power
 KiteX Wind Systems
 Kitty Hawk
@@ -1782,6 +1806,7 @@ Kunlun Tech Mureka
 Kuva Space
 Kyutai
 Kyutai Labs Voice
+Kyutai Open Science Audio Compute
 Kyutai Voice Lab
 LG AI Research
 LGC Group
@@ -1895,6 +1920,7 @@ Lightyear Solar Mobility Assets
 Lila Sciences
 Lilium
 Lilium (Insolvency Proceedings / eVTOL Aerospace)
+Lilium Aviation Liquidation Estate
 Lilt
 LimX Dynamics
 Limestone Networks, Inc.
@@ -1936,6 +1962,7 @@ Looplex
 Lordstown Motors
 Lordstown Motors (Chapter 11 / Electric Trucks)
 Lordstown Motors Assets
+Lordstown Motors Production Assets
 Lovable
 Lovo AI
 Lovo AI Studio
@@ -2023,6 +2050,7 @@ Maxicus
 Maxim AI
 May Mobility (Autonomous Shuttle Restructuring)
 May Mobility Autonomous Fleet
+May Mobility Municipal Telemetry Rebalance
 Mayfield Robotics
 Mbodi AI
 McCarthy Services Virginia
@@ -2069,6 +2097,7 @@ Metcut Research
 Metcut Research Associates
 Meteomatics
 Metriport
+Metropolis Autonomous Drone Testbed
 Metropolis Healthcare
 MiCOM Labs
 MiTAC Computing
@@ -2117,6 +2146,7 @@ Mirendil
 Mission Motors
 Mistral AI
 Mistral AI Corp
+Mistral AI Frontier Model Training Cluster
 Mistral AI Training Clusters
 Misty Robotics
 Mitchell Cotts Group
@@ -2132,6 +2162,7 @@ ModelBest
 Modular
 Modular Accelerate
 Modular MAX Acceleration
+Modular Mojo Multi-Framework Serving Fleet
 Modular Systems
 Modulate
 Mohamed Yousuf Naghi Group / Arabian Trading Supplies
@@ -2159,6 +2190,7 @@ Mostly AI
 Motif Technologies
 Motional
 Motional Autonomous Lab
+Motional Commercial Fleet Reorganization
 Motivair Liquid
 Motorica
 Motorq
@@ -2220,6 +2252,7 @@ Navitas Life Sciences
 Navya
 Navya (French Autonomous Shuttle Receivership)
 Navya Autonomous Shuttle Hold
+Navya Autonomous Shuttle Liquidation Trust
 Ndea
 NdotLight
 Near Earth Autonomy
@@ -2257,6 +2290,7 @@ NexClinAI / Nexnu Vision AI Solutions Private Limited
 NextSilicon
 NextWealth
 Nexus RL Multi-Agent Environment Labs
+Nexus Telemetry Sensor Fusion Lab
 Neysa Networks
 Nikkei
 Nikola Energy Restructuring
@@ -2297,6 +2331,7 @@ Nubank
 Nuro
 Nuro Autonomous Delivery
 Nuro Delivery Assets
+Nuro Gen-2 Delivery Fleet Rebalance
 Nuuduu
 Nuvemshop
 NxtGen Datacenter & Cloud
@@ -2328,6 +2363,7 @@ Olive AI (Liquidated Assets)
 Olive AI (liquidated assets)
 Ollama Open Serving
 Olli Autonomous Transit IP
+Olli Mobility Autonomous Transit IP Trust
 Omada Health Behavioral
 Omega Healthcare Management Services
 Omie
@@ -2367,6 +2403,7 @@ Orbital Sidekick
 Ori
 Ori Industries
 Origami Robotics
+Orion Physical AI Teleoperation Rig
 OroraTech
 Osaro Picking
 Osmosis
@@ -2419,6 +2456,7 @@ Papercup Video
 Paperspace Cloud
 Paradigm Asbestos Testing Lab
 Paradigm Environmental Services
+Paragon Robotics Manipulation Trajectory Lab
 Parallel Domain
 Parallel Domain Data
 Parallel Domain Synthetic
@@ -2463,6 +2501,7 @@ PerkinElmer Sciences
 Perplexity
 Perplexity AI
 Perplexity Labs Foundation Training
+Perrone Robotics Autonomous Vehicle Estate
 Persona AI
 Peterman Brothers Indianapolis
 Phantom Auto
@@ -2494,6 +2533,7 @@ Pika Labs Foundation Video Compute
 Pika Labs Video
 Pinecone
 Pinterest
+Pioneering Robotics Field Telemetry Collective
 Pipo Saude
 Piramal Pharma Solutions
 PitchBook
@@ -2567,6 +2607,7 @@ PrimeCompute
 Primer AI NLP
 Primordiant
 Princeton Digital
+Prism Domain Benchmark Foundry
 Prism Eval Domain Benchmark Foundry
 Prism Industrial Effluent Labs
 Prism Laboratories Inc
@@ -2599,6 +2640,7 @@ Protect AI Platform
 Protege
 Proterra (Chapter 11 / Fleet Battery Systems)
 Proterra EV Battery Chapter 11
+Proterra Electric Transit Bankruptcy Trust
 Proven Companies
 Proximal
 PsiQuantum
@@ -2707,6 +2749,7 @@ Refraction Last Mile Delivery
 Reframe Data Services
 Regrow Ag
 Reka AI
+Reka AI Multimodal Inference Cluster
 Relari
 Relevance AI
 Reliance Health
@@ -2837,6 +2880,7 @@ Salient Predictions
 Sama
 Sama Data Platform
 SambaNova DataScale
+SambaNova SN40L Reconfigurable Inference
 SambaNova Systems
 Samora AI
 Samsung Research
@@ -2904,6 +2948,7 @@ Sendy Logistics (In Administration)
 Sensat Spatial Data
 Sensei
 Sensely Health Restructure
+Sensible 4 Arctic Autonomy Estate
 Sensible 4 Weather Autonomy
 Sensitech Cold Chain
 Sensor Tower Intelligence
@@ -3084,6 +3129,7 @@ Starsky Robotics
 Starsky Robotics (Liquidated Telemetry)
 Starsky Robotics Archive
 Starsky Robotics Cabless
+Starsky Robotics Shuttered Fleet Telemetry
 Startek
 Statice
 Statice / Anonos
@@ -3103,6 +3149,7 @@ Stork Herron Testing Labs
 Storytailors / Fixer Colombia
 Straight Line Roofing and Construction
 Strand AI
+Strata Robotics Subterranean Inspection Lab
 Stream Data Centers
 StreetScooter Fleet Restructuring
 Streetbees Conversational Data
@@ -3121,6 +3168,7 @@ Sunday Robotics
 Sunday Robotics Lab
 Suno
 Suno AI Music
+Suno High-Throughput Generative Audio Backbone
 Supahands Data
 Super Group
 SuperAnnotate
@@ -3145,6 +3193,7 @@ Syapse
 Syapse Oncology Network
 Sylvera Carbon Intelligence
 Symbal
+Symbiosis AI Multi-Agent Economic Sandbox
 Symbolica
 Symbotic Autonomous Logistics
 Symbotic Warehouse
@@ -3168,6 +3217,7 @@ Synthesized
 Synthetic Sciences
 Syntho
 Syntiant Edge Ultra
+Syntropic AI High-Dimensional World Models
 SysGenPro
 T5 Data Centers
 TAUS
@@ -3215,6 +3265,7 @@ Tavily Search API Inference Backbone
 Tavus
 Tavus AI Video Lab
 Tavus Conversational Video
+Tavus Realtime Conversational Video Fleet
 Taylor & Francis / Informa
 TechSpeed
 Techsalerator
@@ -3233,6 +3284,7 @@ TensorWave
 TensorWave AMD Cloud
 TensorWave MI300X Hyperscale
 Tenstorrent
+Tenstorrent RISC-V Accelerator Cluster
 Tenstorrent Wormhole
 Tentamus Group
 TeraWulf
@@ -3287,6 +3339,7 @@ Toplyne Technologies
 Topos Bio
 Torc Robotics Autonomous Freight
 Torc Robotics Autonomy
+Torc Robotics Freight Telemetry Holding
 Torrent Laboratory
 Tortoise Autonomous Mobile
 Tortoise Delivery Teleoperation
@@ -3382,6 +3435,7 @@ Unitree Robotics
 Universal Hydrogen
 Unseenlabs
 Unsloth AI Ultra-Fast Fine-Tuning Cluster
+Unsloth Distributed Kernel Testbed
 Unstructured IO
 Untether AI
 Untether AI Speed
@@ -3424,6 +3478,7 @@ Vdego
 Vecna Autonomous Pallet Jacks
 Vecna Robotics
 Vecna Robotics AMRs
+Vectra Labs Real-Time Sensory Perception
 Veda Solutions
 Veeda Lifesciences
 Veev (Asset Sale / Acquisition)
@@ -3444,6 +3499,7 @@ Verda
 Verifiable AI Formal Verification Lab
 Veris AI
 Veristat CRO
+Veritas AI Theorem Proving Benchmark Lab
 Verity AG Robotics
 Verne Global Iceland
 Vertical Marketplace
@@ -3491,8 +3547,10 @@ Volansi
 Volansi (Liquidated Commercial VTOL Drone Logistics)
 Volocopter
 Volocopter (Struggling German eVTOL / Emergency Funding)
+Volocopter eVTOL Restructuring Unit
 Volta Trucks (Electric Fleet Administration)
 Volta Trucks Restructuring
+Volta Trucks Telematics Liquidation
 Voltage Park
 Volume Graphics
 Vorelios
@@ -3579,6 +3637,7 @@ Worldwide Clinical Trials
 Worldwide Technology Solutions
 Writer
 Writer Enterprise LLM
+Writer Palmyra Dedicated Enterprise Tier
 Writer Palmyra Model Compute
 Wrtn Technologies
 WuXi AppTec Services
@@ -5301,6 +5360,7 @@ uthana
 utho
 v7
 v7 labs
+vLLM Distributed Serving Architecture
 vLLM Project High-Throughput Inference
 vLex
 vLex Global Legal
