@@ -135,6 +135,7 @@ AirWorks AI Geospatial
 Airbus OneAtlas
 Airco Mechanical
 Airly
+Airspace Experience Tech eVTOL Flight Test Telemetry Asset
 Airspace Experience Tech eVTOL Hold
 Airware
 Akamai
@@ -152,6 +153,7 @@ Alegion Data
 Alegra
 Aleph Alpha
 Alerzo
+Alibaba Cloud Model Studio Acceleration Fleet
 Alibaba 阿里巴巴 / Qwen
 Alice
 Align AI / Rubric AI
@@ -273,6 +275,7 @@ Argo AI Autonomous Data
 Argo AI Autonomous Driving IP Trust
 Argo AI Autonomous Mapping
 Argo AI Autonomy Assets
+Argo AI Urban Robotaxi Multimodal Sensor Telemetry Trust
 Arize AI
 Arize AI Observability
 Arize Model Drift Compute
@@ -283,8 +286,10 @@ Arrival
 Arrival (UK Administration / Commercial EV)
 Arrival Electric Mobility
 Arrival Electric Transit Asset Holding
+Arrival Micro-Factory Robotics & Composite Stress Telemetry Asset
 Arterys Medical AI
 Arthur AI
+Arthur AI Enterprise LLM Performance & Risk Guardrails
 Arthur AI Monitoring
 Arthur Model Monitoring Firewall
 Artlist AI
@@ -424,6 +429,7 @@ Beyond Presence
 Bezi
 BharatGPT CoRover
 Bharatsure
+Biconomy Decentralized IoT Gateway Telemetry Asset
 Biconomy Sensor Infrastructure Restructure
 Bicycle Health (Behavioral Health Restructuring)
 Bidvest International Logistics
@@ -444,6 +450,7 @@ Biotrial
 Bird (Chapter 11)
 Bird Global
 Bird Global (Chapter 11 Post-Bankruptcy)
+Bird Global Chapter 11 Micro-Mobility GPS Dataset Trust
 Bird Global Micro-Mobility Restructure
 Bird Rides Restructuring
 Bit Digital Cloud
@@ -456,6 +463,7 @@ Bizon Tech Workstations
 Black Forest Labs
 Black Forest Labs AI
 Black Forest Labs FLUX Infra
+Black Forest Labs FLUX.1 Infra Scaling
 BlackBoiler Editing
 BlackSky Global
 BlackSky Global Intelligence
@@ -556,6 +564,7 @@ Calcoast ITL
 Callosum
 CalypsoAI
 CalypsoAI Enterprise LLM Firewall
+CalypsoAI Generative AI Red Teaming & Security Testbed
 CalypsoAI Trust
 Cambrex
 CameraMatics
@@ -628,6 +637,7 @@ Cescon Barrieu
 Cetecom Testing
 Chai Discovery
 Chai Discovery Bio
+Chai Discovery Molecular Generation & Structure Lab
 Chainalysis Blockchain
 Champions Oncology
 Change Healthcare
@@ -676,6 +686,7 @@ Claru
 CleanSpark HPC
 Cleanlab
 Cleanlab AI
+Cleanlab Automated Dataset Quality & Label Integrity Lab
 Cleanlab Automated Label AI
 Cleanlab Data AI
 Cleanlab Eval Labs
@@ -727,6 +738,7 @@ Cognism Sales Intelligence
 Cognition
 Cognition AI
 Cognition AI Devin
+Cognition AI Devin Autonomous SWE Compute
 Cognition Labs Devin Compute
 Cognitive Action Robotics Laboratory
 Cohere
@@ -766,6 +778,7 @@ Conta Azul
 Conta Simples
 ContactOut Executive Data
 Contextual AI
+Contextual AI Grounded Retrieval Benchmark Lab
 Contextual AI Lab
 Continue Dev
 Continue.dev
@@ -785,6 +798,7 @@ Core Scientific HPC
 Core42
 CoreSite Realty
 CoreWeave
+CoreWeave Accelerated Kubernetes Infrastructure
 CoreWeave Dedicated Clusters
 Cornami AI Compute
 Cornelis Networks
@@ -804,6 +818,7 @@ CourtListener RECAP
 Covalent Metrology
 Covariant
 Covariant Robotics Lab
+Covariant Universal Manipulation Brain RFM-1
 CoveLabs.ai
 Cradle
 Cradle Bio
@@ -824,6 +839,7 @@ Crunchbase Database
 Crunchbase Enterprise Data
 Crusoe
 Crusoe Energy
+Crusoe Energy Clean Compute Superclusters
 Crusoe Energy Cloud
 Crusoe Energy Data Centers
 Cstream Cloud
@@ -960,6 +976,7 @@ DeepX Silicon
 Deepbrain AI Humans
 Deepcell Single Cell
 Deepchecks
+Deepchecks Continuous Validation & LLM Evaluation Lab
 Deepchecks Continuous Validation Lab
 Deepchecks Eval Lab
 Deepchecks Validation
@@ -1040,6 +1057,7 @@ Dynamis Robotics Mobile Bimanual Lab
 Dynamo AI
 Dyno Therapeutics
 E-Solutions
+E2B Sandbox Environments for Autonomous AI Agents
 E2E Networks
 EAG Laboratories
 EC Innovations
@@ -1084,6 +1102,7 @@ Eleos Technologies
 EleutherAI Data Research
 ElevenLabs
 ElevenLabs Data
+ElevenLabs Multilingual Conversational Voice Fleet
 ElevenLabs Voice
 Elicit Research Assistant
 Elicit Research Semantic Cluster
@@ -1095,6 +1114,7 @@ Email contacts
 Embark Trucks
 Embark Trucks (Liquidated / Autonomous Assets)
 Embark Trucks Assets
+Embark Trucks Autonomous Freight Simulator & Driving Telemetry
 Embark Trucks Autonomous Logistics
 Embark Trucks Autonomy Liquidation
 Embark Trucks Restructured
@@ -1158,6 +1178,7 @@ Evisort Contract Intelligence
 Evisort Contracts
 EvolutionaryScale
 EvolutionaryScale ESM
+EvolutionaryScale ESM3 Programmable Biology Lab
 Evoque Data Centers
 Evotec
 Evozyne Proteins
@@ -1203,6 +1224,7 @@ FarmWise
 Fast (shuttered)
 Fast Checkout (Shuttered)
 Fast Radius
+Fast Radius Digital 3D Manufacturing Telemetry Trust
 Fast Radius Digital Manufacturing Trust
 Fast.co
 Fastcase / vLex
@@ -1221,11 +1243,13 @@ Fiddler AI Explainability
 Fiddler Enterprise AI Trust
 Fidson Healthcare
 Field AI
+Field AI Extreme Terrain Autonomous Robotics
 Field AI Robotics
 FieldAI
 Fifth Season
 Figure
 Figure AI
+Figure AI Humanoid Fleet Vision-Language-Action Lab
 Figure AI Robotics
 Fime
 FinStack
@@ -1257,6 +1281,7 @@ Flightradar24
 Flikforge
 Flora
 FluidStack Bare Metal GPU
+FluidStack Global High-Performance GPU Sourcing
 FluidStack Hyperscale GPU
 Fluidstack
 Fly.io
@@ -1473,6 +1498,7 @@ Helsing
 Hermai
 Hesai Technology
 Hetzner Cloud Compute
+Hetzner Cloud Dedicated Server Accelerator Tier
 Hetzner Dedicated
 Hetzner Online
 Heuristic Labs Domain Expert RL Lab
@@ -1539,12 +1565,14 @@ Hydrosat
 Hyperbolic
 Hyperbolic AI Compute
 Hyperbolic AI Decentralized
+Hyperbolic Decentralized GPU Inference Network
 Hyperbolic Labs
 Hyperfusion
 Hyperloop One
 Hyperloop One (Liquidated Assets)
 Hyperloop One (liquidated)
 Hyperloop One Vacuum Tube Assets
+Hyperloop One Vacuum Tube Testbed Telemetry Trust
 Hyperscience
 Hyperstack
 Hypertec Systems
@@ -1576,6 +1604,7 @@ Iambic Therapeutics
 Iceotope Technologies
 Icertis Contract Intelligence
 Ideogram
+Ideogram 2.0 High-Density Inference Supercluster
 Ideogram AI
 Ideogram AI Visual
 Idler
@@ -1620,6 +1649,7 @@ Innoviz LiDAR Data
 Inotiv
 Inovalon
 Inrix Distressed Traffic Telemetry
+Inrix Historical Multi-Decade Global Traffic Telemetry Unit
 Insilico Medicine
 Insilico Medicine AI
 Instabase
@@ -1834,9 +1864,11 @@ Lakera AI Defense
 Lakera AI Threat Defense
 Lalamove
 Lambda
+Lambda GPU Cloud Dedicated Pods
 Lambda Labs
 Lambda Labs Baremetal
 Lambda Labs GPU Clusters
+Lambda Labs Large-Cluster GPU Reservoirs
 Lami
 Lamina Labs
 Lamini
@@ -1915,6 +1947,7 @@ Lightning eMotors Receivership
 Lightricks
 Lightwheel
 Lightyear (Atlas Technologies)
+Lightyear Solar Car Aerodynamic & Photovoltaic Telemetry Holding
 Lightyear Solar Mobility
 Lightyear Solar Mobility Assets
 Lila Sciences
@@ -1936,6 +1969,7 @@ Lionbridge AI
 Lipa Later
 Liqid Inc
 Liquid AI
+Liquid AI Liquid Neural Networks Foundation Architecture
 LiquidStack Immersion
 Lit Motors Gyro
 Livestock Wealth (Pty) Ltd
@@ -1950,6 +1984,7 @@ Locomation Autonomous Convoy
 Locomation Autonomous Convoy Estate
 Locomation Autonomous Following
 Locomation Convoy
+Locomation Tandem Convoy V2V Radar Telemetry Holding
 Locus Robotics
 Locus Robotics Fulfillment Trajectories
 Locus Robotics Pickers
@@ -1975,6 +2010,7 @@ Lulalend / Lula
 Luma AI
 Luma AI 3D
 Luma AI Dream Machine Cluster
+Luma AI Dream Machine Multimodal Acceleration
 Luminance
 Luminance Legal
 Luminance Legal AI
@@ -2126,6 +2162,7 @@ Miljan Gogic
 Milliman MedInsight
 Milvus Zilliz
 Mimic Robotics
+Mimic Robotics Human-Hand Dexterous Manipulation
 Mimix
 MinIO Object Storage
 Mind Robotics
@@ -2262,6 +2299,7 @@ Nearmap Aerial Imagery
 Nearmap Imagery
 Nebius
 Nebius AI Cloud
+Nebius AI European Sovereign GPU Cloud
 Nebius AI Studio Infrastructure
 Nebius Group
 Nebula Alpha
@@ -2316,6 +2354,7 @@ Normec Group
 North Star Imaging
 NorthC
 Northern Data Group
+Northern Data Group Generative AI Compute Fleet
 Northflank
 Northvolt
 Northwest EMC Testing
@@ -2506,6 +2545,7 @@ Persona AI
 Peterman Brothers Indianapolis
 Phantom Auto
 Phantom Auto (Shuttered Teleoperation Assets)
+Phantom Auto Remote Teleoperation Trajectory Holding
 Phantom Auto Teleoperation Estate
 PharmEasy
 Pharmalex Regulatory
@@ -2521,6 +2561,7 @@ Phrase
 Physical Intelligence
 Physical Intelligence Co
 Physical Intelligence Lab
+Physical Intelligence PI0 Universal Robot Foundation Lab
 Physical Intelligence Robotics
 PhysicsX
 PicSee / Billion Hearts
@@ -2573,6 +2614,7 @@ Pony Testing Group
 Poolside
 Poolside AI
 Poolside AI Code Compute
+Poolside Dual-Engine Code Model Scaling
 Porter Cloud
 Portkey AI
 Portkey AI Gateway
@@ -2620,6 +2662,7 @@ Proception.ai
 Prodigy Research
 Profluent
 Profluent Bio
+Profluent Bio De Novo Protein Design Model Lab
 Prognos Health
 Prolific
 Prolytix
@@ -2636,6 +2679,7 @@ Proscia Digital Asset
 Proscia Digital Pathology
 Protect AI
 Protect AI Machine Learning Shield
+Protect AI Machine Learning Vulnerability Defense Lab
 Protect AI Platform
 Protege
 Proterra (Chapter 11 / Fleet Battery Systems)
@@ -2744,6 +2788,7 @@ Refact.ai
 Refact.ai SmallTalk
 Reflect Orbital
 Reflection AI
+Reflection AI Verifiable Reasoning Benchmark Lab
 Refraction AI Delivery
 Refraction Last Mile Delivery
 Reframe Data Services
@@ -2836,6 +2881,7 @@ Rubix Data Sciences
 RudderStack CDP
 Run:ai
 RunPod Cloud
+RunPod Serverless AI Scaling Tier
 Runpod
 Runware
 Runway
@@ -2914,6 +2960,7 @@ ScaleFlux
 ScaleHub
 ScaleMatrix Green
 Scaleway
+Scaleway AI Dedicated Scalable Cluster Tier
 Scenario
 Scenario GG
 Schibsted Media
@@ -3025,12 +3072,14 @@ Skiff (End-to-End Encrypted Docs / Shuttered by Notion)
 Skild AI
 Skild AI Humanoid Lab
 Skild AI Robotics
+Skild AI Scalable Robot Intelligence Foundation
 Skrine
 SkyEngine AI
 SkyFi
 Skycatch Spatial
 Skydio
 Skydio Consumer Drone Asset Sale
+Skydio Consumer Drone Autonomous Flight Data Holding
 Skydio Data Solutions
 Slang AI
 Sleek
@@ -3038,6 +3087,7 @@ Sloyd
 Small Robot Company
 Smallest.ai
 SmartOne
+Smartcar Connected Car Vehicle Sensor API Restructure
 Smartcar Distressed API Platform
 Smartling
 Smartproxy Data
@@ -3058,6 +3108,7 @@ SoftBank Corp
 Soket AI Labs
 SolarSync Infra
 Solaris Mobility Fleet Restructure
+Solaris Public Transit Fleet Battery Telematics Holding
 Soluna Computing
 Solvimate
 Solvitude Solutions
@@ -3069,6 +3120,7 @@ Sonilo
 Soniox
 Sono Motors
 Sono Motors Solar EV
+Sono Motors Solar EV Telemetry Liquidation Holding
 Sono Motors Solar Telemetry Holding
 Soul AI
 Soul AI Human QA
@@ -3125,6 +3177,7 @@ Starry Internet (Chapter 11 Restructuring)
 Starship Technologies
 Starship Technologies Fleet
 Starship Technologies Fleet UK
+Starship Technologies Sidewalk Robot Delivery Video Holding
 Starsky Robotics
 Starsky Robotics (Liquidated Telemetry)
 Starsky Robotics Archive
@@ -3165,6 +3218,7 @@ Suki AI Healthcare
 Sumer
 SunTec India / SunTec.ai
 Sunday Robotics
+Sunday Robotics Everyday Household Autonomous Manipulators
 Sunday Robotics Lab
 Suno
 Suno AI Music
@@ -3178,6 +3232,7 @@ Supermicro Solutions
 Supernal
 Superpedestrian
 Superpedestrian (Shuttered Micromobility)
+Superpedestrian MIT Active Safety Sensor Telemetry Asset
 Superpedestrian Shared Sensor Fleet
 Surge AI
 Sutherland
@@ -3276,6 +3331,7 @@ Telmai Data Observability
 Tempus
 Tempus AI Precision Data
 Tencent Cloud AI
+Tencent Cloud GPU High-Throughput Clusters
 Tencent Hunyuan
 Tensor Robotics Spatial AI Lab
 Tensor.art Generative
@@ -3324,6 +3380,7 @@ Tilleke & Gibbins
 Tive Sensor Tracking
 Tofu AI
 Together AI
+Together AI GPU Cloud Elastic Reservations
 Together AI Infra
 Token Terminal
 Toloka
@@ -3385,6 +3442,7 @@ TrustRadius Software Data
 Trustible
 Truveta Health Intelligence
 TuPrimitive Autonomous Freight
+TuPrimitive Autonomous Freight 12M Mile Driving Data Trust
 TuSimple (US Wind-Down / Autonomous Trucking)
 TuSimple (US Wind-Down)
 TuSimple (US wind-down)
@@ -3465,6 +3523,7 @@ Valohai
 Vals AI
 Value Logistics
 VanMoof
+VanMoof Urban Connected Bicycle Sensor & GPS Telemetry Asset
 VanMoof Urban Telematics BV
 Vana
 Vantage Data Centers
@@ -3632,6 +3691,7 @@ Wordsmith
 Workhorse Group
 Workhorse Group Fleet Hold
 World Labs
+World Labs Large World Models Spatial AI
 WorldEngine AI
 Worldwide Clinical Trials
 Worldwide Technology Solutions
