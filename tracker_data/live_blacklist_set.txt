@@ -16,6 +16,7 @@
 1547 Critical Systems
 1DataPipe
 1X Technologies
+1X Technologies Humanoid Embodiment Lab
 1datapipe
 1upHealth
 1x technologies
@@ -103,6 +104,7 @@ Aether Robotics Humanoid Agility Testbed
 Aethir
 Aethir Cloud Network
 Aethir Decentralized GPU Cloud
+Aethir Distributed GPU Cloud
 Aetina Embedded Edge
 Aetion Real World Evidence
 Aeva
@@ -117,6 +119,7 @@ AgentOps
 Agilent Chemical
 Agility
 Agility Robotics
+Agility Robotics Digit Logistics Testbed
 Agiloft Contract Ops
 Agilus Diagnostics
 Agreena
@@ -137,6 +140,7 @@ Airco Mechanical
 Airly
 Airspace Experience Tech eVTOL Flight Test Telemetry Asset
 Airspace Experience Tech eVTOL Hold
+Airspace Experience eVTOL Flight Test Log Asset
 Airware
 Akamai
 Akash Network
@@ -253,6 +257,7 @@ Applus+
 Applus+ Laboratories
 Apptopia Mobile Data
 Apptronik
+Apptronik Apollo Manipulation Lab
 Aptera Motors Original
 Aptera Solar Mobility Hold
 Aptum
@@ -452,6 +457,7 @@ Bird Global
 Bird Global (Chapter 11 Post-Bankruptcy)
 Bird Global Chapter 11 Micro-Mobility GPS Dataset Trust
 Bird Global Micro-Mobility Restructure
+Bird Global Micromobility Fleet Shock & GPS Asset
 Bird Rides Restructuring
 Bit Digital Cloud
 BitSight Security Metrics
@@ -487,6 +493,7 @@ Bossa Nova Robotics
 Bossa Nova Robotics (Liquidated Retail Vision)
 Bosta
 Boston Dynamics
+Boston Dynamics AI Perception Institute
 Bowery Farming
 Bowery Valuation (Restructuring)
 Bowery Valuation (restructuring)
@@ -622,12 +629,14 @@ Census Sync ETL
 Censys Internet Intelligence
 CentML
 CentML Optimization
+CentML Optimization Infra
 Centaur Labs
 Cerebral (Restructuring)
 Cerebras Compute Cloud
 Cerebras Systems
 Cerebras Systems High-Performance Model Fleet
 Cerebrium
+Cerebrium Serverless GPU Fleet
 Cerebrum AI Neurosymbolic Evaluation Testbed
 CerebrumX
 Cerence AI
@@ -746,6 +755,7 @@ Cohere Multi-Region Enterprise Cluster
 CohesionX
 Coin Metrics Network
 Colfax International
+Collaborative Robotics Teleop Fleet
 Collinear AI
 Cologix Interconnect
 Color (Color Health)
@@ -754,6 +764,7 @@ Comet ML
 Comet Yxlon
 Comfort Systems USA
 Common Crawl
+Common Sense Machines World Simulation Cluster
 Compal Electronics
 Company
 Company Name
@@ -815,6 +826,7 @@ CourtListener (Free Law Project)
 CourtListener Free Law
 CourtListener Legal Data
 CourtListener RECAP
+Coval Multi-Agent Simulation Benchmark
 Covalent Metrology
 Covariant
 Covariant Robotics Lab
@@ -1004,6 +1016,7 @@ Desktop Metal Merger Hold
 Destro AI
 Dext
 Dexterity
+Dextrous Robotics Logistics Manipulator Telemetry Asset
 Dhvani AI
 Dhvani AI Audio
 Dhvani.Ai
@@ -1116,12 +1129,14 @@ Embark Trucks (Liquidated / Autonomous Assets)
 Embark Trucks Assets
 Embark Trucks Autonomous Freight Simulator & Driving Telemetry
 Embark Trucks Autonomous Logistics
+Embark Trucks Autonomous Logistics Telemetry Asset
 Embark Trucks Autonomy Liquidation
 Embark Trucks Restructured
 Ember AI Physical World Foundation Lab
 Embodied AI Industrial Manipulation Lab
 Emergence AI
 Emergent
+Emergent Autonomous Software Lab
 Emergent Mind Reasoning Benchmark Lab
 Empyrion DC
 Emulated
@@ -1224,6 +1239,7 @@ FarmWise
 Fast (shuttered)
 Fast Checkout (Shuttered)
 Fast Radius
+Fast Radius Additive CNC Manufacturing Telemetry Asset
 Fast Radius Digital 3D Manufacturing Telemetry Trust
 Fast Radius Digital Manufacturing Trust
 Fast.co
@@ -1232,6 +1248,7 @@ Fastcase Law Data
 Fastcase Legal Data
 Fastino
 Feather Robotics
+FedML Decentralized Cluster
 Fenergo Client Lifecycle
 Fern
 Fern / Ishiki Labs
@@ -1332,6 +1349,7 @@ GHGSat
 GHN / Giao Hang Nhanh
 GLG Gerson Lehrman Insights
 GMI Cloud
+GMI Cloud Enterprise Cluster
 GPU Mart
 GPU Rental Group
 GRC Liquid Cooling
@@ -1384,6 +1402,7 @@ Getaround (Restructured Carsharing)
 Getty Images
 Ghost Autonomy
 Ghost Autonomy (Shuttered / Assets Available)
+Ghost Autonomy Consumer ADAS Perception Logs
 Ghost Autonomy Shuttered
 Ghost Robotics
 Gideon Brothers
@@ -1423,6 +1442,7 @@ Green Mountain
 Green Mountain Data
 Green Mountain Norway
 Greptile
+Greptile Large-Scale Code Evaluation Foundry
 Gretel Labs
 Gretel.ai
 GreyNoise Telemetry
@@ -1437,6 +1457,7 @@ Groq LPU Cloud
 Groq LPU High-Density Inference Backbone
 Guardant Health Liquid Data
 Guidepoint Global Expert
+Gumloop Complex Agent Workflow Testbed
 H Company
 H5 Data Centers
 HERE Technologies
@@ -1505,6 +1526,7 @@ Heuristic Labs Domain Expert RL Lab
 Hex Data Technologies
 Hexagon Geospatial
 HeyGen
+HeyGen High-Throughput Video Pipeline
 HeyGen Video AI
 HiPhi (Human Horizons)
 HiddenLayer
@@ -1565,6 +1587,7 @@ Hydrosat
 Hyperbolic
 Hyperbolic AI Compute
 Hyperbolic AI Decentralized
+Hyperbolic Decentralized Cloud
 Hyperbolic Decentralized GPU Inference Network
 Hyperbolic Labs
 Hyperfusion
@@ -1676,6 +1699,7 @@ Invisible Tech
 Invisible Technologies
 Invitae (Chapter 11 / Genetic Variant Data)
 Inworld AI
+Inworld AI Real-Time Agent Engine
 Iris Energy IREN
 Iron Mechanical
 Iron Ox
@@ -1735,6 +1759,7 @@ KPJ Healthcare
 Kaedim
 Kaedim (3D Mesh AI Training Datasets)
 Kaedim 3D
+Kaedim 3D Generative Mesh Cluster
 Kahun Medical AI
 Kaiber
 Kaiko Market Data
@@ -1760,6 +1785,7 @@ Katerra (liquidated)
 Katerra Construction
 Katerra Construction (Liquidated Assets)
 Kavak
+Kavida AI Supply Chain Risk Telemetry Hub
 Kayrros
 Kayrros Energy Analytics
 Keecker Home Robot Assets
@@ -1790,6 +1816,7 @@ Kitty Hawk (Liquidated eVTOL Telemetry)
 Kiwa Group
 Kiwibot Autonomous Fleet
 Kiwibot Delivery Fleet
+Kiwigrid Energy Grid IoT Telemetry Asset
 Klap AI
 Kling AI Video
 Klinik Healthcare Solutions
@@ -1869,6 +1896,7 @@ Lambda Labs
 Lambda Labs Baremetal
 Lambda Labs GPU Clusters
 Lambda Labs Large-Cluster GPU Reservoirs
+Lambda Labs Scalable Supercluster Fleet
 Lami
 Lamina Labs
 Lamini
@@ -1948,12 +1976,14 @@ Lightricks
 Lightwheel
 Lightyear (Atlas Technologies)
 Lightyear Solar Car Aerodynamic & Photovoltaic Telemetry Holding
+Lightyear Solar EV Dynamic Telemetry Asset
 Lightyear Solar Mobility
 Lightyear Solar Mobility Assets
 Lila Sciences
 Lilium
 Lilium (Insolvency Proceedings / eVTOL Aerospace)
 Lilium Aviation Liquidation Estate
+Lilium eVTOL Flight Dynamics Telemetry Trust
 Lilt
 LimX Dynamics
 Limestone Networks, Inc.
@@ -1982,6 +2012,7 @@ Local Motors Shuttered
 Locomation (Shuttered / Autonomous Convoy)
 Locomation Autonomous Convoy
 Locomation Autonomous Convoy Estate
+Locomation Autonomous Convoy Radar Telemetry Asset
 Locomation Autonomous Following
 Locomation Convoy
 Locomation Tandem Convoy V2V Radar Telemetry Holding
@@ -2010,6 +2041,7 @@ Lulalend / Lula
 Luma AI
 Luma AI 3D
 Luma AI Dream Machine Cluster
+Luma AI Dream Machine GPU Cluster
 Luma AI Dream Machine Multimodal Acceleration
 Luminance
 Luminance Legal
@@ -2039,6 +2071,7 @@ Macgence
 Macgence Data
 Machado Meyer
 Machina Labs AI
+Machina Labs Robocraftsman Form Foundry
 Macquarie Data Centres
 Made.com (Administration / Brand Sold)
 Magic AI
@@ -2115,6 +2148,7 @@ Megabyte Axis Sdn Bhd
 Meilisearch
 Meituan
 Melius
+Mem0 Continuous Memory Benchmark
 Memed
 Mendel AI
 Mendel AI Clinical NLP
@@ -2440,6 +2474,7 @@ Orbital Insight
 Orbital Insight Geospatial
 Orbital Sidekick
 Ori
+Ori Cloud Sovereign GPU Infrastructure
 Ori Industries
 Origami Robotics
 Orion Physical AI Teleoperation Rig
@@ -2545,6 +2580,7 @@ Persona AI
 Peterman Brothers Indianapolis
 Phantom Auto
 Phantom Auto (Shuttered Teleoperation Assets)
+Phantom Auto Remote Teleoperation Trajectory Asset
 Phantom Auto Remote Teleoperation Trajectory Holding
 Phantom Auto Teleoperation Estate
 PharmEasy
@@ -2581,6 +2617,7 @@ PitchBook
 PitchBook Data Inc
 PitchBook Private Data
 PitchBook Private Markets
+Pivot Robots Factory Vision Lab
 Pix4D Photogrammetry
 PixVerse
 Pixxel
@@ -2591,6 +2628,7 @@ Platform Science
 PlayAI
 PlayHT
 PlayHT Generative Audio
+PlayHT Ultra-Low Latency Voice Pods
 PlaytestCloud
 Pleias
 Plenty
@@ -2644,6 +2682,7 @@ Prime Data Centers
 Prime Intellect
 Prime Intellect Compute
 Prime Intellect Compute Hub
+Prime Intellect Distributed Cloud
 Prime Trust (Chapter 11 / Custodial Datasets)
 PrimeCompute
 Primer AI NLP
@@ -2784,6 +2823,7 @@ Reddington Hospital
 Rednote / Xiaohongshu
 Reducto
 Reducto AI
+Reducto AI Document Vision Benchmark
 Refact.ai
 Refact.ai SmallTalk
 Reflect Orbital
@@ -2796,6 +2836,7 @@ Regrow Ag
 Reka AI
 Reka AI Multimodal Inference Cluster
 Relari
+Relari AI Synthetic RL Testbed
 Relevance AI
 Reliance Health
 Reliant AI
@@ -2855,6 +2896,7 @@ Roambee Telemetry
 Robin AI
 Robin AI Legal
 Robin AI Legal Contracts
+RoboTire Automotive Servicing Kinematic Telemetry Asset
 Robocurve
 Roboflow
 Roboflow Data
@@ -2881,6 +2923,7 @@ Rubix Data Sciences
 RudderStack CDP
 Run:ai
 RunPod Cloud
+RunPod Distributed Compute Pods
 RunPod Serverless AI Scaling Tier
 Runpod
 Runware
@@ -2917,6 +2960,7 @@ Sakana AI
 Sakana AI Tokyo
 Sakti3 Battery
 Sakura Internet
+Salad Cloud Distributed Worker Cluster
 SaladCloud
 Salem Robotics
 SalesIntel B2B
@@ -2933,11 +2977,13 @@ Samsung Research
 San Francisco Data
 Sanborn
 Sanctuary AI
+Sanctuary AI Phoenix Biomechanical Lab
 SandAI
 SandboxAQ
 Sanlam
 Santiment Sentiment
 Santos Brasil
+Saphira AI Physical Safety Benchmark
 Sapien
 Sarcos Technology and Robotics
 Sarvam AI
@@ -3061,6 +3107,7 @@ Simbec-Orion
 Similarweb
 Similarweb Digital
 Similarweb Digital Data
+Simplismart Inference Acceleration
 Simular
 Simulations Plus
 Singhania & Partners
@@ -3073,6 +3120,7 @@ Skild AI
 Skild AI Humanoid Lab
 Skild AI Robotics
 Skild AI Scalable Robot Intelligence Foundation
+Skild AI Universal Robot Foundation Lab
 Skrine
 SkyEngine AI
 SkyFi
@@ -3085,6 +3133,7 @@ Slang AI
 Sleek
 Sloyd
 Small Robot Company
+Small Robot Company Agricultural Vision Telemetry Asset
 Smallest.ai
 SmartOne
 Smartcar Connected Car Vehicle Sensor API Restructure
@@ -3234,6 +3283,7 @@ Superpedestrian
 Superpedestrian (Shuttered Micromobility)
 Superpedestrian MIT Active Safety Sensor Telemetry Asset
 Superpedestrian Shared Sensor Fleet
+Superpedestrian Vehicle Intelligence Telemetry Asset
 Surge AI
 Sutherland
 Suzy Consumer Insights
@@ -3320,11 +3370,13 @@ Tavily Search API Inference Backbone
 Tavus
 Tavus AI Video Lab
 Tavus Conversational Video
+Tavus Conversational Video Supercluster
 Tavus Realtime Conversational Video Fleet
 Taylor & Francis / Informa
 TechSpeed
 Techsalerator
 Tegus Alpha Insights
+Tekton Dynamics Adaptive Welding Lab
 Telehouse KDDI
 Telispac Digital
 Telmai Data Observability
@@ -3448,6 +3500,7 @@ TuSimple (US Wind-Down)
 TuSimple (US wind-down)
 TuSimple Autonomous Trucks
 TuSimple Highway Freight
+TuSimple Long-Haul Trucking Telematics Trust
 TuSimple Trucking
 Tuft & Needle (Serta Simmons Bankruptcy)
 Tupelo / Gro Intelligence (Climate Data Shutdown)
@@ -3606,11 +3659,14 @@ Volansi
 Volansi (Liquidated Commercial VTOL Drone Logistics)
 Volocopter
 Volocopter (Struggling German eVTOL / Emergency Funding)
+Volocopter Vertiport & UAM Sensor Log Asset
 Volocopter eVTOL Restructuring Unit
 Volta Trucks (Electric Fleet Administration)
+Volta Trucks Heavy Commercial EV Sensor Asset
 Volta Trucks Restructuring
 Volta Trucks Telematics Liquidation
 Voltage Park
+Voltage Park Bare-Metal Reservations
 Volume Graphics
 Vorelios
 Vortexa Energy Data
@@ -3646,6 +3702,7 @@ Wayve
 Wayve AI Mobility
 WeWork (Post-Bankruptcy Assets)
 Weave Robotics
+Weave Robotics Humanoid Eval Foundry
 WeaveGrid (EV Fleet Grid Load Telemetry)
 Webair Cloud
 Webber Wentzel
@@ -3688,6 +3745,7 @@ WonderTx
 WongPartnership
 Woolpert
 Wordsmith
+Wordware Agentic IDE Simulation Lab
 Workhorse Group
 Workhorse Group Fleet Hold
 World Labs
@@ -3705,6 +3763,7 @@ WuXi AppTec Testing
 Wyvern
 X Square Robot
 X-Humanoid
+XACT Robotics Medical Navigation Telemetry Asset
 XPeng Robotics
 Xaira Therapeutics
 Xeneta
@@ -3750,6 +3809,7 @@ Zongmu Technology
 ZoomInfo Technologies
 Zulily (Liquidated E-Commerce Assets)
 Zume (shuttered)
+Zume Autonomous Food Robotics Fleet Asset
 Zume Pizza
 Zume Pizza (Liquidated)
 Zume Pizza Robotics
